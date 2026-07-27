@@ -1,0 +1,7 @@
+in_memory_resume_scraper:
+  max_stream_size_mb: 10          # Abort fetch if PDF exceeds this size in RAM
+  max_pages_to_parse: 3           # Limit parsing to first N pages
+  regex_prefilter_enabled: true   # Use fast regex pass before calling LLM
+  llm_model: "gpt-4o-mini"
+  temperature: 0.0
+
