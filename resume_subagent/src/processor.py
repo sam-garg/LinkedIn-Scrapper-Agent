@@ -51,9 +51,10 @@ class InMemoryResumeProcessor:
         self.parser = InMemoryDocumentParser()
         self.regex_extractor = RegexExtractor()
         self.llm_extractor = LLMExtractor(
-            api_key=self.config.openai_api_key,
+            api_key=self.config.api_key,
             model=self.config.llm_model,
             temperature=self.config.temperature,
+            provider=self.config.llm_provider,
         )
 
     async def process(self, inp: ResumeScraperInput) -> ResumeScraperOutput:
@@ -107,11 +108,22 @@ class InMemoryResumeProcessor:
                     extracted[field] = value
                     extraction_method[field] = "regex_pass"
                     logger.debug("Regex resolved field '%s'.", field)
+                else:
+                    logger.debug("Regex did NOT resolve field '%s'.", field)
 
         # Determine which fields still need LLM extraction
         remaining_fields = [
             f for f in inp.missing_fields if f not in extraction_method
         ]
+        if remaining_fields:
+            logger.info(
+                "Regex resolved %d/%d fields. Still need LLM for: %s",
+                len(extracted),
+                len(inp.missing_fields),
+                remaining_fields,
+            )
+        else:
+            logger.info("All missing fields resolved by regex. Skipping LLM.")
 
         # ── Step 4: LLM Fallback for remaining fields ─────────────────
         llm_delta: Optional[ExtractedData] = None
@@ -129,6 +141,12 @@ class InMemoryResumeProcessor:
                     if value is not None and value != []:
                         extracted[field] = value
                         extraction_method[field] = "llm_pass"
+            else:
+                logger.error(
+                    "LLM extraction returned None for fields: %s. "
+                    "Check API key, provider config, and model availability.",
+                    remaining_fields,
+                )
 
         # ── Step 5: Memory Cleanup ────────────────────────────────────
         self._cleanup(buffer)

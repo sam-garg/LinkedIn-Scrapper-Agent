@@ -26,14 +26,17 @@ class ResumeScraperConfig(BaseSettings):
     regex_prefilter_enabled: bool = Field(
         default=True, description="Use fast regex pass before calling the LLM."
     )
+    llm_provider: str = Field(
+        default="google", description="LLM provider: 'google' (Gemini) or 'openai'."
+    )
     llm_model: str = Field(
-        default="gpt-4o-mini", description="OpenAI model identifier for LLM extraction."
+        default="gemini-2.0-flash", description="Model identifier for LLM extraction (e.g., gemini-2.0-flash, gpt-4o-mini)."
     )
     temperature: float = Field(
         default=0.0, ge=0.0, le=2.0, description="LLM temperature setting."
     )
-    openai_api_key: Optional[str] = Field(
-        default=None, description="OpenAI API key. Falls back to OPENAI_API_KEY env var."
+    api_key: Optional[str] = Field(
+        default=None, description="LLM API key. Falls back to RESUME_AGENT_API_KEY or GEMINI_API_KEY/OPENAI_API_KEY env vars."
     )
 
     class Config:
