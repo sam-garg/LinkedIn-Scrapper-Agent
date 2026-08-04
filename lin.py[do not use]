@@ -1,0 +1,208 @@
+"""Playwright + Chromium LinkedIn people-search scraper."""
+
+from __future__ import annotations
+
+import asyncio
+import random
+import urllib.parse
+from pathlib import Path
+
+from playwright.async_api import Page, async_playwright
+
+from config import (
+    HEADLESS,
+    LINKEDIN_EMAIL,
+    LINKEDIN_PASSWORD,
+    MAX_DELAY,
+    MAX_PAGES_PER_UNIVERSITY,
+    MIN_DELAY,
+    STORAGE_STATE,
+    USER_AGENT,
+)
+
+GOOGLE_SEARCH_URL = "https://www.google.com/search"
+
+
+async def _pause(factor: float = 1.0) -> None:
+    await asyncio.sleep(random.uniform(MIN_DELAY, MAX_DELAY) * factor)
+
+
+class LinkedInScraper:
+    def __init__(self) -> None:
+        self._pw = None
+        self._browser = None
+        self._context = None
+        self.page: Page | None = None
+
+    # ---------- lifecycle ----------
+
+    async def start(self) -> None:
+        self._pw = await async_playwright().start()
+        self._browser = await self._pw.chromium.launch(
+            headless=HEADLESS,
+            args=["--disable-blink-features=AutomationControlled", "--no-sandbox"],
+        )
+        state = STORAGE_STATE if Path(STORAGE_STATE).exists() else None
+        self._context = await self._browser.new_context(
+            storage_state=state,
+            user_agent=USER_AGENT,
+            viewport={"width": 1440, "height": 900},
+            locale="en-US",
+        )
+        await self._context.add_init_script(
+            "Object.defineProperty(navigator,'webdriver',{get:()=>undefined});"
+        )
+        self.page = await self._context.new_page()
+
+    async def _new_page(self) -> Page:
+        assert self._context
+        page = await self._context.new_page()
+        return page
+
+    async def close(self) -> None:
+        if self._context:
+            await self._context.storage_state(path=STORAGE_STATE)
+        if self._browser:
+            await self._browser.close()
+        if self._pw:
+            await self._pw.stop()
+
+    # ---------- auth ----------
+
+    async def login(self, no_login: bool = False) -> None:
+        if no_login or not LINKEDIN_EMAIL or not LINKEDIN_PASSWORD:
+            print("[auth] skipping LinkedIn login because credentials are not configured or --no-login was used")
+            return
+
+        page = self.page
+        assert page
+        await page.goto("https://www.linkedin.com/feed/", wait_until="domcontentloaded")
+        await _pause(0.4)
+
+        if "/feed" in page.url and await page.locator("input.search-global-typeahead__input").count():
+            print("[auth] reusing saved session")
+            return
+
+        print("[auth] logging in with credentials from .env")
+        await page.goto("https://www.linkedin.com/login", wait_until="domcontentloaded")
+        await page.fill("#username", LINKEDIN_EMAIL)
+        await _pause(0.2)
+        await page.fill("#password", LINKEDIN_PASSWORD)
+        await _pause(0.2)
+        await page.click("button[type=submit]")
+        await page.wait_for_load_state("domcontentloaded")
+        await _pause()
+
+        if any(x in page.url for x in ("checkpoint", "challenge", "add-phone")):
+            print(
+                "[auth] LinkedIn security checkpoint hit.\n"
+                "       Solve it in the open browser window (set HEADLESS=false), "
+                "then press Enter here."
+            )
+            await asyncio.get_event_loop().run_in_executor(None, input)
+
+        await self._context.storage_state(path=STORAGE_STATE)
+        print("[auth] session saved to", STORAGE_STATE)
+
+    # ---------- scrolling ----------
+
+    async def scroll_results(self, page: Page) -> None:
+        """Scroll the page vertically until the document finishes loading."""
+        await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        await asyncio.sleep(random.uniform(0.8, 1.4))
+        await page.evaluate("window.scrollTo(0, 0)")
+
+    # ---------- extraction ----------
+
+    async def _accept_google_consent(self, page: Page) -> None:
+        buttons = page.locator('button')
+        for i in range(await buttons.count()):
+            label = (await buttons.nth(i).inner_text()).strip().lower()
+            if any(term in label for term in ["i agree", "accept all", "agree"]):
+                try:
+                    await buttons.nth(i).click()
+                    await _pause(0.4)
+                    return
+                except Exception:
+                    continue
+
+    async def _extract_google_results(self, page: Page) -> list[dict]:
+        return await page.evaluate(
+            """() => {
+                const trimTrailingSlashes = (value) => {
+                    while (value.endsWith('/')) {
+                        value = value.slice(0, -1);
+                    }
+                    return value;
+                };
+                const rows = [];
+                const anchors = Array.from(document.querySelectorAll('a[href*="linkedin.com/in/"]'));
+                for (const anchor of anchors) {
+                    let href = anchor.getAttribute('href') || '';
+                    if (href.startsWith('/url?')) {
+                        const params = new URLSearchParams(href.slice(href.indexOf('?')));
+                        href = params.get('q') || '';
+                    }
+                    if (!href || !href.includes('linkedin.com/in/')) continue;
+                    const url = trimTrailingSlashes(href.split('?')[0]);
+                    const text = anchor.closest('div')?.innerText.trim() || anchor.innerText.trim();
+                    rows.push({url, text});
+                }
+                return rows;
+            }"""
+        )
+
+    async def collect_blob(self, rows: list[dict]) -> str:
+        return "\n---\n".join(
+            f"URL: {row['url']}\nCARD: {row['text']}" for row in rows
+        )
+
+    async def search_university(
+        self, university: str, aliases: list[str] | None = None
+    ) -> list[str]:
+        """Run the people search filtered by school (name + aliases);
+        return one text blob per results page."""
+        page = self.page
+        assert page
+        blobs: list[str] = []
+
+        # Query the official name first, then each alias (LinkedIn's school
+        # filter often only matches the short form, e.g. "UCLA").
+        terms = [university] + [a for a in (aliases or []) if a.strip().casefold() != university.casefold()]
+
+        for term in terms:
+            query = f'site:linkedin.com/in "{term}"'
+            for page_no in range(MAX_PAGES_PER_UNIVERSITY):
+                page = await self._new_page()
+                try:
+                    params = {"q": query, "num": "10", "start": str(page_no * 10)}
+                    url = f"{GOOGLE_SEARCH_URL}?{urllib.parse.urlencode(params)}"
+                    await page.goto(url, wait_until="domcontentloaded")
+                    await page.wait_for_load_state("networkidle")
+                    await _pause(0.5)
+
+                    if "consent" in page.url:
+                        await self._accept_google_consent(page)
+
+                    if not await page.locator('#search').count():
+                        print(f"    [{term}] page {page_no + 1}: no search results rendered, stopping")
+                        break
+
+                    rows = await self._extract_google_results(page)
+                    if not rows:
+                        print(f"    [{term}] page {page_no + 1}: no LinkedIn results found, stopping")
+                        break
+
+                    await self.scroll_results(page)
+                    blob = await self.collect_blob(rows)
+                    if not blob.strip():
+                        break
+
+                    blobs.append(blob)
+                    print(f"    [{term}] page {page_no + 1}: captured {len(rows)} LinkedIn links")
+                    await _pause()
+                finally:
+                    await page.close()
+
+        return blobs
+

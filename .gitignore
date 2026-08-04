@@ -1,6 +1,5 @@
-.env
-__pycache__/
-*.pyc
-storage_state.json
 .venv/
-venv/
+.env
+storage_state.json
+*.csv
+__pycache__/

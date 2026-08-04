@@ -1,0 +1,95 @@
+"""Entry point.
+
+Usage:
+    python main.py --input universities.json
+    python main.py --input universities.pdf --limit 10
+"""
+
+from __future__ import annotations
+
+import argparse
+import asyncio
+import csv
+from pathlib import Path
+
+import db
+from gemini_extract import extract_students
+from input_parser import load_universities
+from linkedin_scraper import LinkedInScraper
+
+
+async def run(input_path: str, limit: int | None, export: str | None, no_login: bool = False) -> None:
+    parsed = load_universities(input_path)
+    print(f"[input] {len(parsed)} universities parsed from {input_path}")
+
+    alias_map = {p["name"].casefold(): p.get("aliases") or [] for p in parsed}
+
+    db.upsert_universities(parsed)
+    queue = db.pending_universities()
+    if limit:
+        queue = queue[:limit]
+    print(f"[queue] {len(queue)} universities to process\n")
+
+    scraper = LinkedInScraper()
+    all_rows: list[dict] = []
+
+    try:
+        await scraper.start()
+        await scraper.login(no_login=no_login)
+
+        for i, uni in enumerate(queue, 1):
+            name = uni["name"]
+            aliases = alias_map.get(name.casefold(), [])
+            print(f"[{i}/{len(queue)}] {name}" + (f"  (aliases: {', '.join(aliases)})" if aliases else ""))
+            db.set_status(uni["id"], "in_progress")
+
+            try:
+                blobs = await scraper.search_university(name, aliases)
+                students: list[dict] = []
+                seen: set[str] = set()
+
+                for blob in blobs:
+                    for s in extract_students(blob, name, aliases):
+                        if s["profile_url"] not in seen:
+                            seen.add(s["profile_url"])
+                            students.append(s)
+
+
+                saved = db.save_students(uni["id"], students)
+                db.set_status(uni["id"], "done")
+                print(f"    -> {saved} profiles saved\n")
+
+                for s in students:
+                    all_rows.append({**s, "university": name})
+
+            except Exception as exc:
+                db.set_status(uni["id"], "failed", str(exc)[:500])
+                print(f"    !! failed: {exc}\n")
+
+    finally:
+        await scraper.close()
+
+    if export and all_rows:
+        out = Path(export)
+        with out.open("w", newline="", encoding="utf-8") as fh:
+            writer = csv.DictWriter(
+                fh, fieldnames=["university", "full_name", "headline", "location", "profile_url"]
+            )
+            writer.writeheader()
+            writer.writerows(all_rows)
+        print(f"[export] {len(all_rows)} rows written to {out}")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="LinkedIn student profile scraper")
+    parser.add_argument("--input", required=True, help="Path to universities .json or .pdf")
+    parser.add_argument("--limit", type=int, help="Only process the first N universities")
+    parser.add_argument("--export", help="Optional CSV output path")
+    parser.add_argument("--no-login", action="store_true", help="Skip LinkedIn login and use Google site search instead")
+    args = parser.parse_args()
+
+    asyncio.run(run(args.input, args.limit, args.export, args.no_login))
+
+
+if __name__ == "__main__":
+    main()
