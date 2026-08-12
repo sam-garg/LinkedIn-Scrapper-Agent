@@ -1,0 +1,69 @@
+EXTRACTED LINKEDIN PROFILE DATA
+================================================================================
+
+================================================================================
+PROFILE 1
+================================================================================
+
+URL:
+https://www.linkedin.com/in/manvi-mishra-3b6326343/
+
+Name: Manvi Mishra
+
+Contact Number: Not Found
+
+Email: Not Found
+
+Technology: Graphic Design, HTML, Java, Cascading Style Sheets (CSS), JavaScript, Three.js, C, C#, Python, CSS, React, Unity, JSON, Git, GitHub, Git Bash, Markdown, Electron.js, Electron, AR, VR, XR, Metaverse, AI, Machine Learning
+
+University:
+Banasthali Vidyapith, IIIT Allahabad, IIT Guwahati, IIT Patna, JNU Delhi, Kent State University, University of South Dakota
+
+LinkedIn Link: Not Found
+
+Other Links: https://manvimishra15.github.io/portfolio3d/, https://lnkd.in/gedCwkP3, https://lnkd.in/ghMFExd4, https://lnkd.in/d-Cebxgd
+
+================================================================================
+PROFILE 2
+================================================================================
+
+URL:
+https://www.linkedin.com/in/shivaaam-garg
+
+Name: Shivam Garg
+
+Contact Number: Not Found
+
+Email: Not Found
+
+Technology: Python, GenAI, Oracle APEX, SQL, Generative AI, PL/SQL, REST APIs, RAG, Internet of Things, IoT
+
+University:
+Vivekananda Institute of Professional Studies, VIPS TC - School of Engineering & Technology
+
+LinkedIn Link: Not Found
+
+Other Links: https://lnkd.in/gC9y9mWt
+
+================================================================================
+PROFILE 3
+================================================================================
+
+URL:
+https://www.linkedin.com/in/caitlin-gee
+
+Name: Caitlin Gee
+
+Contact Number: Not Found
+
+Email: Not Found
+
+Technology: Not Found
+
+University:
+Icahn School of Medicine at Mount Sinai, Icahn School of Medicine, Mt. Sinai
+
+LinkedIn Link: Not Found
+
+Other Links: Not Found
+

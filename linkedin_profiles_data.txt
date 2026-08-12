@@ -1,0 +1,1515 @@
+RAW LINKEDIN PROFILE DATA
+================================================================================
+
+================================================================================
+PROFILE 1
+================================================================================
+
+URL:
+https://www.linkedin.com/in/manvi-mishra-3b6326343/
+
+Manvi Mishra
+
+She/Her
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+Jaipur, Rajasthan, India
+
+·
+
+Contact info
+
+AlgoByte
+
+Banasthali Vidyapith
+
+500+
+
+connections
+
+Message
+Follow
+More
+About
+
+Hi there! I'm currently a second year student at Banasthali Vidyapith, where I am exploring my passion for coding and graphic designing. I love learning new technologies and turning creative ideas into impactful solutions.
+
+I'm also an active member of my college's technical team, Algobyte, where I contribute as a graphic designer. Collaborating with like-minded individuals on projects fuels my curiosity and helps me grow both creatively and technically.
+… more
+
+Top skills
+
+Graphic Design • HTML • Java • Cascading Style Sheets (CSS) • JavaScript
+
+Featured
+
+Link
+
+Portfolio 
+
+https://manvimishra15.github.io/portfolio3d/
+
+Post
+
+✨ Barclays Hack O Hire 2026 ✨
+
+Grateful to have been shortlisted for the Barclays Hack O Hire Hackathon and to get the opportunity to visit the Barclays Gurugram campus — truly an inspiring experience and a glimpse into the corporate world.
+
+I’m also incredibly thankful to my mentors, Amit Kamra Sir and Smita Mam — they were absolutely amazing throughout the journey. From guiding us at every step to sharing deep industry insights and pushing us to think better, they genuinely made this experience so much more valuable.
+
+💡 Our Project
+Along with my amazing teammates — Manya Srivastava , Kritika Upreti, Nihanshi Goyal, and Bhumi Agarwal— we worked on SAR Narrative Generation with Audit Trail, focusing on building a structured and reliable solution ensuring transparency and traceability.
+
+🚀 Interview Experience
+I’m also excited to share that I was further shortlisted for the interview round after the hackathon— my first ever interview experience! It went really well, and I had the opportunity to interact with Bharat Batra Sir- my interviewer. Regardless of the outcome, I’ll definitely carry all the learnings forward.
+
+🌱 What I Gained
+This journey strengthened my problem-solving, teamwork, and presentation skills, and also helped me identify areas to improve — especially technical depth and confidence under pressure.
+
+Truly grateful for this experience and everything it taught me! 🚀
+
+#Barclays #HackOHire #HackathonExperience #Learning #Growth #FirstInterview
+
+400 reactions · 24 comments
+400 · 24 comments
+
+Post
+
+✨🏆 Grateful. Excited. Proud — and still processing this win! 🏆✨
+I’m thrilled to share that my team secured 2nd Runner-Up (3rd Prize) at Hack Celestia — a National Level Hackathon hosted at Banasthali Vidyapith . Competing with teams from outside Banasthali (including international participation 🌍) and finishing in the Top 3 has been an unforgettable moment for us.
+
+This was an intense 48-hour hackathon, which effectively extended close to three days, and tested us at every step — rapid building ⚡, continuous iteration 🔁, last-minute debugging 🛠️, and high-pressure rounds. After going through three rounds of eliminations, standing among the winners feels incredibly rewarding 🥹✨ — it truly reflects the hard work and teamwork we put in.
+
+🌐 Project: AR/VR Phobia Simulation 🕶️
+We developed an immersive experience aimed at helping individuals confront and manage phobias through structured AR/VR-based simulations, creating a controlled and interactive environment for exposure and confidence-building.
+
+👩‍💻 My Role:
+I independently handled the Unity Development + Metaverse/VR environment integration — building the immersive simulation, designing interactions 🎮, and managing the overall VR experience flow. This project pushed my limits in the best possible way 💪 and strengthened my confidence in building XR solutions under real-time constraints.
+
+🤝 Team Contributions:
+✅ Kritika Paliwal – AI Bot development+Backend integration 🤖
+✅ Gyanvi Jha – Frontend + Non-VR experience 🎨
+✅ Manya Srivastava – Backend + Python integration for non-VR features 🧩
+✅ Varali Gupta  – PPT preparation 📌
+
+🙏 Gratitude & Acknowledgements:
+A sincere thank you to Anshuman Shastri Sir for organizing HackCelestia and also for judging the event.
+Thank you to Ina Ma’am for rewarding and encouraging us.
+Also, heartfelt thanks to Dr Saurabh Mukherjee Sir, Dr Manisha Jailia Ma’am, and Dr. Vaibhav Vyas Sir for guiding us throughout the process and evaluating us through different stages of the hackathon.
+
+This experience has been a strong milestone in my journey with Unity | XR | Metaverse | AI-integrated experiences 🚀, and I’m excited to build more meaningful and impactful solutions going forward. 🌟
+
+#HackCelestia #Hackathon #BanasthaliVidyapith #Unity #AR #VR #XR #Metaverse #AI #Innovation #TeamWork #WomenInTech
+
+477 reactions · 40 comments
+477 · 40 comments
+
+Post
+
+🌟 Honoured to Be Part of the 17th International Conference on Intelligent Human-Computer Interaction (IHCI 2025) 🌟
+
+From 14–16 November, I had the incredible opportunity to attend the 17th IHCI Conference held at Hotel Marriott, Jaipur, organised by Banasthali Vidyapith — an experience I will truly remember for a lifetime.
+
+The conference brought together brilliant minds from across the world, and I had the privilege to listen, learn, and interact with some of the most influential researchers and leaders in AI & HCI.
+
+🔹 Day 1 Highlights
+One of the most insightful sessions for me was the talk by Prof. Javed I. Khan (Kent State University, USA) on Conversational Ethics and the Sovereign AI Dilemma.
+During the Q&A, I asked a question on whether AI can be tricked or manipulated into performing actions it ideally shouldn’t — and receiving appreciation for my question from Prof. Javed himself was a moment of true encouragement for me.
+
+I also had meaningful interactions with:
+• Dr. Shivpal Singh (DRDO) — where we discussed applications of AI in modern missile systems.
+• Prof. KC Santosh (University of South Dakota, USA) — whose work on sustainable and human-inspired AI deeply resonated with me.
+• Prof. Wan-Young Chung (South Korea) and several others whose research broadened my understanding of the global AI landscape.
+
+Across the three days, the conference covered powerful themes like:
+✔ Ethical & Responsible AI
+✔ Human-Centered & Sustainable AI
+✔ AI in Defense and National Security
+✔ Advances in Vision, Speech & Interactive Technologies
+✔ Human–AI Collaboration
+✔ Generative AI, Cybersecurity, NLP for Social Good, and more.
+
+We also got the chance to enjoy authentic Rajasthani cuisine at Chokhi Dhani, and the final day concluded with crisp sessions on Generative AI, cybersecurity in HCI, and emerging directions in Human–AI collaboration.
+
+✨ Gratitude
+I am truly grateful to Banasthali Vidyapith for giving me this opportunity, and to Prof. Anshuman Shastri Sir and Ena Ma’am for organising everything so seamlessly and supporting us throughout the journey.
+My heartfelt thanks to the LitWits Community for extending this opportunity, and a special acknowledgment to Dr Monika Jain Ma’am, through whose role as the head of the Litwits Community we were able to be a part of this experience.
+
+These three days were filled with learning, curiosity, global perspectives, and conversations that will stay with me forever. Truly honoured to have been part of IHCI 2025. 🌟
+
+#IHCI2025 #AI #HumanComputerInteraction #Conferences #BanasthaliVidyapith #ArtificialIntelligence #Research #EthicalAI #WomenInTech #LearningJourney
+
+167 reactions · 4 comments
+167 · 4 comments
+
+Activity
+
+2,257 followers
+
+Follow
+Posts
+Comments
+Videos
+Images
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+2w • 
+
+𝗧𝗵𝗲𝗿𝗲 𝗰𝗼𝗺𝗲𝘀 𝗮 𝗽𝗼𝗶𝗻𝘁 𝘄𝗵𝗲𝗻 𝘆𝗼𝘂 𝘀𝘁𝗼𝗽 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗴𝘂𝗶𝗱𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝘀𝘁𝗮𝗿𝘁 𝗯𝗲𝗰𝗼𝗺𝗶𝗻𝗴 𝘀𝗼𝗺𝗲𝗼𝗻𝗲 𝗼𝘁𝗵𝗲𝗿𝘀 𝗹𝗼𝗼𝗸 𝘂𝗽 𝘁𝗼. 🎤✨
+
+I recently had the privilege of speaking at AlgoByte's Orientation, where I got to interact with first and second-year students and share my experiences throughout my college journey.
+From building the right roadmap and making the most of hackathons to preparing for internships, developing skills beyond academics, and grabbing opportunities at the right time—we spoke about it all. The most rewarding part was the Q&A session, where students openly shared their doubts and we had some really meaningful conversations.
+ 
+Apart from being a speaker, I was also happy to contribute as the member at AlgoByte. Being involved in planning and executing the orientation, while working alongside an amazing team, made the experience even more fulfilling. It was wonderful to see the event run smoothly and receive such an enthusiastic response from the first and second-year students, making the orientation a great success.
+A heartfelt thank you to Dr. Vaibhav Vyas.   Sir and Dr. Monika Saxena Ma'am for their constant guidance, encouragement, and support throughout the event. Your mentorship made this experience even more meaningful.
+Grateful to my AlgoByte family and everyone who attended for making the event such a success. Looking forward to many more opportunities to learn, contribute, and help others grow along the way. 💙
+#AlgoByte #Orientation #Speaker #Mentorship #Hackathons #Internships #StudentCommunity #Leadership #TechCommunity #CollegeLife #Growth
+… more
+
+1/4
+
+237
+22
+1
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+2w • 
+
+Dear Flipkart and HirePro,
+
+What exactly was that assessment?
+
+Seriously, if you're going to conduct a hiring test where thousands of students are fighting for an opportunity, the bare minimum is to make sure your platform works.
+
+This wasn't one random glitch. It was issue after issue after issue.
+
+🚨 Internal server errors. Again.
+
+The same thing happened in Round 2. I thought, "Okay, they'll surely fix it this time." They didn't.
+
+This time, my test crashed midway. I still had 15+ minutes left to fix and submit my code, but I couldn't even get back into the assessment.
+
+Then came the screen-sharing issue. Even after granting permission, the platform kept asking for it over and over again, trapping me in an endless loop.
+
+And I wasn't the only one. Many students couldn't even log in. Others kept facing server errors throughout the test.
+
+I skipped my classes, risked my attendance, sat there for almost 3 hours, and instead of solving problems, I spent that time refreshing pages and hoping the platform would finally work.
+
+Months of preparation shouldn't come down to whether your servers can handle the traffic.
+
+If your platform can't handle thousands of candidates, conduct the test in shifts, improve your infrastructure, or use a better platform. But please don't let students lose opportunities because of technical failures that are completely out of their control.
+
+This wasn't just frustrating. It was unfair.
+
+We deserve better.
+
+#Flipkart #HirePro #CampusHiring #Placements #Recruitment #TechnicalIssues #Students
+… more
+
+1/2
+
+205
+11
+​
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+1mo • 
+
+"Not every test teaches you a new algorithm. Some teach you how to think."
+
+Hi, Connections! 👋
+
+I wanted to share a recent experience that reminded me there's always something new to learn.
+
+A few days ago, I was excited to be shortlisted for the Amazon ML Summer School 2026 assessment after clearing the SOP screening round. Today, I appeared for the online test.
+
+The assessment was designed to test much more than coding skills:
+✨ 2 LeetCode-style coding problems
+✨ 20 MCQs covering aptitude, mathematics, and core concepts
+⏱️ All under strict time constraints, a minute for the mcqs, and only 20mins for the coding problems, where every minute mattered.
+
+I found myself deeply invested in one of the coding questions, trying different approaches and looking for the optimal solution. Before I knew it, time had slipped away.
+
+Will I make it to the next round? Honestly, I don't know.
+
+But if there's one lesson I'd love to share with anyone preparing for similar assessments, it's this:
+
+--> Knowing the solution is only half the battle. Knowing when to move on is just as important.
+
+Time management, prioritization, and staying calm under pressure are skills we often underestimate, yet they're what many competitive assessments are really evaluating.
+
+I'm grateful to Amazon for this opportunity and for the lessons that came with it. Every challenge—whether it ends in success or not—adds another layer to your growth.
+
+For now, it's back to the grind. More DSA, more problem-solving, more timed practice, and a better version of myself with every question I solve.
+
+The journey continues. 🚀
+
+#Amazon #AmazonMLSummerSchool #DSA #MachineLearning #CompetitiveProgramming #ProblemSolving #Learning #StudentDeveloper #GrowthMindset #CodingJourney
+… more
+
+125
+3
+​
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+3mo • Edited • 
+
+This one deserves a bold tick — Barclays Summer Internship 2027 ✅✨
+
+What started with just a simple PPT for a hackathon turned into one of the most defining experiences for me.
+
+We built and submitted our prototype/project during the hackathon, and what made the journey truly special was the constant support around us.
+From mid-evaluation mentor interactions with Amit Kamra sir and Smita Mam, their guidance literally shaped the hackathon— every conversation helped refine our thinking and pushed us to do better.
+
+Then came the rounds within the hackathon itself — a mix of communication, problem-solving, and mini interview-style interactions that tested not just what we built, but how we think.
+
+After that, I had the opportunity to go through the final interview with Bharat Batra, which was again an incredibly insightful and encouraging experience.
+
+And then… that moment.
+✨ Selected for Barclays Summer Internship 2027. ✨
+
+From a basic idea to a full prototype, from mentor feedback to interviews — this journey has been nothing short of surreal.
+
+I’m genuinely very grateful for every mentor who guided, every interaction that shaped me, and every opportunity that came my way. None of this would've been possible without my amazing team HackHers!🤍
+
+Moments like these remind me how powerful it is to just start, stay consistent, and be open to learning.
+
+Excited for what’s ahead 🚀
+
+#Barclays #Internship #SummerInternship2027 #Hackathon #Grateful #LearningJourney #Growth #Opportunities
+… more
+
+1/2
+
+497
+83
+​
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+3mo • Edited • 
+
+Just went live with my 3D portfolio.
+
+This version was built with a clear focus on experimenting beyond traditional frontend — integrating 3D elements while still keeping the UI clean, structured, and usable.
+
+Tech stack:
+• HTML, CSS, JavaScript
+• Three.js for the 3D environment and interactions
+• Custom-designed UI with a minimal, futuristic approach
+
+The goal was to create something that feels interactive without compromising performance or clarity.
+
+There are still a few minor bugs to fix and small refinements pending, but the core experience is in place.
+
+🔗 Live: https://lnkd.in/gedCwkP3
+💻 GitHub: https://lnkd.in/ghMFExd4
+
+Would appreciate feedback on both the design and overall experience.
+
+#frontend #webdevelopment #threejs #uiux #javascript #portfolio
+… more
+
+This is a modal window.
+
+The media could not be loaded, either because the server or network failed or because the format is not supported.
+378
+38
+1
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+4mo • Edited • 
+
+✨ Barclays Hack O Hire 2026 ✨
+
+Grateful to have been shortlisted for the Barclays Hack O Hire Hackathon and to get the opportunity to visit the Barclays Gurugram campus — truly an inspiring experience and a glimpse into the corporate world.
+
+I’m also incredibly thankful to my mentors, Amit Kamra Sir and Smita Mam — they were absolutely amazing throughout the journey. From guiding us at every step to sharing deep industry insights and pushing us to think better, they genuinely made this experience so much more valuable.
+
+💡 Our Project
+Along with my amazing teammates — Manya Srivastava , Kritika Upreti, Nihanshi Goyal, and Bhumi Agarwal— we worked on SAR Narrative Generation with Audit Trail, focusing on building a structured and reliable solution ensuring transparency and traceability.
+
+🚀 Interview Experience
+I’m also excited to share that I was further shortlisted for the interview round after the hackathon— my first ever interview experience! It went really well, and I had the opportunity to interact with Bharat Batra Sir- my interviewer. Regardless of the outcome, I’ll definitely carry all the learnings forward.
+
+🌱 What I Gained
+This journey strengthened my problem-solving, teamwork, and presentation skills, and also helped me identify areas to improve — especially technical depth and confidence under pressure.
+
+Truly grateful for this experience and everything it taught me! 🚀
+
+#Barclays #HackOHire #HackathonExperience #Learning #Growth #FirstInterview
+… more
+
+1/5
+
+400
+24
+​
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+4mo • 
+
+✨ An unforgettable learning experience at AI India Impact Pre-Summit! ✨
+
+I recently had the privilege of being a part of the AI India Impact Pre-Summit held at my college, where brilliant minds from across India—academicians, industry leaders, and innovators—came together to share their perspectives on Artificial Intelligence.
+
+We were honored to host distinguished dignitaries from premier institutes and organizations such as IIT Guwahati, IIT Patna, JNU Delhi, DST New Delhi, along with leaders from companies like Maruti Suzuki, HSBC, and Rippling. Listening to experts like Dr. Ritika Jain (IIT Guwahati), Dr. Teena Sharma (IIT Guwahati), Dr. Sriparna Saha (IIT Patna), Ms. Deepika Sandeep (HSBC), and Mrs. Sonie Saxena (Maruti Suzuki India) was truly insightful. Their talks gave us a deeper understanding of how AI is shaping industries and solving real-world problems. 🚀
+
+I’m proud to have contributed as a Tech Team Member in the organizing committee, where I managed the technical aspects of the event. This role helped me enhance my problem-solving skills, teamwork, and ability to handle real-time challenges behind the scenes.
+
+A heartfelt thanks to my mentors Dr. Sushil Buriya Sir, Dr. Vaibhav Vyas Sir, Pooja Asopa, PhD Ma’am, and Neelam Sharma Ma’am for their constant guidance and support throughout this journey. 🙏
+
+One of the most special moments was meeting Parul Chaddha didi, a proud alumna of our college and currently working at Rippling. Interacting with her and learning about her journey from campus to industry was truly inspiring! 💫
+
+This summit was not just an event—it was a platform to learn, connect, and grow. Grateful to be a part of such an impactful experience and excited for what lies ahead! 🌟
+
+#AIIndiaImpact #AISummit #TechTeam #ArtificialIntelligence #StudentExperience #LearningByDoing #Networking #Gratitude #WomenInTech
+… more
+
+1/4
+
+222
+2
+​
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+5mo • 
+
+🚀 Excited to share a milestone in my Open Source journey!
+
+I participated in OpenCode ’25 by IIIT Allahabad (Dec–Jan), where I contributed to multiple open-source projects, collaborated with developers nationwide, and explored diverse technologies through real-world work.
+
+💻 Contributed using a broad tech stack:
+C • C# • Python • HTML • CSS • JavaScript • React • Unity • JSON • Frontend Development • Backend Basics • Git • GitHub • Git Bash • Markdown • Documentation • Bug Fixes • Feature Implementation • UI Improvements • Version Control • Collaboration via Issues & Pull Requests
+
+✨ Honored to be recognized among the Top 15 Contributors of the program.
+
+Grateful for the learning, collaboration, and hands-on experience with production-level code. Excited to keep building, exploring, and contributing to the open-source community 🚀
+
+#OpenSource #OpenCode25 #IIITAllahabad #GitHub #Unity #React #Python #DeveloperJourney #WomenInTech
+… more
+
+1/2
+
+90
+6
+​
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+6mo • Edited • 
+
+✨🏆 Grateful. Excited. Proud — and still processing this win! 🏆✨
+I’m thrilled to share that my team secured 2nd Runner-Up (3rd Prize) at Hack Celestia — a National Level Hackathon hosted at Banasthali Vidyapith . Competing with teams from outside Banasthali (including international participation 🌍) and finishing in the Top 3 has been an unforgettable moment for us.
+
+This was an intense 48-hour hackathon, which effectively extended close to three days, and tested us at every step — rapid building ⚡, continuous iteration 🔁, last-minute debugging 🛠️, and high-pressure rounds. After going through three rounds of eliminations, standing among the winners feels incredibly rewarding 🥹✨ — it truly reflects the hard work and teamwork we put in.
+
+🌐 Project: AR/VR Phobia Simulation 🕶️
+We developed an immersive experience aimed at helping individuals confront and manage phobias through structured AR/VR-based simulations, creating a controlled and interactive environment for exposure and confidence-building.
+
+👩‍💻 My Role:
+I independently handled the Unity Development + Metaverse/VR environment integration — building the immersive simulation, designing interactions 🎮, and managing the overall VR experience flow. This project pushed my limits in the best possible way 💪 and strengthened my confidence in building XR solutions under real-time constraints.
+
+🤝 Team Contributions:
+✅ Kritika Paliwal – AI Bot development+Backend integration 🤖
+✅ Gyanvi Jha – Frontend + Non-VR experience 🎨
+✅ Manya Srivastava – Backend + Python integration for non-VR features 🧩
+✅ Varali Gupta  – PPT preparation 📌
+
+🙏 Gratitude & Acknowledgements:
+A sincere thank you to Anshuman Shastri Sir for organizing HackCelestia and also for judging the event.
+Thank you to Ina Ma’am for rewarding and encouraging us.
+Also, heartfelt thanks to Dr Saurabh Mukherjee Sir, Dr Manisha Jailia Ma’am, and Dr. Vaibhav Vyas Sir for guiding us throughout the process and evaluating us through different stages of the hackathon.
+
+This experience has been a strong milestone in my journey with Unity | XR | Metaverse | AI-integrated experiences 🚀, and I’m excited to build more meaningful and impactful solutions going forward. 🌟
+
+#HackCelestia #Hackathon #BanasthaliVidyapith #Unity #AR #VR #XR #Metaverse #AI #Innovation #TeamWork #WomenInTech
+… more
+
+1/9
+
+477
+40
+​
+
+Manvi Mishra
+
+ 
+ • 3rd+
+
+Incoming summer’27 intern @Barclays | Finalist @Barclays Hack O Hire26’  |HackCelestia 26’ 2nd RunnerUp | OpenCode’25 | GSSoC’25  | Team Lead GD @algobyte | Ex-SocialMedia @thehravshabdonka | B Tech CSE’28 
+
+8mo • Edited • 
+
+✨ Built My Own Kawaii Productivity App – Because I Actually Needed One! ✨
+As someone who studies, codes, designs, journals, and tries to stay organized… I realized I kept jumping between 5–6 different apps just to get through one study session.
+ So I decided to fix the problem the way we developers do — I built my own. 💁‍♀️💻
+Presenting my Kawaii Pomodoro Productivity App — a tiny project that started as a personal requirement and grew into a full desktop application!
+🌸 What it includes:
+ ⏳ Pomodoro Timer – clean, simple, and cute enough to make me want to sit and study.
+ 🎨 Theme Settings – pastel, kawaii, cozy… you name it, I added it.
+ 🎵 Music Settings – focus lo-fi, rain sounds, soft piano.
+ 📝 To-Do List – because crossing tasks feels addictive.
+ 📅 Calendar – track your day, week, and upcoming deadlines.
+ 📔 Journal Section – write quick reflections or study logs.
+ 🐻 Motivation Bear Buddy – shows quotes + tiny encouragements when you need them the most. (My favorite part.)
+🛠️ Tech Stack:
+ HTML • CSS • JavaScript → bundled into a desktop app with Electron.js.
+ This was my first time deploying something as a desktop app — learned packaging, building executables, handling assets, and optimizing UI for desktop screens. Super satisfying experience!
+What started as “I need a better study setup” ended up teaching me:
+ ✔️ UI/UX for productivity tools
+ ✔️ App structuring
+ ✔️ Packaging apps with Electron
+ ✔️ And the joy of creating tools for your own life 🚀
+If anyone wants to try it or give feedback, I’d love that! 💗
+ Here’s to building things we wish existed ✨
+👉 Check out the project on my GitHub: https://lnkd.in/d-Cebxgd
+… more
+
+This is a modal window.
+
+The media could not be loaded, either because the server or network failed or because the format is not supported.
+126
+22
+​
+Show all
+More profiles for you
+
+Kritika Paliwal 
+
+· 3rd+
+
+B Tech ECE’28 ||  HackCelestia 26’ 2nd RunnerUp || She-Fi’14  Scholar || GSSoC’25 || HPAIR’25 || Graphic Designing Core Team Member @algobyte
+
+Message
+
+Manya Srivastava
+
+· 3rd+
+
+Incoming Summer Intern ’27 @ Barclays | B.Tech CSE 2028 | Hack-O-Hire Finalist (Barclays) | 2nd Runner-Up – HackCelestia ’26 | Open Source Contributor @ GSSoC ’25 | She-Fi Scholar | Aspiring Software Engineer
+
+Message
+
+Nihanshi Goyal 
+
+· 3rd+
+
+Banasthali Vidyapith | BTech IT Student | Software Systems & Problem Solving
+
+Message
+
+Kritika Upreti 
+
+· 3rd+
+
+BTech CSE’28 | Finalist @Barclays Hack-O-Hire’26 | Content Creator Head @Petals NGO | Registration Team @HackCelestia
+
+Message
+
+Isha Joshi 
+
+· 3rd+
+
+B.Tech CSE ’28 | Summer ’26 Intern @ DRDO | National-Level Debater | Internal SIH ’25 Winner
+
+Message
+Show all
+People you may know
+
+From Manvi's school
+
+Neetika Saxena 
+
+· 3rd+
+
+Team Lead- Recruitment II Client Handling II End to End Recruitment || Talent Acquisition || Stakeholder Management ||
+
+Connect
+
+Nandita Asthana 
+
+· 3rd+
+
+Technical Consultant @ Salesforce
+
+Connect
+
+Shivani Arora
+
+· 3rd+
+
+Senior Manager at Deloitte Haskins & Sells
+
+Connect
+
+Dr. Alpana Sawhney
+
+· 3rd+
+
+Certified Licensed Principal at Abu Dhabi Indian School - Branch 1
+
+Connect
+
+Priya Kedia
+
+· 3rd+
+
+Recruiter
+
+Connect
+Show all
+You might like
+
+Pages for you
+
+Google Workspace
+
+Software Development
+
+928,811 followers
+
+Follow
+
+Anthropic
+
+Research Services
+
+4,471,315 followers
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+
+================================================================================
+PROFILE 2
+================================================================================
+
+URL:
+https://www.linkedin.com/in/shivaaam-garg
+
+Shivam Garg
+
+He/Him
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+Greater Delhi Area
+
+·
+
+Contact info
+
+Vivekananda Institute of Professional Studies
+
+500+
+
+connections
+
+Message
+Follow
+More
+About
+
+Technology is most useful when it solves real problems. That's what motivates the way I build software and AI applications.
+I'm an AI and Software Engineer with experience developing intelligent applications, automation tools, and data-driven solutions using Python, Oracle APEX, PL/SQL, SQL, and Generative AI. My work focuses on combining software engineering with AI to simplify complex workflows, improve productivity, and make information easier to access.
+
+Some of the projects I've built include a multi-agent AI system, a Text-to-SQL application that converts natural language into SQL queries, a domain-specific AI assistant powered by Gemini, and a GDPR-compliant data privacy management platform developed with Oracle APEX and PL/SQL. I've also worked on data collection and analysis projects, giving me experience in building complete solutions from data processing to user-facing applications.
+
+My core areas of interest include Generative AI, AI agents, backend development, intelligent automation, database systems, REST APIs, and data analytics. I enjoy learning new technologies and applying them to practical, scalable solutions.
+Outside of projects, I've earned certifications in AI, cloud, and data technologies and was part of the winning team at HackVSIT 6.0.
+
+I'm currently looking for opportunities in AI Engineering, Software Engineering, and related technology roles where I can contribute to building impactful products, continue learning from experienced teams, and solve meaningful engineering challenges.
+… more
+
+Featured
+
+Post
+
+Proud to share that I have successfully completed the "Introduction to Internet of Things" course by NPTEL with a score of 79%!
+
+This course deepened my understanding of IoT fundamentals, architecture, and real-world applications a valuable step in my journey toward becoming a tech-savvy professional in the connected world.
+
+Grateful to NPTEL and the instructors for delivering such a well-structured and enriching course.
+
+Sharing my certificate below as a token of this milestone!
+#NPTEL #InternetOfThings #IoT #LearningJourney #CertificateAchievement #TechSkills #Upskilling #StudentLife #EngineeringNPTEL
+
+ Introduction to Internet of Things 
+
+34 reactions · 2 comments
+34 · 2 comments
+
+Post
+
+🌟 First Hackathon, First Victory! 🏆
+I’m thrilled to share that my team, NeoDrive, secured 1st place at HackVSIT 6.0, hosted by VIPS on April 25–26! 🚀💻
+This being my very first hackathon, the experience was both challenging and incredibly rewarding. Collaborating, coding overnight, and presenting our solution in such a competitive environment taught me more than any classroom ever could!
+A huge shoutout and heartfelt thanks to:
+ 🔹 The organisers — ACE Society, for putting together a stellar event
+ 🔹 All our mentors and teachers, whose support and guidance made this possible
+ 🔹 My amazing teammates, without whom this achievement wouldn't have been possible
+Swipe through the memories 📸 and here's to many more milestones ahead! 💪
+
+VIPS  TC - School of Engineering & Technology, ACE - Association of Computer Enthusiasts
+
+#Hackathon #HackVSIT #NeoDrive #Winner #TechInnovation #StudentLife #Gratitude #CodingJourney #FirstHackathon #Teamwork #VSIT #ACE
+
+73 reactions · 6 comments
+73 · 6 comments
+
+Activity
+
+616 followers
+
+Follow
+Posts
+Comments
+Videos
+Images
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+1mo • 
+
+🚀 Plot twist: I actually published it.
+
+After approximately 47 existential crises, 12 complete existential redesigns, and a non-zero number of coffees, my personal portfolio is finally LIVE.
+
+Here is a short story of how we got here:
+
+Phase 1: Build a perfectly fine website.
+Phase 2: Look at it the next day and decide it’s absolute garbage.
+Phase 3: Redesign the entire thing from scratch before anyone even saw the first version.
+Phase 4: Repeat Steps 1–3 for an embarrassing number of months.
+
+I literally put myself through a corporate-level rebranding phase for a website that had zero active users. Imposter syndrome is a hell of a drug, and perfectionism is just procrastination in a fancy trench coat.
+But today, I decided that "done is better than perfect." (And honestly, I just needed to free up the 50 open browser tabs I was using for inspiration).
+It’s got my work, my journey, and a piece of my sanity baked right into the code.
+
+👉 Check it out here: https://lnkd.in/gC9y9mWt
+
+To anyone else sitting on a draft, a project, or a portfolio because it’s "not ready yet"—launch it anyway. The world won't end, and it turns out the internet is actually pretty nice.
+
+Let me know what you think! (But if you find a bug, please DM me gently; my heart can only take so much today).
+
+#WebDevelopment #Portfolio #UIUX #PersonalBrand #GrowthMindset #DoneIsBetterThanPerfect
+… more
+
+This is a modal window.
+
+The media could not be loaded, either because the server or network failed or because the format is not supported.
+11
+​
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+4mo • 
+
+The RTO Data Drop
+
+The five-day office mandate just lost its strongest argument.
+The retention data released last week shows that tech companies forcing strict return-to-office policies are bleeding senior engineering talent to their remote-first competitors. We are watching a real-time migration where high-performers are actively choosing autonomy, leaving rigid legacy companies with empty buildings and stalled roadmaps.
+
+- Mandatory RTO is functioning as a stealth layoff for your most experienced developers.
+- Async-first teams are shipping updates 30% faster than teams trapped in mandatory sync meetings.
+- The "spontaneous collaboration" happening at the office is mostly just people on Zoom calls with cancelling headphones.
+
+A desk does not dictate output; a healthy engineering culture does.
+Is the physical office an outdated tool, or are we just using it wrong?
+
+Do you do your best deep work at home, or at a dedicated corporate desk?
+… more
+
+3
+​
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+4mo • 
+
+The Technical Debt Avalanche
+
+AI coding assistants didn't replace junior developers.
+Industry reports from last week reveal that auto-generated code has actually created a massive spike in unmaintainable technical debt. Teams are shipping features faster than ever, but senior engineers are now spending half their week debugging complex, machine-written logic that nobody fully understands.
+
+- Writing code has become instantaneous, but reading and maintaining it takes twice as long.
+- The bottleneck shifted from "writing boilerplate" to "system architecture and security reviews."
+- We traded slow human execution for highly accelerated, automated bugs.
+
+We automated the typing, but we forgot to automate the comprehension.
+Are coding assistants actually making us faster, or just helping us write bugs at scale?
+
+Have you noticed a drop in code quality recently, or is your team using these tools smoothly?
+… more
+
+3
+​
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+4mo • 
+
+The Death of the Mega-Model
+
+Bigger AI models are officially a waste of money.
+
+Last week, the tech market quietly pivoted away from massive cloud-based LLMs toward highly efficient Small Language Models (SLMs) running locally on devices. Enterprise leaders finally looked at their staggering cloud compute bills and realized that paying a supercomputer to draft a follow-up email is a terrible financial strategy.
+
+- On-device AI just proved it can handle 80% of daily tasks with zero latency.
+- Cloud infrastructure costs are eating into profit margins faster than companies can scale.
+- Privacy-first local processing is becoming the default enterprise standard, not a luxury feature.
+
+We are entering an era where efficiency beats sheer compute power.
+
+Are we looking at the rise of "Tiny Tech," or am I missing a piece of the puzzle?
+Is your company still chasing the biggest cloud model, or optimizing for local efficiency?
+… more
+
+5
+​
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+4mo • 
+
+The Shift from Chatbots to Robotics (Travis Kalanick's "Atoms")
+
+The screen is no longer the final frontier for artificial intelligence.
+
+We spent the last three years obsessing over text generators and image creators while the real shift quietly happened in the warehouse. With ex-Uber CEO Travis Kalanick launching "Atoms" to automate mining and logistics, the race for physical, embodied AI has officially begun.
+
+- Amazon just deployed its millionth robot to handle complex warehouse logistics.
+- BMW factories now have cars navigating themselves through the production line.
+- The focus has shifted from "writing software" to "embodied autonomous movement."
+
+Software is no longer just eating the world; it is physically rebuilding it.
+
+Are we prepared for a hardware-first tech ecosystem, or are we too distracted by chatbots?
+
+Will the next massive tech unicorn be a software platform, or a robotics manufacturing plant?
+… more
+
+5
+​
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+4mo • 
+
+The "AI Agent" Reality Check
+
+You cannot automate a broken process and expect a miracle.
+
+Everyone is rushing to deploy autonomous "AI Agents" to handle their tech stack in 2026. But according to recent enterprise data, throwing a sophisticated agent at a fundamentally flawed internal process just creates faster chaos.
+
+38% of organizations are piloting agents, but only 11% have them in production.
+
+Companies are discovering their messy data infrastructure cannot support autonomous actions.
+
+The real bottleneck isn't the AI model; it's the lack of human strategic redesign.
+We don't need smarter AI right now; we need cleaner internal operations.
+
+Are we expecting AI to fix our management problems, or are we actually building durable foundations?
+
+Have you seen an AI agent actually improve a workflow, or just speed up the mistakes?
+… more
+
+3
+​
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+5mo • 
+
+The most broken algorithm in tech isn't written in Python.
+It's the entry-level hiring process.
+The system is trapped in a massive deadlock.
+
+Companies demand three years of production experience for roles explicitly labeled as "Junior." Meanwhile, a massive wave of freshers is stuck endlessly grinding through portfolio clones that no one has the bandwidth to review.
+
+- You need the experience to get the job.
+- You need the job to get the experience.
+- The math simply doesn't add up for the class of 2026.
+
+We are caught in an infinite loop of automated rejections and "we went with another candidate" emails.
+
+Is the true "Entry-Level" role officially dead, or are we just using the wrong metrics to evaluate potential?
+
+Senior leaders, what made you take a chance on a fresher back when you were building your first team?
+… more
+
+8
+1
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+5mo • 
+
+I have exactly 0 years of "official" corporate experience.
+
+But I’ve worked a grueling full-time job every single day for the last six months.
+The job hunt in 2026 requires more resilience, strategy, and mental endurance than most actual corporate sprints.
+
+My daily standups consist of whiteboarding algorithms alone in my room and debugging projects while my inbox fills with automated rejections. Yet, navigating this silence has taught me more about my own grit than a comfortable 9-to-5 ever could.
+
+- Debugging a deployment failure at 2 AM is real problem-solving.
+- Pivoting my tech stack based on shifting 2026 market trends is real adaptability.
+- Pushing forward after being ghosted by 50 recruiters is real stakeholder management.
+
+I might lack a corporate badge, but I do not lack the reps.
+Are we placing too much weight on corporate logos, or am I missing a piece of the puzzle?
+
+If you were hiring today, would you bet on the candidate with a comfortable resume, or the one fighting tooth and nail just to get in the room?
+… more
+
+6
+​
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+5mo • 
+
+Anthropic just dropped their new "observing exposure" article, and my group chat is currently pricing out off-grid cabins.
+
+One half of my network is convinced their codebase is now taking notes on their emotional state for future performance reviews. The other half is calmly explaining that this is just a standard safety protocol to keep the models from quietly ruining our lives.
+
+- "We are being watched and evaluated," says the developer who willingly streams their entire life on Twitch.
+- "Relax, it's just a data-mapping alignment constraint," replies the senior engineer who still uses 'password123' for their admin login.
+- The reality is somewhere in the middle, buried under forty pages of academic math that neither side actually finished reading.
+
+It feels less like a technical update and more like a corporate trust fall.
+
+Are we looking at the tech equivalent of a helicopter parent, or am I missing a piece of the puzzle?
+
+Are you team "panic," or team "it's for the greater good"?
+
+#Anthropic #SoftwareEngineering #TechHumor #AISafety
+… more
+
+5
+​
+​
+
+Shivam Garg
+
+ 
+ • 3rd+
+
+AI Engineer | Software Engineer | Python, GenAI, Oracle APEX, SQL | Building AI Automation, RAG & Data-Driven Applications
+
+5mo • 
+
+Most CTOs are quietly drowning in "Update Fatigue."
+
+Last week, a VP of Engineering told me they’ve stopped reading AI newsletters entirely because the signal-to-noise ratio has hit zero. We are currently obsessed with the "What" (the latest model) while completely ignoring the "How" (the actual integration debt).
+
+- The Depth Trap: Deep-diving into every weekly beta release wastes elite engineering hours on tools that might be deprecated by Tuesday.
+- The Execution Gap: Focusing on the "New" prevents teams from actually shipping stable, AI-augmented features that customers care about.
+- The Mental Toll: Your best builders are feeling behind, even when they’re ahead, because the goalposts move every six hours.
+
+The solution isn't more speed; it's a "Selective Ignorance" framework that prioritizes utility over novelty.
+Am I being too cynical, or are you also feeling the "Update Fatigue" setting in?
+… more
+
+3
+​
+​
+Show all
+More profiles for you
+
+Swastik Gulati 
+
+· 3rd+
+
+Data Engineer @ZS | AI & ML
+
+Message
+
+Sahil Sharma 
+
+· 3rd+
+
+MCA Graduate | MERN Stack Developer | Web Development | JAVA
+
+Message
+
+Deveshwar Dev Manral 
+
+· 3rd+
+
+PhD Scholar (CSE) | MNNIT Allahabad | UGC NET Qualified | Gate Qualified:2024 | MCA 2025 VIPS GGSIPU
+
+Message
+
+Ishika Kansal
+
+· 3rd+
+
+Ex-Intern @ Centre for Railway Information System (CRIS) |Aspiring Software Developer | MCA Candidate | Skilled in Python, ML, Data Science & Web Development | Open to Opportunities
+
+Message
+
+Sahil Rajput 
+
+· 3rd+
+
+Aspiring Software Engineer | MERN Stack • DSA • Azure Certified • Building with Claude API
+
+Message
+Show all
+People you may know
+
+From Shivam's school
+
+Vidushi Garg 
+
+· 3rd+
+
+HUL | Luxury & Beauty Marketing | Brand Storytelling | Building Desire Through Strategy
+
+Connect
+
+Jaya Jha 
+
+· 3rd+
+
+Disputes & Commercial  Lawyer | LL.M. NLU Delhi | Arbitration · IBC · White-Collar Crime | Delhi & Mumbai
+
+Connect
+
+Tripti Timsina
+
+· 3rd+
+
+Real Estate Specialist | Investment Advisor at Hogar Properties
+
+Connect
+
+Pukhraj Malhotra 
+
+· 3rd+
+
+Partner at Savitur Legal Chambers
+
+Connect
+
+Diya Dhingra 
+
+· 3rd+
+
+EY | Lawyer | Company Secretary | Compliance and Corporate Governance Professional
+
+Connect
+Show all
+You might like
+
+Pages for you
+
+Anthropic
+
+Research Services
+
+4,471,326 followers
+
+Follow
+
+Visual Studio Code
+
+Software Development
+
+503,306 followers
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+
+================================================================================
+PROFILE 3
+================================================================================
+
+URL:
+https://www.linkedin.com/in/caitlin-gee
+
+Caitlin Gee
+
+She/Her
+
+Biomedical sciences PhD student at Icahn School of Medicine, Mt. Sinai
+
+New York City Metropolitan Area
+
+·
+
+Contact info
+
+Icahn School of Medicine at Mount Sinai
+
+176
+
+connections
+
+Message
+Follow
+More
+Activity
+
+177 followers
+
+Follow
+
+Caitlin has no recent posts
+
+Recent posts Caitlin shares will be displayed here.
+
+Show all
+More profiles for you
+
+Ciara Murphy
+
+· 3rd+
+
+Peace Corps Volunteer | UCLA Alum
+
+Message
+
+Martina Wecera
+
+· 3rd+
+
+Lic. Bioquímica - UNLP | Cancer Immunology and Computational Biology
+
+Message
+
+Amanda Jacobs
+
+· 3rd+
+
+Clinical Research Assistant
+
+Message
+
+William McKibben 
+
+· 3rd+
+
+Harvard College Class of 2025B.A. Molecular and Cellular Biology Russian Studies, secondary
+
+Message
+
+Andrew Ong 
+
+· 3rd+
+
+Full Time @ Tesla Optimus
+
+Message
+Show all
+People you may know
+
+From Caitlin's school
+
+Jorge R. Petit, MD 
+
+· 3rd+
+
+Behavioral Healthcare Leader
+
+Connect
+
+Craig Landau MD 
+
+· 3rd+
+
+Former President & CEO at Purdue Pharma L.P. Taking a breath and plan to re-enter the industry to do great things with highly motivated, bright and committed colleagues who possess an ownership mentality. Stay tuned.
+
+Connect
+
+Sugene Kim 
+
+· 3rd+
+
+Double Board-Certified Plastic Surgeon and Founder of SGK Plastic Surgery
+
+Connect
+
+Sherwin Zargaroff, M.D.
+
+· 3rd+
+
+Urologist at Aventura Urology Specialist-Miami
+
+Connect
+
+Scott A. Meyer, MD, FAANS 
+
+· 3rd+
+
+Neurosurgeon @ Maxim Brain and Spine | American Board of Neurological Surgeons
+
+Connect
+Show all
+You might like
+
+Pages for you
+
+Hotel jobs globally
+
+Hospitality
+
+381,664 followers
+
+1 school alum works here
+
+Follow
+
+Claude
+
+Technology, Information and Internet
+
+3,085,487 followers
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+
