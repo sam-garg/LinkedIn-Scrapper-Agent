@@ -1,260 +1,222 @@
-# Automated Candidate Profile Scraping & Enrichment Pipeline
+# LinkedIn Profile URL Discovery Tool
 
-An intelligent, multi-agent web scraping and data enrichment engine designed to automate candidate profile discovery, document parsing, and structured data storage. The pipeline combines web scrapers, OCR, and LLM-driven structured extraction to build complete candidate profiles from LinkedIn, resumes, and portfolio links with high accuracy. 
-"THIS PIPELINE IS STILL IN BUILD PHASE."
-
-## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Architecture & Workflow](#-architecture--workflow)
-- [Key Features](#-key-features)
-- [Agent Breakdown](#-agent-breakdown)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Configuration](#-configuration)
-- [Database Schema (Supabase)](#-database-schema-supabase)
-- [Troubleshooting & Challenges](#-troubleshooting--known-challenges)
-- [License](#-license)
+A modular, Playwright-based tool for discovering and collecting LinkedIn profile URLs using a **user-authenticated browser session**.
 
 ---
 
-## 🔍 Overview
+## 1. Project Overview
 
-Manual candidate sourcing across multiple platforms leads to fragmented data, missing information, and high effort. This pipeline automates the entire candidate ingestion process:
+This tool searches LinkedIn for profiles matching keyword queries, extracts profile URLs directly from the search result cards, and saves the results to text and CSV files.
 
-- Searches for candidate profiles.
-- Scrapes core LinkedIn profile data.
-- Parses Resumes / CVs (PDFs, DOCX) whenever LinkedIn data contains null or missing fields.
-- Scrapes Portfolios / GitHub / Personal Sites if missing fields persist.
-- Validates & Merges all data sources into a standardized record.
-- Stores clean records into Supabase and exports them to CSV.
+**It does NOT navigate to individual profiles, scrape profile details, or perform any qualification/filtering.** All validation is deferred to a downstream processing pipeline.
+
+**The user logs in manually.** The tool never stores your LinkedIn credentials, never injects session cookies, and never attempts to bypass security checkpoints or rate limits.
 
 ---
 
-## 🏗 Architecture & Workflow
+## 2. Features
+
+- **High Speed**: Does not open individual profiles, only paginates through search results.
+- **Persistent browser session**: Log in once, reuse the session on every run.
+- **Broad query support**: Search with arbitrary keyword queries or use a preconfigured postgraduate discovery set.
+- **University query expansion**: Automatically generates additional search queries for university targets.
+- **Cross-run deduplication**: Normalises and dedups discovered URLs against `data/output/linkedin_urls.txt`.
+- **Checkpoint & restriction detection**: Stops cleanly and saves collected data if a CAPTCHA, login wall, or rate limit is encountered.
+- **Lightweight data collection**: Optionally captures card-visible fields (name, headline, location) when present.
+
+---
+
+## 3. Architecture
 
 ```
-                        +-----------------------+
-                        |        Start          |
-                        +-----------------------+
-                                    |
-                                    v
-                        +-----------------------+
-                        |  Agent 1: Search      |
-                        | (Name, Role, Company) |
-                        +-----------------------+
-                                    |
-                                    v
-                        +-----------------------+
-                        |      URL Builder      |
-                        +-----------------------+
-                                    |
-                                    v
-                        +-----------------------+
-                        |  Agent 2: Scraper     |
-                        |   (LinkedIn Profile)  |
-                        +-----------------------+
-                                    |
-                                    v
-                        +-----------------------+
-                        | Null Values Present?  |
-                        +-----------------------+
-                         /                     \
-                   (Yes)/                       \(No)
-                       v                         v
-       +-------------------------------+         |
-       |  Resume Scraper Sub-Agent     |         |
-       |  (PDF, DOCX Parsing & OCR)    |         |
-       +-------------------------------+         |
-                       |                         |
-                       v                         |
-       +-------------------------------+         |
-       |     Extract Missing Data      |         |
-       +-------------------------------+         |
-                       |                         |
-                       v                         |
-       +-------------------------------+         |
-       |    Still Null Values?         |         |
-       +-------------------------------+         |
-        /                             \          |
-  (Yes)/                               \(No)     |
-      v                                 v        v
-+------------------------+          +-------------------+
-| Portfolio Scraping     | -------> |    Merge Data     |
-| (GitHub/Website/etc.)  |          | (LinkedIn+CV+Web) |
-+------------------------+          +-------------------+
-                                              |
-                                              v
-                                 +-------------------------+
-                                 | Agent 3: Validation     |
-                                 +-------------------------+
-                                              |
-                                              v
-                                 +-------------------------+
-                                 | Stores in Supabase &    |
-                                 | Exports CSV             |
-                                 +-------------------------+
+linkedin-scraper/
+├── src/
+│   ├── __init__.py        Package marker
+│   ├── main.py            CLI entry point and run orchestration
+│   ├── config.py          Settings loader (settings.json + .env)
+│   ├── models.py          DiscoveredProfile dataclass
+│   ├── browser.py         Playwright session management
+│   ├── linkedin.py        LinkedIn restriction detection
+│   ├── search.py          People-search URL construction + URL/card collection
+│   ├── exporters.py       CSV and TXT writers
+│   ├── utils.py           URL normalisation, dedup, and logging setup
+│   └── exceptions.py      Custom exception hierarchy
+├── config/
+│   ├── settings.json      All configurable application settings
+│   └── universities.json  US university list (used for query expansion)
+├── data/
+│   ├── browser_profile/   Playwright persistent browser profile (auto-created)
+│   └── output/
+│       ├── linkedin_urls.txt   List of discovered URLs (one per line)
+│       └── linkedin_leads.csv  Lightweight lead details
+├── tests/
+│   ├── test_extractors.py  Card extraction unit tests
+│   ├── test_leads.py       Exporter unit tests
+│   ├── test_login.py       Authentication unit tests
+│   ├── test_search.py      Search and limit passthrough unit tests
+│   └── test_utils.py       Utility unit tests
+├── .env.example           Environment variable template
+├── requirements.txt       Python dependencies
+└── README.md              This file
+```
+
+Data flow:
+
+```
+CLI args
+  → config.py (load settings)
+  → browser.py (launch Chromium with persistent profile)
+  → browser.py (verify/wait for LinkedIn login)
+  → search.py (build search URLs → paginate and collect card URLs/details)
+  → exporters.py (append URLs to TXT, save lightweight details to CSV)
 ```
 
 ---
 
-## ✨ Key Features
+## 4. Installation
 
-- **Multi-Source Enrichment Pipeline**: Cascading architecture sequentially checks LinkedIn, Resume files, and Personal Websites to resolve missing data.
-- **Intelligent Document Sub-Agent**: Handles PDF parsing, multi-column resumes, and OCR for scanned documents using vision/text models.
-- **LLM-Driven Extraction**: Guarantees strict output schemas for fields like work experience, contact details, and technical skills using structured output parsing (Pydantic / Function Calling).
-- **Automated Validation & Retry Handling**: Agent 3 cross-checks field completeness and triggers heuristic or manual fallbacks if critical data remains missing.
-- **Supabase Sync & CSV Export**: Dual storage setup for live database queries and downloadable bulk datasets.
+### Requirements
 
----
+- Python 3.11 or later
+- Windows, macOS, or Linux
 
-## 🤖 Agent Breakdown
+### Step 1 — Clone or download
 
-| Agent / Sub-Agent       | Responsible For                                                      | Primary Inputs                  | Outputs                         |
-| ----------------------- | -------------------------------------------------------------------- | ------------------------------- | ------------------------------- |
-| **Agent 1: Search Agent** | Sourcing profile URLs using candidate metadata.                      | Name, Role, Company             | Search results, target URLs     |
-| **URL Builder**           | Normalizing and constructing valid profile URLs.                     | Search Results                  | Cleaned URLs                    |
-| **Agent 2: Scraper Agent** | Fetching public/authenticated LinkedIn data.                        | LinkedIn URL                    | Raw Profile JSON                |
-| **Resume Sub-Agent**      | Ingesting PDFs/DOCX, applying OCR, and extracting missing attributes. | Resume File, Missing Fields list | Structured Profile Delta JSON   |
-| **Portfolio Scraper**     | Crawling personal websites, GitHub repositories, or portfolios.      | Portfolio URL                   | Structured Profile Delta JSON   |
-| **Agent 3: Validation Agent** | Schema validation, deduplication, backfilling missing attributes, storage trigger. | Merged Profile JSON    | Validated Record                |
+```cmd
+cd C:\Users\YourName\Desktop
+# Place the linkedin-scraper folder here
+cd linkedin-scraper
+```
 
----
+### Step 2 — Create a virtual environment
 
-## 🛠 Tech Stack
+```cmd
+python -m venv .venv
+.venv\Scripts\activate
+```
 
-| Component                    | Technology                                                                 |
-| ---------------------------- | -------------------------------------------------------------------------- |
-| **Core Runtime**             | Python 3.10+                                                               |
-| **Agent Framework / Orchestration** | LangChain / LangGraph (or Custom Python Async Pipeline)              |
-| **Scraping & Automation**    | Playwright / Selenium / BeautifulSoup4                                     |
-| **PDF & Document Processing**| pdfplumber, PyMuPDF (fitz), python-docx, pytesseract                       |
-| **Extraction & LLMs**        | OpenAI API (GPT-4o / GPT-4o-mini) with Pydantic validation                 |
-| **Database & Storage**       | Supabase (PostgreSQL)                                                      |
-| **Exporting**                | Pandas / CSV                                                               |
+### Step 3 — Install Python dependencies
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.10+
-- Node.js (if running headless browser proxies)
-- Tesseract OCR (if processing image-based scanned resumes locally)
-- Supabase Account & Database instance
-
-### 1. Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-org/candidate-scraper-pipeline.git
-cd candidate-scraper-pipeline
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
+```cmd
 pip install -r requirements.txt
-
-# Install Playwright browsers
-playwright install
 ```
 
-### 2. Environment Setup
+### Step 4 — Install Playwright browsers
 
-Create a `.env` file in the project root:
+```cmd
+playwright install chromium
+```
+
+### Step 5 — Copy the environment file
+
+```cmd
+copy .env.example .env
+```
+
+---
+
+## 5. First-Time LinkedIn Login
+
+The first time you run the scraper, LinkedIn will not have an active session:
+
+1. Run any command (see examples below).
+2. A **Chromium browser window opens** and navigates to LinkedIn.
+3. **Log in manually** in that browser window — enter your email, password, and complete any 2FA if prompted.
+4. Once you are on the LinkedIn feed, the tool detects the login and continues automatically.
+5. Your session is saved in `data/browser_profile/` for future runs.
+
+---
+
+## 6. CLI Commands
+
+### Postgraduate Query Discovery (Recommended)
+
+Uses a broad postgraduate discovery query set (e.g. MS, Master's, MBA) and expands them with target universities:
+
+```cmd
+python -m src.main --postgraduate --limit 100
+```
+
+### Basic query search
+
+```cmd
+python -m src.main --query "MBA" --limit 50
+```
+
+### With location filter
+
+```cmd
+python -m src.main --query "Software Engineer" --limit 50 --location "United States"
+```
+
+### Disable cross-run deduplication
+
+```cmd
+python -m src.main --query "Product Manager" --limit 20 --no-dedup
+```
+
+### Help
+
+```cmd
+python -m src.main --help
+```
+
+---
+
+## 7. Configuration
+
+### .env
+
+Copy `.env.example` to `.env` and edit as needed:
 
 ```env
-# LLM Provider
-OPENAI_API_KEY=your_openai_api_key
-
-# Supabase Configuration
-SUPABASE_URL=https://your-project.supabase.co
-SUPABASE_KEY=your_supabase_anon_or_service_role_key
-
-# Scraper Credentials / Proxies (If Applicable)
-PROXY_SERVER=http://your-proxy-provider.com:8080
-PROXY_USERNAME=your_username
-PROXY_PASSWORD=your_password
+SCRAPER_HEADLESS=false         # true = no visible browser window
+DEFAULT_LIMIT=10               # default number of profiles per run
+LINKEDIN_EMAIL=your_email      # optional: for auto-login
+LINKEDIN_PASSWORD=your_pass    # optional: for auto-login
+LINKEDIN_AUTO_LOGIN=false      # true = fill login form automatically
 ```
 
-### 3. Usage
+### config/settings.json
 
-Run the pipeline by passing candidate metadata:
-
-```bash
-python main.py --name "John Doe" --role "Senior Software Engineer" --company "Tech Corp"
-```
-
-To run a batch job from an input file:
-
-```bash
-python batch_runner.py --input candidates.json --output-dir ./exports
-```
+Contains settings for:
+- Timeouts
+- Delays between search result pages
+- Search page limits
+- LinkedIn restriction detection body phrases and URL signals
 
 ---
 
-## ⚙️ Configuration
+## 8. Output Format
 
-You can customize agent behavior in `config/agent_config.yaml`:
+### Plain Text — `data/output/linkedin_urls.txt`
 
-```yaml
-pipeline:
-  max_retries: 3
-  enable_portfolio_scraping: true
+A plain-text file containing one canonical profile URL per line:
 
-agents:
-  scraper_agent:
-    timeout_seconds: 30
-    headless: true
-
-  resume_sub_agent:
-    ocr_engine: "tesseract"          # options: tesseract, vision_llm
-    supported_formats: ["pdf", "docx", "doc", "png", "jpg"]
-
-  validation_agent:
-    strict_mode: false               # Set true to fail pipeline if nulls persist after all retries
+```
+https://www.linkedin.com/in/person1
+https://www.linkedin.com/in/person2
 ```
 
----
+### CSV — `data/output/linkedin_leads.csv`
 
-## 🗄 Database Schema (Supabase)
+Contains lightweight, card-visible fields extracted directly from the search result card (no profile navigation performed):
 
-The pipeline maps extracted candidate data to a standard `candidates` table in Supabase:
+| Column | Description |
+|---|---|
+| `linkedin_url` | Normalised canonical profile URL |
+| `name` | Person's name |
+| `headline` | Professional headline |
+| `location` | Location string |
+| `search_query` | Query that discovered the profile |
+| `scraped_at` | Discovery timestamp |
 
-```sql
-CREATE TABLE candidates (
-    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-    full_name TEXT NOT NULL,
-    current_role TEXT,
-    company TEXT,
-    email TEXT UNIQUE,
-    phone TEXT,
-    linkedin_url TEXT,
-    portfolio_url TEXT,
-    skills TEXT[],
-    experience JSONB,
-    education JSONB,
-    source_completeness NUMERIC,
-    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
-);
-```
+*Note: Missing fields default to `N/A`.*
 
 ---
 
-## ⚠️ Troubleshooting & Known Challenges
+## 9. Troubleshooting
 
-| Challenge                      | Solution / Mitigation                                                                                       |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **Complex Resume Layouts**     | The sub-agent uses pdfplumber paired with LLM visual/structural extraction to handle multi-column layouts.  |
-| **LinkedIn Rate Limits & Anti-Bot Security** | Uses rotating proxies, randomized user agents, and browser session delays within Agent 2.      |
-| **OCR Misreadings on Scanned PDFs** | Pydantic regex patterns validate email, phone, and date formats before saving; LLMs handle character repair contextually. |
-| **Persistent Null Fields**     | The Validation Agent flags remaining nulls and routes them to a manual/heuristic backfill queue before export. |
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+- **`ModuleNotFoundError: No module named 'src'`**: Make sure you run the commands from the `linkedin-scraper` project root directory.
+- **Login required redirect**: Session expired. Log in again manually when the browser opens.
+- **Checkpoints/CAPTCHAs**: If LinkedIn challenges the session, complete the verification manually in the browser and the tool will continue.

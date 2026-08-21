@@ -1,0 +1,16 @@
+# LinkedIn Profile Scraper — Python dependencies
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Then install the Playwright browser:
+#   playwright install chromium
+
+# Browser automation
+playwright==1.49.1
+
+# Environment variable loading
+python-dotenv==1.0.1
+
+# Testing framework
+pytest==8.3.4
