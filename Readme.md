@@ -1,260 +1,238 @@
-# Automated Candidate Profile Scraping & Enrichment Pipeline
+# LinkedIn Scraper + Education Filter Pipeline
 
-An intelligent, multi-agent web scraping and data enrichment engine designed to automate candidate profile discovery, document parsing, and structured data storage. The pipeline combines web scrapers, OCR, and LLM-driven structured extraction to build complete candidate profiles from LinkedIn, resumes, and portfolio links with high accuracy. 
-"THIS PIPELINE IS STILL IN BUILD PHASE."
+This repository implements a LinkedIn profile screening workflow aimed at identifying candidates who meet a specific academic pattern:
 
-## 📌 Table of Contents
+- Undergraduate education from India
+- Postgraduate education abroad
+- Postgraduate degree year within a target range
+- Only profiles with clear evidence are kept
 
-- [Overview](#-overview)
-- [Architecture & Workflow](#-architecture--workflow)
-- [Key Features](#-key-features)
-- [Agent Breakdown](#-agent-breakdown)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Configuration](#-configuration)
-- [Database Schema (Supabase)](#-database-schema-supabase)
-- [Troubleshooting & Challenges](#-troubleshooting--known-challenges)
-- [License](#-license)
+The current project is a practical pipeline of Python scripts and Playwright-based scraping, not a full multi-agent orchestration framework.
 
 ---
 
-## 🔍 Overview
+## Overview
 
-Manual candidate sourcing across multiple platforms leads to fragmented data, missing information, and high effort. This pipeline automates the entire candidate ingestion process:
+The workflow is built around the following idea:
 
-- Searches for candidate profiles.
-- Scrapes core LinkedIn profile data.
-- Parses Resumes / CVs (PDFs, DOCX) whenever LinkedIn data contains null or missing fields.
-- Scrapes Portfolios / GitHub / Personal Sites if missing fields persist.
-- Validates & Merges all data sources into a standardized record.
-- Stores clean records into Supabase and exports them to CSV.
+1. Collect candidate LinkedIn profile URLs.
+2. Open each profile and extract the education section.
+3. Save the education data for review or processing.
+4. Use Gemini to decide whether the profile matches the filtering rules.
+5. Keep only profiles that satisfy the required UG/PG logic.
+6. Export the selected URLs and supporting extracted profile data.
+
+This is designed for a very specific use case: filtering profiles for international postgraduate study candidates based on education history.
 
 ---
 
-## 🏗 Architecture & Workflow
+## Pipeline Flow
 
-```
-                        +-----------------------+
-                        |        Start          |
-                        +-----------------------+
-                                    |
-                                    v
-                        +-----------------------+
-                        |  Agent 1: Search      |
-                        | (Name, Role, Company) |
-                        +-----------------------+
-                                    |
-                                    v
-                        +-----------------------+
-                        |      URL Builder      |
-                        +-----------------------+
-                                    |
-                                    v
-                        +-----------------------+
-                        |  Agent 2: Scraper     |
-                        |   (LinkedIn Profile)  |
-                        +-----------------------+
-                                    |
-                                    v
-                        +-----------------------+
-                        | Null Values Present?  |
-                        +-----------------------+
-                         /                     \
-                   (Yes)/                       \(No)
-                       v                         v
-       +-------------------------------+         |
-       |  Resume Scraper Sub-Agent     |         |
-       |  (PDF, DOCX Parsing & OCR)    |         |
-       +-------------------------------+         |
-                       |                         |
-                       v                         |
-       +-------------------------------+         |
-       |     Extract Missing Data      |         |
-       +-------------------------------+         |
-                       |                         |
-                       v                         |
-       +-------------------------------+         |
-       |    Still Null Values?         |         |
-       +-------------------------------+         |
-        /                             \          |
-  (Yes)/                               \(No)     |
-      v                                 v        v
-+------------------------+          +-------------------+
-| Portfolio Scraping     | -------> |    Merge Data     |
-| (GitHub/Website/etc.)  |          | (LinkedIn+CV+Web) |
-+------------------------+          +-------------------+
-                                              |
-                                              v
-                                 +-------------------------+
-                                 | Agent 3: Validation     |
-                                 +-------------------------+
-                                              |
-                                              v
-                                 +-------------------------+
-                                 | Stores in Supabase &    |
-                                 | Exports CSV             |
-                                 +-------------------------+
+```text
+linkedin_urls.json
+        |
+        v
+filter_education.py
+        |
+        v
+education_extracted.txt
+        |
+        v
+main.py
+        |
+        +--> filter_prompt.txt
+        |
+        +--> filter_results.txt
+        |
+        +--> selected_urls.json
+        |
+        v
+scraper_authenticated.py
+        |
+        +--> linkedin_profiles_data.txt
+        +--> extracted_profiles.txt
+        |
+        v
+filter_pg_students.py
+        |
+        +--> Final filtered candidate URLs / classification results
 ```
 
 ---
 
-## ✨ Key Features
+## Files in this Repository
 
-- **Multi-Source Enrichment Pipeline**: Cascading architecture sequentially checks LinkedIn, Resume files, and Personal Websites to resolve missing data.
-- **Intelligent Document Sub-Agent**: Handles PDF parsing, multi-column resumes, and OCR for scanned documents using vision/text models.
-- **LLM-Driven Extraction**: Guarantees strict output schemas for fields like work experience, contact details, and technical skills using structured output parsing (Pydantic / Function Calling).
-- **Automated Validation & Retry Handling**: Agent 3 cross-checks field completeness and triggers heuristic or manual fallbacks if critical data remains missing.
-- **Supabase Sync & CSV Export**: Dual storage setup for live database queries and downloadable bulk datasets.
+### Core scripts
+
+- `main.py`  
+  Reads the extracted education text and a filtering prompt, splits the raw profile content, extracts LinkedIn URLs, and uses Gemini to decide whether to keep each profile.
+
+- `filter_education.py`  
+  Opens each LinkedIn profile in a browser session, looks for the education section, and saves the extracted education details to `education_extracted.txt`.
+
+- `scraper_authenticated.py`  
+  Reads `selected_urls.json`, loads each selected profile, extracts raw profile text, and stores the result in `linkedin_profiles_data.txt` and `extracted_profiles.txt`.
+
+- `filter_pg_students.py`  
+  Performs a stricter education-only screening pass. It opens profiles, scrapes only the Education section, and uses Gemini to determine whether the UG is Indian and the PG is outside India, with a valid postgraduate year range.
+
+### Input and output files
+
+- `linkedin_urls.json`  
+  Source list of LinkedIn profile URLs.
+
+- `selected_urls.json`  
+  URLs selected by the filtering logic.
+
+- `education_extracted.txt`  
+  Consolidated education content extracted from raw profiles.
+
+- `filter_prompt.txt`  
+  The decision prompt used by Gemini to classify a profile as KEEP or REJECT.
+
+- `filter_results.txt`  
+  Final output showing the Gemini decision for each profile.
+
+- `linkedin_profiles_data.txt`  
+  Raw profile text extracted from selected LinkedIn pages.
+
+- `extracted_profiles.txt`  
+  Structured or normalized output from the authenticated scraping pass.
 
 ---
 
-## 🤖 Agent Breakdown
+## Actual Business Rule
 
-| Agent / Sub-Agent       | Responsible For                                                      | Primary Inputs                  | Outputs                         |
-| ----------------------- | -------------------------------------------------------------------- | ------------------------------- | ------------------------------- |
-| **Agent 1: Search Agent** | Sourcing profile URLs using candidate metadata.                      | Name, Role, Company             | Search results, target URLs     |
-| **URL Builder**           | Normalizing and constructing valid profile URLs.                     | Search Results                  | Cleaned URLs                    |
-| **Agent 2: Scraper Agent** | Fetching public/authenticated LinkedIn data.                        | LinkedIn URL                    | Raw Profile JSON                |
-| **Resume Sub-Agent**      | Ingesting PDFs/DOCX, applying OCR, and extracting missing attributes. | Resume File, Missing Fields list | Structured Profile Delta JSON   |
-| **Portfolio Scraper**     | Crawling personal websites, GitHub repositories, or portfolios.      | Portfolio URL                   | Structured Profile Delta JSON   |
-| **Agent 3: Validation Agent** | Schema validation, deduplication, backfilling missing attributes, storage trigger. | Merged Profile JSON    | Validated Record                |
+The filtering logic follows the rules defined in `filter_prompt.txt` and implemented in `filter_pg_students.py`.
 
----
+The target profile is:
 
-## 🛠 Tech Stack
+- UG education is from India
+- PG education is from outside India
+- Both UG and PG are supported by clear evidence in the profile
+- The PG is an actual postgraduate degree, not a short course or certificate
+- PG year is between 2024 and 2028
 
-| Component                    | Technology                                                                 |
-| ---------------------------- | -------------------------------------------------------------------------- |
-| **Core Runtime**             | Python 3.10+                                                               |
-| **Agent Framework / Orchestration** | LangChain / LangGraph (or Custom Python Async Pipeline)              |
-| **Scraping & Automation**    | Playwright / Selenium / BeautifulSoup4                                     |
-| **PDF & Document Processing**| pdfplumber, PyMuPDF (fitz), python-docx, pytesseract                       |
-| **Extraction & LLMs**        | OpenAI API (GPT-4o / GPT-4o-mini) with Pydantic validation                 |
-| **Database & Storage**       | Supabase (PostgreSQL)                                                      |
-| **Exporting**                | Pandas / CSV                                                               |
+The project is tuned for Indian-student filtering and international postgraduate admissions screening.
 
 ---
 
-## 🚀 Getting Started
+## Required Environment
 
-### Prerequisites
-
-- Python 3.10+
-- Node.js (if running headless browser proxies)
-- Tesseract OCR (if processing image-based scanned resumes locally)
-- Supabase Account & Database instance
-
-### 1. Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-org/candidate-scraper-pipeline.git
-cd candidate-scraper-pipeline
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Install Playwright browsers
-playwright install
-```
-
-### 2. Environment Setup
-
-Create a `.env` file in the project root:
+Create a `.env` file in the project root with the required API key:
 
 ```env
-# LLM Provider
-OPENAI_API_KEY=your_openai_api_key
-
-# Supabase Configuration
-SUPABASE_URL=https://your-project.supabase.co
-SUPABASE_KEY=your_supabase_anon_or_service_role_key
-
-# Scraper Credentials / Proxies (If Applicable)
-PROXY_SERVER=http://your-proxy-provider.com:8080
-PROXY_USERNAME=your_username
-PROXY_PASSWORD=your_password
+GEMINI_API_KEY=your_google_gemini_api_key
 ```
 
-### 3. Usage
+For the authenticated scraping flow, additional session data may be required via a LinkedIn browser session or a stored Playwright state file such as `storage_state.json`.
 
-Run the pipeline by passing candidate metadata:
+---
+
+## Installation
 
 ```bash
-python main.py --name "John Doe" --role "Senior Software Engineer" --company "Tech Corp"
+pip install -r requirements.txt
+playwright install chromium
 ```
 
-To run a batch job from an input file:
+If you are using a local Python environment:
 
 ```bash
-python batch_runner.py --input candidates.json --output-dir ./exports
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+playwright install chromium
 ```
 
 ---
 
-## ⚙️ Configuration
+## Typical Run Order
 
-You can customize agent behavior in `config/agent_config.yaml`:
+### 1. Extract education from profile URLs
 
-```yaml
-pipeline:
-  max_retries: 3
-  enable_portfolio_scraping: true
-
-agents:
-  scraper_agent:
-    timeout_seconds: 30
-    headless: true
-
-  resume_sub_agent:
-    ocr_engine: "tesseract"          # options: tesseract, vision_llm
-    supported_formats: ["pdf", "docx", "doc", "png", "jpg"]
-
-  validation_agent:
-    strict_mode: false               # Set true to fail pipeline if nulls persist after all retries
+```bash
+python filter_education.py
 ```
 
----
+This writes education data into `education_extracted.txt`.
 
-## 🗄 Database Schema (Supabase)
+### 2. Filter with Gemini using the prompt
 
-The pipeline maps extracted candidate data to a standard `candidates` table in Supabase:
-
-```sql
-CREATE TABLE candidates (
-    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-    full_name TEXT NOT NULL,
-    current_role TEXT,
-    company TEXT,
-    email TEXT UNIQUE,
-    phone TEXT,
-    linkedin_url TEXT,
-    portfolio_url TEXT,
-    skills TEXT[],
-    experience JSONB,
-    education JSONB,
-    source_completeness NUMERIC,
-    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
-);
+```bash
+python main.py
 ```
 
+This reads the education text and prompt, then writes selected candidates into `selected_urls.json` and the decision results into `filter_results.txt`.
+
+### 3. Scrape full selected profiles
+
+```bash
+python scraper_authenticated.py
+```
+
+This reads the selected URLs and produces raw and extracted profile data.
+
+### 4. Run the stricter PG/UG classification pass
+
+```bash
+python filter_pg_students.py --urls linkedin_urls.json --out filtered_candidates.json
+```
+
+This is the final filter pass that checks for Indian UG + foreign PG + valid PG year window.
+
 ---
 
-## ⚠️ Troubleshooting & Known Challenges
+## Notes on the Current Implementation
 
-| Challenge                      | Solution / Mitigation                                                                                       |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **Complex Resume Layouts**     | The sub-agent uses pdfplumber paired with LLM visual/structural extraction to handle multi-column layouts.  |
-| **LinkedIn Rate Limits & Anti-Bot Security** | Uses rotating proxies, randomized user agents, and browser session delays within Agent 2.      |
-| **OCR Misreadings on Scanned PDFs** | Pydantic regex patterns validate email, phone, and date formats before saving; LLMs handle character repair contextually. |
-| **Persistent Null Fields**     | The Validation Agent flags remaining nulls and routes them to a manual/heuristic backfill queue before export. |
+- The repository is focused on education-based candidate filtering rather than a generic resume / portfolio enrichment engine.
+- The scraping logic depends on Playwright and browser session state.
+- Gemini is used as the classification model for KEEP / REJECT decisions.
+- The project currently expects a real LinkedIn login session or stored browser context for authenticated profile access in some stages.
+- The logic is highly targeted to one recruitment/academic screening use case and is not a universal candidate pipeline.
 
 ---
 
-## 📄 License
+## Example Output Pattern
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+A selected profile is typically kept when Gemini produces a result such as:
+
+```text
+FINAL DECISION: KEEP
+
+NAME: John Doe
+UG_INSTITUTION: Indian Institute of Technology Delhi
+UG_COUNTRY: India
+PG_INSTITUTION: University of Michigan
+PG_COUNTRY: United States
+PG_START_YEAR: 2024
+PG_END_YEAR: 2026
+```
+
+A rejected profile usually fails because:
+
+- UG is not in India
+- PG is not clearly abroad
+- PG is not a real degree
+- The profile lacks evidence
+- The PG year is outside the required window
+
+---
+
+## Summary
+
+This repository is best understood as a LinkedIn education-based candidate filter pipeline:
+
+- gather URLs
+- scrape education data
+- classify with Gemini
+- keep only Indian UG + foreign PG matches
+- export selected profile URLs and extracted evidence
+
+It is a focused screening workflow for identifying high-potential candidates based on study history, not a broad data warehouse or multi-source enrichment system.
+
+---
+
+## License
+
+This project is provided as-is for internal or research use. Add a license file if you want to publish it publicly.
