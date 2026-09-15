@@ -1,0 +1,19 @@
+# Environment & Credentials (NEVER COMMIT)
+.env
+*.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Scraper Browser Profiles & Sensitive Data
+data/browser_profile/
+LinkedIn-Scrapper-Agent-final-url-scraper/data/browser_profile/
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,102 @@
+LINKEDIN EDUCATION EXTRACTION
+================================================================================
+
+================================================================================
+PROFILE 1
+================================================================================
+
+URL:
+https://www.linkedin.com/in/manvi-mishra-3b6326343/
+
+EDUCATION:
+Education
+
+Banasthali Vidyapith
+
+Bachelor of Technology - BTech, Computer Science
+
+2024 – 2028
+
+Little Flower School , Gorakhpur
+
+HighSchool
+
+Show all 3 educations
+
+================================================================================
+PROFILE 2
+================================================================================
+
+URL:
+https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+
+EDUCATION:
+Education
+
+Welingkar Institute of Management
+
+Postgraduate Degree, Marketing/Marketing Management, General
+
+Jul 2015 – May 2017
+
+University of Mumbai
+
+Bachelor of Science - BS, Information Technology
+
+Jun 2009 – May 2012
+
+================================================================================
+PROFILE 3
+================================================================================
+
+URL:
+https://www.linkedin.com/in/anushwar/
+
+EDUCATION:
+Education
+
+Arizona State University
+
+Master of Science - MS, Computer Engineering (Computer Systems)
+
+Relevant Coursework:
+- CSE 507: Image Processing and Analysis
+- CSE 511: Data Processing at Scale
+- CSE 551: Foundations of Algorithms
+- CSE 575: Statistical Machine Learning
+- CSE 598: Data-Intensive Systems for Machine Learning
+- EEE 554: Probability & Random Processes
+- CSE 572: Data Mining
+- CSE 573: Semantic Web Mining
+- CSE 579: Knowledge Representation & Reasoning
+… more
+
+Visvesvaraya Technological University
+
+Bachelor of Engineering - BE, Computer Science
+
+================================================================================
+PROFILE 4
+================================================================================
+
+URL:
+https://www.linkedin.com/in/nikhileshgunnam/
+
+EDUCATION:
+Education
+
+Syracuse University College of Engineering and Computer Science
+
+Master of Science - MS
+
+Sep 2023 – May 2025
+
+ SQL, Java and +2 skills
+
+Vellore Institute of Technology
+
+Bachelor of Technology - BTech, Computer Science
+
+2019 – 2023
+
+ SQL, Java and +2 skills

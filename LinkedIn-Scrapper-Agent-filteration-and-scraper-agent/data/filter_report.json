@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.linkedin.com/in/nikhilesh-gunnam-12345",
+    "status": "skipped",
+    "reason": "blocked / private (HTTP 999)",
+    "ug_university": null,
+    "pg_university": null,
+    "pg_year": null,
+    "education": []
+  },
+  {
+    "url": "https://www.linkedin.com/in/aravind-kumar-67890",
+    "status": "skipped",
+    "reason": "blocked / private (HTTP 999)",
+    "ug_university": null,
+    "pg_university": null,
+    "pg_year": null,
+    "education": []
+  }
+]

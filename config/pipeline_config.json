@@ -1,0 +1,15 @@
+{
+  "stage1": {
+    "dir": "LinkedIn-Scrapper-Agent-final-url-scraper",
+    "urls_txt": "data/output/linkedin_urls.txt",
+    "leads_csv": "data/output/linkedin_leads.csv"
+  },
+  "stage2": {
+    "dir": "LinkedIn-Scrapper-Agent-filteration-and-scraper-agent",
+    "urls_json": "data/linkedin_urls.json",
+    "indian_unis": "data/clean_indian_universities.json",
+    "output_json": "data/indian_students_urls.json",
+    "report_json": "data/filter_report.json"
+  },
+  "pipeline_state": "data/pipeline_state.json"
+}

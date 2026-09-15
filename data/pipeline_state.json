@@ -1,0 +1,21 @@
+{
+  "processed_urls": {
+    "https://www.linkedin.com/in/nikhilesh-gunnam-12345": {
+      "status": "skipped",
+      "reason": "blocked / private (HTTP 999)",
+      "ug_university": null,
+      "pg_university": null,
+      "pg_year": null,
+      "processed_at": "2026-09-15T18:16:27.646672"
+    },
+    "https://www.linkedin.com/in/aravind-kumar-67890": {
+      "status": "skipped",
+      "reason": "blocked / private (HTTP 999)",
+      "ug_university": null,
+      "pg_university": null,
+      "pg_year": null,
+      "processed_at": "2026-09-15T18:16:27.646672"
+    }
+  },
+  "last_run": "2026-09-15T18:16:27.646672"
+}

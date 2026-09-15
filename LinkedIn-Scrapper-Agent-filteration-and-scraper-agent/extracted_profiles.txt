@@ -1,0 +1,25 @@
+EXTRACTED LINKEDIN PROFILE DATA
+================================================================================
+
+================================================================================
+PROFILE 1
+================================================================================
+
+URL:
+https://www.linkedin.com/in/nikhileshgunnam/
+
+Name: Nikhilesh Gunnam
+
+Contact Number: Not Found
+
+Email: Not Found
+
+Technology: Python, SQL, Cloud, Data Analytics, Software Development, Java, Machine Learning
+
+University:
+Syracuse University College of Engineering and Computer Science, Vellore Institute of Technology
+
+LinkedIn Link: Not Found
+
+Other Links: Not Found
+
